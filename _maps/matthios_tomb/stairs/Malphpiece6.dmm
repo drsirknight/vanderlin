@@ -11,7 +11,7 @@
 /turf/open/floor/cobblerock/alt,
 /area/under/tomb)
 "n" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/tomb)
 "v" = (
 /obj/machinery/light/fueled/wallfire/candle/r,

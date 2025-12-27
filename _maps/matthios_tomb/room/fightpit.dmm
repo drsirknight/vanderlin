@@ -87,7 +87,7 @@
 /turf/open/floor/ruinedwood/darker,
 /area/under/tomb)
 "gt" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb/indoors)
 "gu" = (
 /obj/structure/fluff/railing/border{
@@ -182,7 +182,7 @@
 /area/under/tomb)
 "nS" = (
 /obj/structure/fluff/walldeco/stone,
-/turf/closed/wall/mineral/stone/window/moss,
+/turf/closed/wall/mineral/stone/cobble/window/moss,
 /area/under/tomb)
 "nW" = (
 /obj/structure/door/viewport{
@@ -350,7 +350,7 @@
 /turf/open/floor/ruinedwood/darker,
 /area/under/tomb/indoors)
 "zb" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb)
 "zl" = (
 /obj/item/ore/coal,
@@ -394,7 +394,7 @@
 /turf/open/floor/hexstone,
 /area/under/tomb/indoors)
 "FZ" = (
-/turf/closed/wall/mineral/stone/window/moss,
+/turf/closed/wall/mineral/stone/cobble/window/moss,
 /area/under/tomb/indoors)
 "Gf" = (
 /obj/structure/fluff/railing/border{
@@ -584,7 +584,7 @@
 /turf/open/floor/ruinedwood/darker,
 /area/under/tomb)
 "Yv" = (
-/turf/closed/wall/mineral/stone/window/moss,
+/turf/closed/wall/mineral/stone/cobble/window/moss,
 /area/under/tomb)
 "YP" = (
 /obj/structure/bed/shit,

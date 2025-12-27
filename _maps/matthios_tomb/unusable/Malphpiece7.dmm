@@ -24,7 +24,7 @@
 /turf/open/floor/blocks/paving,
 /area/under/tomb/sewer)
 "g" = (
-/turf/closed/wall/mineral/decostone/fluffstone/reddish,
+/turf/closed/wall/mineral/stone/decostone/fluffstone/reddish,
 /area/under/tomb/cave)
 "m" = (
 /obj/item/weapon/knife/copper,
@@ -37,7 +37,7 @@
 /turf/open/floor/hexstone,
 /area/under/tomb/cave)
 "r" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/tomb/sewer)
 "v" = (
 /obj/item/gun/ballistic/revolver/grenadelauncher/bow/short,

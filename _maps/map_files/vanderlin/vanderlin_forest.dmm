@@ -268,7 +268,7 @@
 /turf/open/floor/cobblerock,
 /area/outdoors/woods)
 "eb" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/outdoors/mountains)
 "ef" = (
 /obj/structure/fluff/railing/wood,
@@ -279,7 +279,7 @@
 /area/indoors/dungeon)
 "en" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/indoors/dungeon)
 "es" = (
 /obj/item/rope/chain,
@@ -356,7 +356,7 @@
 /area/outdoors/woods)
 "fu" = (
 /obj/structure/fluff/walldeco/bath/wallrope,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/dungeon)
 "fv" = (
 /obj/structure/spider/stickyweb,
@@ -493,10 +493,10 @@
 /area/outdoors/woods)
 "gz" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/dungeon)
 "gE" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/outdoors/woods)
 "gF" = (
 /obj/structure/window/openclose{
@@ -535,7 +535,7 @@
 /turf/open/floor/herringbone,
 /area/indoors/dungeon)
 "gW" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/garrison)
 "gY" = (
 /obj/structure/table/wood/counter{
@@ -563,7 +563,7 @@
 /turf/open/floor/sandstone_tile/two,
 /area/indoors/dungeon)
 "hm" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/outdoors/woods)
 "hn" = (
 /obj/effect/decal/cobbleedge{
@@ -579,7 +579,7 @@
 /turf/open/floor/cobble,
 /area/indoors/dungeon)
 "hq" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town/shop)
 "hs" = (
 /obj/structure/stairs/stone,
@@ -615,7 +615,7 @@
 /turf/open/floor/tile/kitchen,
 /area/indoors/town/tavern)
 "hS" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town/garrison)
 "hU" = (
 /obj/structure/fluff/railing/border{
@@ -789,12 +789,12 @@
 "jm" = (
 /obj/structure/fluff/walldeco/vinez,
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/indoors/town/garrison)
 "jo" = (
 /obj/structure/fluff/walldeco/vinez,
 /obj/effect/decal/cleanable/dirt/dust,
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/dungeon)
 "jw" = (
 /obj/structure/fluff/railing/wood,
@@ -803,7 +803,7 @@
 "jz" = (
 /obj/structure/fluff/walldeco/vinez,
 /obj/structure/fluff/walldeco/bath/wallrope,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/dungeon)
 "jB" = (
 /obj/structure/stairs/stone{
@@ -972,7 +972,7 @@
 /turf/open/floor/ruinedwood/darker,
 /area/indoors/town/shop)
 "kY" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town)
 "la" = (
 /obj/structure/spider/stickyweb,
@@ -996,11 +996,11 @@
 /area/outdoors/mountains)
 "lv" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/dungeon)
 "lA" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/indoors/town/shop)
 "lC" = (
 /turf/open/floor/naturalstone,
@@ -1082,7 +1082,7 @@
 /area/indoors/town/tavern)
 "mt" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/indoors/town/tavern)
 "mx" = (
 /obj/item/trash/candle{
@@ -1179,7 +1179,7 @@
 /turf/open/floor/ruinedwood/turned/alt,
 /area/outdoors/woods)
 "nS" = (
-/turf/closed/wall/mineral/wooddark/window,
+/turf/closed/wall/mineral/wood/wooddark/window,
 /area/indoors/town/garrison)
 "nT" = (
 /obj/item/candle/infinite{
@@ -1221,7 +1221,7 @@
 	},
 /area/outdoors/woods)
 "ox" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/garrison)
 "oD" = (
 /obj/structure/gravemarker,
@@ -1236,7 +1236,7 @@
 	},
 /area/outdoors/mountains)
 "oF" = (
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/indoors/town/tavern/saiga)
 "oL" = (
 /obj/item/candle/yellow/lit/infinite{
@@ -1276,7 +1276,7 @@
 /area/indoors/town)
 "pq" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town/tavern/saiga)
 "pt" = (
 /obj/effect/decal/cleanable/dirt,
@@ -1540,11 +1540,11 @@
 /turf/open/floor/cobble,
 /area/indoors/town/garrison)
 "sd" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/outdoors/woods)
 "sk" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town/tavern)
 "ss" = (
 /mob/living/carbon/human/species/skeleton/npc/peasant,
@@ -1587,7 +1587,7 @@
 	icon_state = "walldec6"
 	},
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/dungeon)
 "sV" = (
 /obj/structure/fluff/railing/border,
@@ -1607,7 +1607,7 @@
 /turf/open/floor/dirt,
 /area/outdoors/woods)
 "sX" = (
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/outdoors/woods)
 "sZ" = (
 /obj/item/burial_shroud,
@@ -2023,7 +2023,7 @@
 /area/indoors/dungeon)
 "xP" = (
 /obj/structure/fluff/railing/border,
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/dungeon)
 "xR" = (
 /obj/structure/flora/grass/maneater/real,
@@ -2039,11 +2039,11 @@
 /turf/open/floor/cobble,
 /area/indoors/dungeon)
 "yg" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/outdoors/woods)
 "yl" = (
 /obj/structure/fluff/walldeco/painting/skull,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/dungeon)
 "ym" = (
 /obj/structure/rack/shelf/biggest,
@@ -2085,7 +2085,7 @@
 /turf/open/floor/dirt/road,
 /area/outdoors/woods)
 "yE" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/dungeon)
 "yI" = (
 /obj/structure/fluff/railing/tall/palisade{
@@ -2098,7 +2098,7 @@
 	dir = 5;
 	icon_state = "border"
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/dungeon)
 "yT" = (
 /obj/item/candle/yellow/lit/infinite{
@@ -2277,7 +2277,7 @@
 /turf/open/floor/cobblerock,
 /area/outdoors/mountains)
 "Bm" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town/tavern/saiga)
 "Bo" = (
 /obj/structure/stairs/stone{
@@ -2376,7 +2376,7 @@
 /turf/open/floor/tile/kitchen,
 /area/indoors/town/tavern)
 "Cf" = (
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/indoors/town/shop)
 "Ck" = (
 /turf/open/water/river{
@@ -2514,7 +2514,7 @@
 /area/indoors/cave)
 "Dw" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town/shop)
 "Dy" = (
 /obj/effect/decal/cleanable/dirt,
@@ -2576,7 +2576,7 @@
 /turf/open/floor/naturalstone,
 /area/indoors/cave)
 "DT" = (
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/indoors/town/garrison)
 "DU" = (
 /obj/structure/fluff/stonecoffin{
@@ -2887,7 +2887,7 @@
 /turf/open/floor/cobble,
 /area/indoors/town/garrison)
 "GP" = (
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/indoors/town/tavern)
 "GV" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -2924,7 +2924,7 @@
 /area/indoors/dungeon)
 "Hu" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/dungeon)
 "Hy" = (
 /turf/open/floor/rooftop{
@@ -2950,7 +2950,7 @@
 /area/outdoors/woods)
 "HK" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/outdoors/woods)
 "HN" = (
 /obj/structure/flora/tree/burnt,
@@ -3080,7 +3080,7 @@
 /area/indoors/dungeon)
 "Jh" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/indoors/town/garrison)
 "Jl" = (
 /obj/effect/decal/cleanable/dirt,
@@ -3502,7 +3502,7 @@
 /area/outdoors/woods)
 "NW" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town/garrison)
 "Oc" = (
 /obj/structure/chair/stool,
@@ -3603,7 +3603,7 @@
 /turf/open/water/cleanshallow/dirt,
 /area/outdoors/woods)
 "OC" = (
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/indoors/town)
 "OG" = (
 /obj/effect/decal/cleanable/blood/old,
@@ -3746,7 +3746,7 @@
 /obj/structure/fluff/walldeco/stone{
 	icon_state = "walldec6"
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/dungeon)
 "QA" = (
 /obj/structure/door/stone,
@@ -3843,7 +3843,7 @@
 /turf/open/floor/hexstone,
 /area/indoors/dungeon)
 "Rr" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/outdoors/woods)
 "Rs" = (
 /obj/effect/decal/cleanable/blood/splatter,
@@ -3876,7 +3876,7 @@
 /turf/open/water/swamp,
 /area/outdoors/woods)
 "RR" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/dungeon)
 "RU" = (
 /turf/open/floor/rooftop/green{
@@ -3946,7 +3946,7 @@
 "SY" = (
 /obj/structure/fluff/walldeco/vinez,
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/indoors/dungeon)
 "Tb" = (
 /obj/structure/kneestingers,
@@ -4119,7 +4119,7 @@
 /turf/open/floor/cobblerock,
 /area/outdoors/woods)
 "UP" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town/tavern)
 "UQ" = (
 /obj/item/candle/yellow/lit/infinite{
@@ -4275,7 +4275,7 @@
 "WX" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/dungeon)
 "WY" = (
 /obj/effect/decal/cleanable/blood/old,
@@ -4494,7 +4494,7 @@
 /turf/open/floor/twig,
 /area/indoors/town/tavern)
 "YP" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/indoors/dungeon)
 "YS" = (
 /obj/machinery/light/fueled/firebowl/stump,
@@ -4580,7 +4580,7 @@
 /area/outdoors/mountains)
 "ZU" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/indoors/town/tavern/saiga)
 "ZV" = (
 /turf/open/floor/grass,

@@ -14,7 +14,7 @@
 /area/under/tomb/indoors)
 "av" = (
 /obj/structure/fluff/walldeco/med4,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "aw" = (
 /obj/structure/closet/crate/drawer,
@@ -36,7 +36,7 @@
 /area/under/tomb/indoors)
 "aE" = (
 /obj/machinery/light/fueled/wallfire,
-/turf/closed/wall/mineral/decostone/cand,
+/turf/closed/wall/mineral/stone/decostone/cand,
 /area/under/tomb/indoors/royal)
 "aF" = (
 /obj/structure/window/stained/silver,
@@ -47,7 +47,7 @@
 /area/under/tomb/wilds)
 "aZ" = (
 /obj/machinery/light/fueled/wallfire/candle/blue/l,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "ba" = (
 /turf/open/floor/tile/kitchen,
@@ -61,7 +61,7 @@
 /area/under/tomb/indoors)
 "bj" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb)
 "bp" = (
 /obj/structure/table/stone_small,
@@ -80,7 +80,7 @@
 "bF" = (
 /obj/structure/fluff/walldeco/vinez,
 /obj/structure/fluff/walldeco/psybanner/red,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors/church)
 "bH" = (
 /obj/item/weapon/mace/woodclub/train_sword,
@@ -109,7 +109,7 @@
 /area/under/tomb/indoors/royal)
 "ca" = (
 /obj/structure/fluff/walldeco/psybanner/red,
-/turf/closed/wall/mineral/decostone/cand,
+/turf/closed/wall/mineral/stone/decostone/cand,
 /area/under/tomb/indoors/royal)
 "cc" = (
 /obj/structure/fluff/nest,
@@ -201,7 +201,7 @@
 "dm" = (
 /obj/structure/fluff/walldeco/painting/castle,
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors/church)
 "do" = (
 /obj/structure/flora/grass,
@@ -271,13 +271,13 @@
 /area/under/tomb/indoors)
 "ef" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors/church)
 "ei" = (
 /obj/structure/lever/hidden{
 	redstone_id = "L2"
 	},
-/turf/closed/wall/mineral/decostone{
+/turf/closed/wall/mineral/stone/decostone{
 	name = "suspicious stone wall"
 	},
 /area/under/tomb/indoors)
@@ -294,7 +294,7 @@
 /area/under/tomb)
 "eu" = (
 /obj/structure/fluff/walldeco/painting/seraphina,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors/church)
 "ew" = (
 /obj/structure/fluff/walldeco/vinez,
@@ -413,7 +413,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "L5"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "fH" = (
 /obj/structure/table/wood/reinf_long,
@@ -453,7 +453,7 @@
 	redstone_id = "L7"
 	},
 /obj/machinery/light/fueled/wallfire/candle/blue,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "gF" = (
 /obj/structure/flora/ausbushes/lavendergrass,
@@ -525,7 +525,7 @@
 /turf/open/floor/church,
 /area/under/tomb/indoors)
 "hr" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "hs" = (
 /obj/structure/door/stone,
@@ -540,7 +540,7 @@
 "hz" = (
 /obj/structure/fluff/walldeco/vinez,
 /obj/structure/fluff/walldeco/psybanner,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "hB" = (
 /obj/effect/decal/cleanable/dirt/cobweb/cobweb2,
@@ -595,7 +595,7 @@
 "ip" = (
 /obj/structure/mirror/fancy,
 /obj/structure/fluff/walldeco/med5,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "is" = (
 /obj/structure/fluff/psycross/crafted,
@@ -709,7 +709,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "L5"
 	},
-/turf/closed/wall/mineral/decostone/cand{
+/turf/closed/wall/mineral/stone/decostone/cand{
 	name = "suspicious stone wall"
 	},
 /area/under/tomb/indoors)
@@ -733,7 +733,7 @@
 /area/under/tomb/indoors)
 "ka" = (
 /obj/machinery/light/fueled/wallfire/candle/blue,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "kc" = (
 /obj/effect/spawner/map_spawner/loot/common,
@@ -758,7 +758,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "L8"
 	},
-/turf/closed/wall/mineral/decostone/cand{
+/turf/closed/wall/mineral/stone/decostone/cand{
 	name = "suspicious stone wall"
 	},
 /area/under/tomb/indoors)
@@ -792,19 +792,19 @@
 	redstone_id = "L10"
 	},
 /obj/effect/decal/cleanable/blood/tracks,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "kD" = (
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "L11"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "kE" = (
 /obj/structure/lever/hidden{
 	redstone_id = "L13"
 	},
-/turf/closed/wall/mineral/decostone/cand{
+/turf/closed/wall/mineral/stone/decostone/cand{
 	name = "suspicious stone wall"
 	},
 /area/under/tomb/indoors/royal)
@@ -830,7 +830,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "L1"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors/royal)
 "lp" = (
 /obj/structure/flora/ausbushes/sparsegrass,
@@ -874,7 +874,7 @@
 /area/under/tomb/indoors/church)
 "lS" = (
 /obj/structure/fluff/walldeco/psybanner/red,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors/church)
 "lV" = (
 /obj/structure/stairs/stone/d{
@@ -919,7 +919,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "L4"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "mr" = (
 /obj/item/reagent_containers/glass/bucket/wooden,
@@ -995,7 +995,7 @@
 /area/under/tomb/cave)
 "nC" = (
 /obj/machinery/light/fueled/wallfire/candle/blue/r,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "nG" = (
 /obj/structure/stairs/stone/d{
@@ -1062,7 +1062,7 @@
 /area/under/tomb/indoors)
 "oM" = (
 /obj/structure/fluff/walldeco/psybanner,
-/turf/closed/wall/mineral/decostone/cand,
+/turf/closed/wall/mineral/stone/decostone/cand,
 /area/under/tomb/indoors)
 "oY" = (
 /obj/effect/decal/cleanable/blood/tracks,
@@ -1132,13 +1132,13 @@
 /turf/open/floor/hexstone,
 /area/under/tomb/indoors)
 "pO" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb)
 "pW" = (
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "W2"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "pY" = (
 /obj/structure/table/wood/plain,
@@ -1221,7 +1221,7 @@
 /area/under/tomb/indoors)
 "rm" = (
 /obj/machinery/light/fueled/wallfire/candle/r,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "rp" = (
 /turf/open/floor/blocks,
@@ -1242,7 +1242,7 @@
 /area/under/tomb/indoors)
 "rB" = (
 /obj/structure/fluff/walldeco/psybanner,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb)
 "rI" = (
 /obj/effect/decal/cleanable/blood/old,
@@ -1276,7 +1276,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "L3"
 	},
-/turf/closed/wall/mineral/decostone/cand{
+/turf/closed/wall/mineral/stone/decostone/cand{
 	name = "suspicious stone wall"
 	},
 /area/under/tomb/indoors)
@@ -1342,7 +1342,7 @@
 /area/under/tomb/indoors/royal)
 "th" = (
 /obj/structure/fluff/walldeco/psybanner/red,
-/turf/closed/wall/mineral/decostone/cand,
+/turf/closed/wall/mineral/stone/decostone/cand,
 /area/under/tomb/indoors)
 "tk" = (
 /obj/structure/chair/wood/alt/chair_noble/red,
@@ -1379,11 +1379,11 @@
 /area/under/tomb)
 "tF" = (
 /obj/structure/fluff/walldeco/psybanner,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "tG" = (
 /obj/structure/fluff/walldeco/painting/crown,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors/church)
 "tJ" = (
 /obj/item/chair/chair_nobles/red,
@@ -1407,7 +1407,7 @@
 	redstone_id = "Gate320"
 	},
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb)
 "ud" = (
 /obj/effect/decal/cleanable/blood,
@@ -1476,7 +1476,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "L1"
 	},
-/turf/closed/wall/mineral/decostone/cand{
+/turf/closed/wall/mineral/stone/decostone/cand{
 	name = "suspicious stone wall"
 	},
 /area/under/tomb/indoors/royal)
@@ -1624,7 +1624,7 @@
 /area/under/tomb/indoors)
 "xg" = (
 /obj/structure/fluff/walldeco/med,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "xp" = (
 /obj/structure/fluff/statue/knight/r,
@@ -1716,7 +1716,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "L6"
 	},
-/turf/closed/wall/mineral/decostone/cand{
+/turf/closed/wall/mineral/stone/decostone/cand{
 	name = "suspicious stone wall"
 	},
 /area/under/tomb/indoors)
@@ -1770,13 +1770,13 @@
 /obj/effect/waterfall{
 	pixel_y = 32
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "zG" = (
 /obj/structure/lever/hidden{
 	redstone_id = "L11"
 	},
-/turf/closed/wall/mineral/decostone{
+/turf/closed/wall/mineral/stone/decostone{
 	name = "suspicious stone wall"
 	},
 /area/under/tomb/indoors)
@@ -1833,7 +1833,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "L2"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "Aq" = (
 /obj/structure/table/wood/fancy/blue,
@@ -1947,7 +1947,7 @@
 	redstone_id = "L13"
 	},
 /obj/machinery/light/fueled/wallfire/candle/r,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors/royal)
 "BW" = (
 /obj/effect/decal/cleanable/blood,
@@ -1994,7 +1994,7 @@
 /area/under/tomb)
 "CR" = (
 /obj/structure/fluff/wallclock,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "CT" = (
 /obj/structure/stairs/stone/d,
@@ -2030,7 +2030,7 @@
 /area/under/tomb/wilds)
 "DF" = (
 /obj/structure/fluff/walldeco/painting/skull,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors/church)
 "DO" = (
 /obj/item/reagent_containers/glass/cup/skull,
@@ -2093,7 +2093,7 @@
 /turf/open/floor/church,
 /area/under/tomb/indoors)
 "EF" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors/royal)
 "EI" = (
 /obj/effect/decal/cleanable/blood/gibs/down,
@@ -2124,7 +2124,7 @@
 "EY" = (
 /obj/structure/fluff/walldeco/vinez,
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "EZ" = (
 /obj/structure/fluff/nest,
@@ -2169,7 +2169,7 @@
 /area/under/tomb/wilds)
 "FF" = (
 /obj/machinery/light/fueled/wallfire,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors/royal)
 "FI" = (
 /obj/structure/fluff/nest,
@@ -2192,7 +2192,7 @@
 /area/under/tomb)
 "FW" = (
 /obj/structure/fluff/walldeco/painting/seraphina,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors/royal)
 "Ga" = (
 /obj/structure/trap/wall_projectile{
@@ -2227,11 +2227,11 @@
 /area/under/tomb/indoors)
 "Gv" = (
 /obj/structure/fluff/walldeco/painting,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors/royal)
 "Gx" = (
 /obj/machinery/light/fueled/wallfire/candle/l,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors/royal)
 "Gy" = (
 /obj/structure/table/vtable,
@@ -2278,7 +2278,7 @@
 /area/under/tomb/indoors/royal)
 "GY" = (
 /obj/machinery/light/fueled/wallfire/candle/l,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "Ha" = (
 /obj/structure/trap/fire,
@@ -2291,10 +2291,10 @@
 "Hf" = (
 /obj/structure/fluff/walldeco/vinez,
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors/church)
 "Hi" = (
-/turf/closed/wall/mineral/decostone/cand,
+/turf/closed/wall/mineral/stone/decostone/cand,
 /area/under/tomb/indoors/royal)
 "Hj" = (
 /obj/item/natural/stone,
@@ -2444,7 +2444,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "W2"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "II" = (
 /obj/machinery/light/fueled/wallfire/candle/blue,
@@ -2477,7 +2477,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "L4"
 	},
-/turf/closed/wall/mineral/decostone/cand{
+/turf/closed/wall/mineral/stone/decostone/cand{
 	name = "suspicious stone wall"
 	},
 /area/under/tomb/indoors)
@@ -2583,7 +2583,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "L9"
 	},
-/turf/closed/wall/mineral/decostone/cand{
+/turf/closed/wall/mineral/stone/decostone/cand{
 	name = "suspicious stone wall"
 	},
 /area/under/tomb/indoors)
@@ -2595,7 +2595,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "L6"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "KS" = (
 /obj/effect/decal/cleanable/blood/tracks,
@@ -2613,7 +2613,7 @@
 	redstone_id = "L3"
 	},
 /obj/machinery/light/fueled/wallfire/candle/blue,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "Lk" = (
 /mob/living/carbon/human/species/rousman/ambush,
@@ -2643,7 +2643,7 @@
 /obj/machinery/light/fueled/oven/south{
 	pixel_y = 0
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "Lt" = (
 /obj/structure/fluff/railing/border,
@@ -2672,7 +2672,7 @@
 	redstone_id = "L12"
 	},
 /obj/machinery/light/fueled/wallfire/candle/blue,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "LL" = (
 /obj/structure/rack/shelf/biggest,
@@ -2681,11 +2681,11 @@
 "LS" = (
 /obj/effect/decal/cleanable/blood/splatter,
 /obj/structure/fluff/walldeco/psybanner/red,
-/turf/closed/wall/mineral/decostone/cand,
+/turf/closed/wall/mineral/stone/decostone/cand,
 /area/under/tomb/indoors)
 "LT" = (
 /obj/structure/fluff/walldeco/feldshersign,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "LU" = (
 /obj/structure/fluff/nest,
@@ -2700,7 +2700,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "L8"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "Mi" = (
 /turf/open/floor/church,
@@ -2820,7 +2820,7 @@
 /turf/open/floor/hexstone,
 /area/under/tomb/indoors)
 "NZ" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors/church)
 "Oi" = (
 /obj/effect/decal/cleanable/blood/gibs,
@@ -2890,7 +2890,7 @@
 /area/under/tomb)
 "Pp" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "Pw" = (
 /obj/effect/decal/cleanable/blood,
@@ -2906,7 +2906,7 @@
 /area/under/tomb/indoors)
 "PU" = (
 /obj/structure/fluff/walldeco/med6,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "PW" = (
 /obj/structure/table/stone_small,
@@ -2922,13 +2922,13 @@
 	redstone_id = "W1"
 	},
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "Qn" = (
 /obj/structure/lever/hidden{
 	redstone_id = "L10"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "Qp" = (
 /obj/structure/door/stone,
@@ -2976,7 +2976,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "L7"
 	},
-/turf/closed/wall/mineral/decostone{
+/turf/closed/wall/mineral/stone/decostone{
 	name = "suspicious stone wall"
 	},
 /area/under/tomb/indoors)
@@ -3022,7 +3022,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "L12"
 	},
-/turf/closed/wall/mineral/decostone{
+/turf/closed/wall/mineral/stone/decostone{
 	name = "suspicious stone wall"
 	},
 /area/under/tomb/indoors)
@@ -3116,7 +3116,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "L9"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "Su" = (
 /obj/structure/closet/crate/coffin,
@@ -3125,7 +3125,7 @@
 /area/under/tomb/indoors)
 "Sv" = (
 /obj/structure/fluff/walldeco/painting/crown,
-/turf/closed/wall/mineral/decostone/cand,
+/turf/closed/wall/mineral/stone/decostone/cand,
 /area/under/tomb/indoors/royal)
 "SF" = (
 /obj/structure/fluff/statue/knightalt/r,
@@ -3137,7 +3137,7 @@
 /area/under/tomb/cave)
 "SJ" = (
 /obj/effect/decal/cleanable/blood/puddle,
-/turf/closed/wall/mineral/decostone/cand,
+/turf/closed/wall/mineral/stone/decostone/cand,
 /area/under/tomb/indoors)
 "SK" = (
 /obj/item/reagent_containers/glass/cup/golden,
@@ -3187,7 +3187,7 @@
 /area/under/tomb/wilds)
 "Tn" = (
 /obj/structure/fluff/walldeco/psybanner,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors/church)
 "To" = (
 /obj/effect/decal/cleanable/blood/splatter,
@@ -3233,7 +3233,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "W1"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "UB" = (
 /obj/machinery/light/fueled/wallfire/candle/l,
@@ -3425,7 +3425,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "W4"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "Wt" = (
 /obj/structure/window/stained/silver,
@@ -3451,10 +3451,10 @@
 	redstone_id = "W4"
 	},
 /obj/structure/mirror,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "WU" = (
-/turf/closed/wall/mineral/decostone/cand,
+/turf/closed/wall/mineral/stone/decostone/cand,
 /area/under/tomb/indoors)
 "WW" = (
 /obj/item/reagent_containers/food/snacks/rotten/meat,
@@ -3567,7 +3567,7 @@
 /area/under/tomb)
 "Yx" = (
 /obj/structure/fluff/walldeco/med3,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "Yy" = (
 /obj/structure/table/stone_small,
@@ -3587,7 +3587,7 @@
 	redstone_id = "W3"
 	},
 /obj/structure/fluff/walldeco/psybanner,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "YE" = (
 /obj/machinery/light/fueled/wallfire/candle/l,

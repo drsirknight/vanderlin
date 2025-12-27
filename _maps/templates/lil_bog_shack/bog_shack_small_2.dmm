@@ -18,7 +18,7 @@
 /turf/open/floor/dirt,
 /area/outdoors/bog)
 "f" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors/shelter/bog)
 "g" = (
 /obj/machinery/light/fueled/campfire,

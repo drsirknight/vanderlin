@@ -7,12 +7,12 @@
 /turf/open/floor/carpet,
 /area/under/tomb/cave)
 "eC" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/tomb/cave)
 "fu" = (
 /obj/structure/fluff/walldeco/painting/seraphina,
 /obj/structure/fluff/walldeco/painting/seraphina,
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/tomb/cave)
 "fy" = (
 /obj/structure/flora/shroom_tree,
@@ -43,7 +43,7 @@
 /area/under/tomb/cave)
 "kc" = (
 /obj/structure/fluff/walldeco/painting/skull,
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/tomb/cave)
 "nq" = (
 /obj/machinery/light/fueled/wallfire/candle/l,
@@ -62,7 +62,7 @@
 /area/under/tomb/cave)
 "rf" = (
 /obj/structure/fluff/walldeco/painting,
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/tomb/cave)
 "rh" = (
 /obj/structure/bed/shit,
@@ -95,7 +95,7 @@
 /area/under/tomb/cave)
 "tb" = (
 /obj/structure/fluff/walldeco/painting/castle,
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/tomb/cave)
 "tk" = (
 /obj/structure/door/fancy,
@@ -138,7 +138,7 @@
 /area/under/tomb/cave)
 "BA" = (
 /obj/structure/fluff/walldeco/painting/crown,
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/tomb/cave)
 "Ev" = (
 /obj/structure/table/wood/nice/decorated_alt,
@@ -224,7 +224,7 @@
 /area/under/tomb/cave)
 "Xb" = (
 /obj/structure/fluff/walldeco/painting/queen,
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/tomb/cave)
 "Xd" = (
 /obj/machinery/light/fueled/wallfire/candle/r,

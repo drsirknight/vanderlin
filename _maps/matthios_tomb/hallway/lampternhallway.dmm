@@ -19,7 +19,7 @@
 /turf/open/floor/hexstone,
 /area/under/tomb)
 "s" = (
-/turf/closed/wall/mineral/decostone/end{
+/turf/closed/wall/mineral/stone/decostone/end{
 	dir = 4
 	},
 /area/under/tomb)
@@ -48,7 +48,7 @@
 /turf/open/floor/hexstone,
 /area/under/tomb)
 "G" = (
-/turf/closed/wall/mineral/decostone/long,
+/turf/closed/wall/mineral/stone/decostone/long,
 /area/under/tomb)
 "H" = (
 /obj/structure/bars/grille,
@@ -70,7 +70,7 @@
 /turf/open/floor/hexstone,
 /area/under/tomb)
 "P" = (
-/turf/closed/wall/mineral/decostone/end{
+/turf/closed/wall/mineral/stone/decostone/end{
 	dir = 8
 	},
 /area/under/tomb)
@@ -89,7 +89,7 @@
 /turf/open/floor/hexstone,
 /area/under/tomb)
 "Y" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb)
 "Z" = (
 /obj/structure/bars/grille,

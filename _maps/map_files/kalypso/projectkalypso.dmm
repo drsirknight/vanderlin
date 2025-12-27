@@ -231,7 +231,7 @@
 "bi" = (
 /obj/structure/fluff/walldeco/vinez,
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/outdoors)
 "bm" = (
 /obj/item/grown/log/tree/stick{
@@ -380,7 +380,7 @@
 /area/outdoors)
 "bV" = (
 /obj/effect/decal/cleanable/debris/stone,
-/turf/closed/wall/mineral/decostone/moss/cand,
+/turf/closed/wall/mineral/stone/decostone/moss/cand,
 /area/outdoors)
 "bW" = (
 /obj/structure/chair/stool,
@@ -1155,7 +1155,7 @@
 /area/outdoors)
 "fS" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decorstone/moss/blue,
+/turf/closed/wall/mineral/stone/decorstone/moss/blue,
 /area/outdoors)
 "fT" = (
 /obj/structure/wild_plant/nospread/jacksberry{
@@ -1486,7 +1486,7 @@
 /turf/open/floor/dirt,
 /area/outdoors)
 "hw" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/outdoors)
 "hz" = (
 /obj/structure/fluff/railing/border{
@@ -1735,7 +1735,7 @@
 "iB" = (
 /obj/structure/fluff/walldeco/church/line,
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decostone/moss/blue,
+/turf/closed/wall/mineral/stone/decostone/moss/blue,
 /area/under/cave)
 "iC" = (
 /obj/structure/flora/ausbushes/lavendergrass,
@@ -1810,7 +1810,7 @@
 /area/outdoors)
 "iV" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/outdoors)
 "iW" = (
 /obj/structure/fluff/statue,
@@ -2162,7 +2162,7 @@
 "kQ" = (
 /obj/structure/fluff/walldeco/stone,
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decostone/moss/blue/long,
+/turf/closed/wall/mineral/stone/decostone/moss/blue/long,
 /area/under/cave)
 "kR" = (
 /obj/item/natural/stone{
@@ -2231,7 +2231,7 @@
 "le" = (
 /obj/structure/fluff/walldeco/stone,
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decostone/moss/blue,
+/turf/closed/wall/mineral/stone/decostone/moss/blue,
 /area/under/cave)
 "lf" = (
 /obj/structure/wild_plant/nospread/raspberry{
@@ -2693,7 +2693,7 @@
 /area/outdoors)
 "nx" = (
 /obj/effect/decal/cleanable/debris/stone,
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/cave)
 "ny" = (
 /obj/effect/decal/cleanable/dirt/cobweb,
@@ -3376,7 +3376,7 @@
 /area/under/cave)
 "qZ" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/decostone/moss/red,
+/turf/closed/wall/mineral/stone/decostone/moss/red,
 /area/under/cave)
 "rc" = (
 /obj/structure/wild_plant/nospread/westleach{
@@ -3508,7 +3508,7 @@
 /turf/open/floor/dirt/road,
 /area/outdoors)
 "rK" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/outdoors)
 "rO" = (
 /obj/structure/bed/shit,
@@ -4051,7 +4051,7 @@
 /turf/open/floor/grass,
 /area/outdoors)
 "uF" = (
-/turf/closed/wall/mineral/stone/window/moss,
+/turf/closed/wall/mineral/stone/cobble/window/moss,
 /area/outdoors)
 "uG" = (
 /obj/structure/chair/wood,
@@ -4481,7 +4481,7 @@
 /turf/open/floor/blocks,
 /area/under/cave)
 "wH" = (
-/turf/closed/wall/mineral/decostone/moss/blue,
+/turf/closed/wall/mineral/stone/decostone/moss/blue,
 /area/outdoors)
 "wL" = (
 /obj/structure/wild_plant/nospread/strawberry{
@@ -4594,7 +4594,7 @@
 /turf/open/floor/dirt,
 /area/outdoors)
 "xk" = (
-/turf/closed/wall/mineral/decostone/moss/cand,
+/turf/closed/wall/mineral/stone/decostone/moss/cand,
 /area/under/cave)
 "xn" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -4668,7 +4668,7 @@
 /area/outdoors)
 "xG" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/cave)
 "xI" = (
 /obj/item/clothing/armor/cuirass/iron/rust,
@@ -4705,7 +4705,7 @@
 /area/indoors/town)
 "xM" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/cave)
 "xO" = (
 /obj/structure/table/church{
@@ -4948,7 +4948,7 @@
 	pixel_y = -3
 	},
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/cave)
 "zn" = (
 /obj/structure/flora/grass/bush_meagre{
@@ -5651,7 +5651,7 @@
 /area/outdoors)
 "CX" = (
 /obj/structure/fluff/walldeco/painting/seraphina,
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/outdoors)
 "CY" = (
 /obj/item/natural/stone{
@@ -6279,7 +6279,7 @@
 /area/outdoors)
 "Gr" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decostone/moss/blue,
+/turf/closed/wall/mineral/stone/decostone/moss/blue,
 /area/outdoors)
 "Gs" = (
 /obj/item/reagent_containers/glass/bucket/wooden{
@@ -6313,7 +6313,7 @@
 	pixel_y = -3
 	},
 /obj/effect/decal/cleanable/dirt/dust,
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/cave)
 "Gy" = (
 /obj/structure/flora/grass/thorn_bush,
@@ -6327,7 +6327,7 @@
 /turf/open/floor/dirt/road,
 /area/under/cave)
 "GF" = (
-/turf/closed/wall/mineral/decostone/moss/cand,
+/turf/closed/wall/mineral/stone/decostone/moss/cand,
 /area/outdoors)
 "GI" = (
 /obj/structure/flora/grass/water/reeds,
@@ -6338,7 +6338,7 @@
 /turf/open/floor/ruinedwood,
 /area/under/cave)
 "GM" = (
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/outdoors)
 "GN" = (
 /obj/structure/flora/grass/bush/wall/tall,
@@ -6900,7 +6900,7 @@
 /area/outdoors)
 "Jx" = (
 /obj/structure/fluff/walldeco/painting,
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/outdoors)
 "Jz" = (
 /obj/structure/flora/grass/herb/urtica,
@@ -6948,7 +6948,7 @@
 /area/outdoors)
 "JM" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decostone/moss/blue/end,
+/turf/closed/wall/mineral/stone/decostone/moss/blue/end,
 /area/under/cave)
 "JO" = (
 /turf/closed/mineral/silver,
@@ -7112,7 +7112,7 @@
 /turf/open/floor/grass,
 /area/outdoors)
 "KJ" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town)
 "KK" = (
 /obj/effect/spawner/map_spawner/treeorbush,
@@ -7208,7 +7208,7 @@
 "Ld" = (
 /obj/structure/fluff/walldeco/wallshield,
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decostone/moss/blue/cand,
+/turf/closed/wall/mineral/stone/decostone/moss/blue/cand,
 /area/under/cave)
 "Le" = (
 /obj/structure/wild_plant/nospread/blackberry,
@@ -7307,7 +7307,7 @@
 /area/under/cave)
 "LK" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decostone/moss/blue/cand,
+/turf/closed/wall/mineral/stone/decostone/moss/blue/cand,
 /area/under/cave)
 "LL" = (
 /obj/structure/closet/crate/coffin,
@@ -7740,7 +7740,7 @@
 /turf/open/floor/grass,
 /area/outdoors)
 "NQ" = (
-/turf/closed/wall/mineral/stone/window/moss,
+/turf/closed/wall/mineral/stone/cobble/window/moss,
 /area/under/cave)
 "NR" = (
 /obj/effect/falling_sakura,
@@ -7966,7 +7966,7 @@
 /turf/open/floor/woodturned,
 /area/outdoors)
 "Pc" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/cave)
 "Pd" = (
 /obj/effect/decal/cobblerockedge{
@@ -8444,7 +8444,7 @@
 /turf/open/floor/woodturned,
 /area/outdoors)
 "RK" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/cave)
 "RM" = (
 /obj/structure/bars,
@@ -8629,11 +8629,11 @@
 /turf/closed/mineral/random/high_nonval,
 /area/under/cave)
 "SB" = (
-/turf/closed/wall/mineral/decostone/moss/red,
+/turf/closed/wall/mineral/stone/decostone/moss/red,
 /area/under/cave)
 "SE" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decostone/moss/blue/long,
+/turf/closed/wall/mineral/stone/decostone/moss/blue/long,
 /area/under/cave)
 "SG" = (
 /obj/structure/wild_plant/nospread/jacksberry{
@@ -8814,7 +8814,7 @@
 /area/under/cave)
 "TE" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decostone/moss/blue,
+/turf/closed/wall/mineral/stone/decostone/moss/blue,
 /area/under/cave)
 "TF" = (
 /obj/structure/flora/grass/tundra{
@@ -9135,7 +9135,7 @@
 /obj/item/clothing/face/skullmask{
 	pixel_y = -3
 	},
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/cave)
 "Vu" = (
 /obj/structure/flora/tree/evil,
@@ -9187,7 +9187,7 @@
 /turf/open/floor/grass,
 /area/outdoors)
 "VL" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/cave)
 "VM" = (
 /obj/structure/wild_plant/nospread/blackberry{
@@ -9873,7 +9873,7 @@
 "ZA" = (
 /obj/structure/fluff/walldeco/psybanner,
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decostone/moss/blue/cand,
+/turf/closed/wall/mineral/stone/decostone/moss/blue/cand,
 /area/under/cave)
 "ZB" = (
 /obj/structure/flora/newtree{

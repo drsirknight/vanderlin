@@ -6,7 +6,7 @@
 /turf/open/floor/naturalstone,
 /area/outdoors/spidercave)
 "C" = (
-/turf/closed/wall/mineral/decostone/center,
+/turf/closed/wall/mineral/stone/decostone/center,
 /area/outdoors/caves)
 "D" = (
 /turf/closed/mineral/bedrock,

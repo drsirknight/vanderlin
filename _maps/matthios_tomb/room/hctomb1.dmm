@@ -16,7 +16,7 @@
 /turf/closed/mineral/bedrock,
 /area/under)
 "bq" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/tomb)
 "bN" = (
 /obj/structure/fluff/railing/wood{
@@ -188,7 +188,7 @@
 /turf/open/floor/naturalstone,
 /area/under/tomb/cave)
 "jS" = (
-/turf/closed/wall/mineral/decostone/cand/reddish,
+/turf/closed/wall/mineral/stone/decostone/cand/reddish,
 /area/under/tomb/indoors)
 "kt" = (
 /obj/structure/chair/wood/alt/chair3{
@@ -351,7 +351,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/under/tomb/indoors)
 "vr" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/tomb/indoors)
 "vS" = (
 /obj/effect/dungeon_directional_helper/west,
@@ -411,7 +411,7 @@
 /turf/open/floor/blocks/paving,
 /area/under/tomb/indoors)
 "xu" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb/indoors)
 "xT" = (
 /obj/effect/decal/cleanable/blood/old,
@@ -610,7 +610,7 @@
 /area/under/tomb/cave)
 "IW" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb/indoors)
 "Jp" = (
 /obj/item/weapon/hammer/iron,
@@ -637,7 +637,7 @@
 /area/under/tomb/indoors)
 "Kz" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/under/tomb/indoors)
 "KY" = (
 /obj/machinery/light/fueled/torchholder/l,
@@ -727,14 +727,14 @@
 /turf/open/floor/hexstone,
 /area/under/tomb/indoors)
 "Rc" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/under/tomb/indoors)
 "Rf" = (
 /obj/effect/decal/cleanable/blood/old,
 /turf/open/floor/hexstone,
 /area/under/tomb/indoors)
 "Rk" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/tomb)
 "Ru" = (
 /obj/structure/fluff/railing/wood,
@@ -757,7 +757,7 @@
 /turf/open/floor/blocks/paving,
 /area/under/tomb/indoors)
 "RU" = (
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/under/tomb/indoors)
 "Sz" = (
 /obj/structure/table/wood/plain_alt,
@@ -934,7 +934,7 @@
 /turf/open/transparent/openspace,
 /area/under/tomb/indoors)
 "YK" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/tomb/indoors)
 "YT" = (
 /obj/effect/decal/cobbleedge/alt{

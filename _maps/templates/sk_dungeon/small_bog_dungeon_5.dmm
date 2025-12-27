@@ -204,7 +204,7 @@
 /turf/open/floor/dirt,
 /area/outdoors/bog)
 "sD" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/outdoors/bog)
 "tc" = (
 /obj/structure/fluff/railing/wood{

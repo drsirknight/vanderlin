@@ -19,7 +19,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "CastleSecret3"
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb/indoors/royal)
 "at" = (
 /mob/living/carbon/human/species/goblin/npc/ambush/cave,
@@ -223,7 +223,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "CastleSecret1"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "cP" = (
 /obj/effect/decal/remains/human,
@@ -234,7 +234,7 @@
 /area/under/tomb/indoors)
 "cS" = (
 /obj/machinery/light/fueled/wallfire/candle,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "cU" = (
 /obj/structure/door/stone,
@@ -611,7 +611,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "CastleSecret6"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "hu" = (
 /mob/living/carbon/human/species/skeleton/npc/warrior/skilled,
@@ -1566,7 +1566,7 @@
 /turf/open/floor/cobble,
 /area/under/tomb/indoors)
 "rk" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "rp" = (
 /obj/effect/decal/cleanable/blood,
@@ -1676,7 +1676,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "CastleSecret4"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "sW" = (
 /obj/item/natural/stone,
@@ -1684,7 +1684,7 @@
 /turf/open/floor/naturalstone,
 /area/under/tomb/indoors)
 "ta" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb)
 "th" = (
 /obj/effect/spawner/map_spawner/loot/food,
@@ -2099,7 +2099,7 @@
 /area/under/tomb/indoors)
 "xZ" = (
 /obj/machinery/light/fueled/wallfire/candle/blue,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "ya" = (
 /obj/structure/chair/stool,
@@ -2108,7 +2108,7 @@
 /area/under/tomb)
 "yb" = (
 /obj/machinery/light/fueled/wallfire,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "yh" = (
 /mob/living/carbon/human/species/skeleton/npc/warrior,
@@ -2395,7 +2395,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "CastleSecret6"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "AQ" = (
 /obj/structure/winch{
@@ -2464,7 +2464,7 @@
 /turf/open/floor/cobble,
 /area/under/tomb/wilds)
 "Bq" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/tomb/indoors)
 "Br" = (
 /turf/open/floor/grass/red,
@@ -2583,7 +2583,7 @@
 /turf/open/floor/herringbone,
 /area/under/tomb/indoors)
 "Cb" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb/indoors)
 "Cc" = (
 /obj/structure/bars/pipe{
@@ -2696,7 +2696,7 @@
 /area/under/tomb/indoors)
 "Di" = (
 /obj/machinery/light/fueled/wallfire/candle,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb/indoors)
 "Dp" = (
 /obj/structure/bars,
@@ -3272,7 +3272,7 @@
 /turf/open/floor/dirt,
 /area/under/tomb/wilds)
 "Jx" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb/indoors/royal)
 "Jy" = (
 /obj/structure/closet/crate/chest/neu,
@@ -3518,7 +3518,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "CastleSecret5"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "MJ" = (
 /obj/item/plate,
@@ -3556,7 +3556,7 @@
 /area/under/tomb/indoors/royal)
 "Nk" = (
 /obj/machinery/light/fueled/wallfire/candle,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb/indoors/royal)
 "Nm" = (
 /obj/structure/bars/pipe{
@@ -4006,7 +4006,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "CastleSecret1"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "RM" = (
 /obj/structure/stairs/stone,
@@ -4134,7 +4134,7 @@
 /turf/open/floor/ruinedwood/chevron,
 /area/under/tomb/indoors)
 "Tw" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/wilds)
 "Tz" = (
 /obj/structure/fluff/railing/tall/palisade{
@@ -4564,7 +4564,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "CastleSecret5"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "Xr" = (
 /obj/structure/table/wood/plain_alt,
@@ -4584,7 +4584,7 @@
 /turf/open/floor/naturalstone,
 /area/under/tomb)
 "XJ" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/under/tomb/indoors)
 "XL" = (
 /turf/open/floor/herringbone,
@@ -4628,7 +4628,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/under/tomb)
 "XY" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb)
 "Ya" = (
 /mob/living/simple_animal/hostile/retaliate/saiga,

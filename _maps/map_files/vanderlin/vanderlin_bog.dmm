@@ -2149,7 +2149,7 @@
 /turf/open/floor/concrete,
 /area/indoors/town/clocktower)
 "bci" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/outdoors/bog)
 "bcV" = (
 /obj/machinery/light/fueled/firebowl/stumpb,
@@ -3188,7 +3188,7 @@
 	},
 /area/under/cavewet)
 "czi" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/outdoors/bog)
 "czC" = (
 /obj/structure/easel,
@@ -3197,7 +3197,7 @@
 	},
 /area/under/cavewet)
 "cAc" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/ship)
 "cAh" = (
 /obj/structure/fluff/walldeco/church/line{
@@ -3279,7 +3279,7 @@
 /turf/open/floor/ruinedwood/turned,
 /area/indoors/shelter/bog)
 "cDX" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/outdoors/mountains)
 "cHa" = (
 /obj/structure/chair/bench/couch/middle/alt{
@@ -3720,7 +3720,7 @@
 /turf/open/water/bath,
 /area/under/cavewet)
 "dkB" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors/shelter/bog)
 "dkE" = (
 /obj/structure/fluff/railing/border{
@@ -4406,7 +4406,7 @@
 	},
 /area/under/cavewet)
 "ece" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/ship)
 "ech" = (
 /obj/structure/flora/pillar,
@@ -5262,7 +5262,7 @@
 /area/ship/topdeck)
 "fsB" = (
 /obj/structure/fluff/walldeco/wallshield,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/shelter/bog)
 "fsC" = (
 /obj/machinery/light/fueled/wallfire/candle/blue,
@@ -5297,7 +5297,7 @@
 	},
 /area/under/cavewet)
 "fuB" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/shelter/bog)
 "fvt" = (
 /obj/structure/chair/bench/couch/corner/alt{
@@ -5413,7 +5413,7 @@
 	},
 /area/under/tomb/indoors/magic)
 "fzL" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/shelter/bog)
 "fAh" = (
 /obj/structure/chair/wood/alt/chair_noble/purple{
@@ -5837,7 +5837,7 @@
 /area/under/cavewet)
 "gbU" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/shelter/bog)
 "gcK" = (
 /obj/effect/decal/shadow_floor{
@@ -6322,7 +6322,7 @@
 /area/under/cavewet)
 "gFN" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/shelter/bog)
 "gFQ" = (
 /obj/structure/flora/grass/pyroclasticflowers,
@@ -6838,7 +6838,7 @@
 	},
 /area/under/cavewet)
 "hwp" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/shelter/bog)
 "hxp" = (
 /mob/living/simple_animal/hostile/retaliate/infernal/hellhound{
@@ -6954,7 +6954,7 @@
 /area/under/cavewet)
 "hEC" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/shelter/bog)
 "hEL" = (
 /obj/structure/fluff/railing/border{
@@ -7413,7 +7413,7 @@
 /area/outdoors/bog)
 "ipo" = (
 /obj/effect/waterfall,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/town/clocktower)
 "ipr" = (
 /obj/structure/bed/shit,
@@ -7442,7 +7442,7 @@
 	},
 /area/under/cavewet)
 "iqw" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/outdoors/bog)
 "isG" = (
 /turf/open/floor/woodturned,
@@ -7674,7 +7674,7 @@
 	pixel_x = 9;
 	pixel_y = 7
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/clocktower)
 "iEe" = (
 /obj/effect/decal/shadow_floor,
@@ -9999,7 +9999,7 @@
 /turf/open/floor/abyss_sand/path,
 /area/under/cavewet)
 "lwP" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/shelter/bog)
 "lxu" = (
 /obj/structure/table/wood/crafted,
@@ -10331,7 +10331,7 @@
 /turf/open/floor/concrete,
 /area/indoors/town/clocktower)
 "lWg" = (
-/turf/closed/wall/mineral/wooddark/window,
+/turf/closed/wall/mineral/wood/wooddark/window,
 /area/under/cavewet)
 "lXW" = (
 /obj/structure/flora/pillar,
@@ -10776,7 +10776,7 @@
 /area/under/cavewet)
 "mCs" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/town/clocktower)
 "mCu" = (
 /obj/structure/bookcase{
@@ -11013,7 +11013,7 @@
 /area/indoors/town/clocktower)
 "nay" = (
 /obj/structure/rotation_piece/cog/large,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/town/clocktower)
 "nbt" = (
 /obj/structure/fluff/walldeco/church/line,
@@ -11266,7 +11266,7 @@
 	},
 /area/under/tomb/indoors/magic)
 "nrZ" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/clocktower)
 "nta" = (
 /obj/structure/fluff/walldeco/church/line{
@@ -11852,7 +11852,7 @@
 	pixel_x = 14;
 	pixel_y = -9
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/clocktower)
 "ofy" = (
 /obj/structure/flora/grass/water/reeds,
@@ -12336,7 +12336,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/indoors/ship)
 "oNX" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/town/clocktower)
 "oOf" = (
 /obj/structure/fluff/railing/border{
@@ -14195,7 +14195,7 @@
 /turf/open/floor/carpet/royalblack,
 /area/indoors/town/clocktower)
 "rHk" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/cavewet)
 "rJt" = (
 /obj/structure/fluff/walldeco/church/line{
@@ -16535,7 +16535,7 @@
 /area/indoors/ship)
 "veW" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/shelter/bog)
 "vfg" = (
 /obj/item/soap/bath,
@@ -16718,7 +16718,7 @@
 /turf/open/floor/metal/barograte,
 /area/indoors/town/clocktower)
 "vrW" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/ship/topdeck)
 "vsh" = (
 /obj/structure/fluff/railing/border{
@@ -16996,7 +16996,7 @@
 "vMF" = (
 /obj/structure/water_pipe,
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/town/clocktower)
 "vMQ" = (
 /obj/structure/door/abyss{
@@ -17847,11 +17847,11 @@
 /turf/open/floor/abyss_sand,
 /area/outdoors/bog)
 "xau" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/outdoors/mountains)
 "xax" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/outdoors/bog)
 "xaP" = (
 /obj/structure/fermentation_keg{

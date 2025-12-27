@@ -294,11 +294,11 @@
 /turf/open/water/marsh,
 /area/outdoors/town)
 "aog" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/indoors/town/cell)
 "apB" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/wooddark/end,
+/turf/closed/wall/mineral/wood/wooddark/end,
 /area/indoors/town/tavern)
 "apJ" = (
 /obj/structure/rotation_piece,
@@ -327,7 +327,7 @@
 /turf/open/floor/blocks/newstone,
 /area/under/town/basement)
 "apR" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 8
 	},
 /area/indoors/town/merc_guild)
@@ -350,7 +350,7 @@
 /turf/open/floor/church,
 /area/indoors/town/manor)
 "aqT" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 8
 	},
 /area/indoors/town/garrison)
@@ -588,7 +588,7 @@
 /turf/open/floor/wood,
 /area/outdoors/town/roofs)
 "aBx" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 4
 	},
 /area/indoors/butchershop)
@@ -625,7 +625,7 @@
 /turf/open/floor/tile,
 /area/indoors/town/tavern)
 "aDH" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town)
 "aDR" = (
 /obj/structure/fake_machine/hailerboard,
@@ -719,7 +719,7 @@
 /turf/open/floor/church,
 /area/indoors/town/manor)
 "aIk" = (
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/indoors/town/bath)
 "aIl" = (
 /obj/structure/flora/grass/thorn_bush,
@@ -821,7 +821,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "WolfpitPassage"
 	},
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/town/basement)
 "aNq" = (
 /obj/structure/fermentation_keg,
@@ -893,7 +893,7 @@
 /turf/open/floor/carpet/green,
 /area/indoors/town/merc_guild)
 "aSD" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/merc_guild)
 "aSP" = (
 /obj/structure/table/wood/large/corner,
@@ -1015,7 +1015,7 @@
 /turf/open/floor/carpet/purple,
 /area/indoors/town/church/inquisition)
 "aXe" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/clinic_large)
 "aXl" = (
 /obj/structure/fluff/railing/wood{
@@ -1050,7 +1050,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "KeepBath2Passage"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "aXZ" = (
 /obj/item/statue/gold/loot,
@@ -1149,7 +1149,7 @@
 /turf/open/floor/blocks,
 /area/under/town/basement)
 "baK" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/garrison)
 "baV" = (
 /obj/structure/fluff/walldeco/church/line{
@@ -1335,7 +1335,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "HandPassage"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "bkM" = (
 /obj/structure/rack,
@@ -1362,14 +1362,14 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "Basement1Passage"
 	},
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/town/basement)
 "bmH" = (
 /obj/structure/fluff/walldeco/church/line,
 /turf/open/floor/ruinedwood/spiral,
 /area/indoors/town/magician)
 "bnn" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/indoors/town/clocktower)
 "boc" = (
 /obj/structure/fluff/nest,
@@ -1484,7 +1484,7 @@
 /area/indoors/town/manor)
 "btx" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/town)
 "btA" = (
 /obj/structure/table/wood{
@@ -1569,14 +1569,14 @@
 /turf/open/floor/tile,
 /area/under/town/sewer)
 "bvq" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/indoors/town/manorgate)
 "bvE" = (
 /obj/item/gem,
 /turf/open/floor/tile/checker,
 /area/indoors/town/vault)
 "bvJ" = (
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/outdoors/rtfield)
 "bwb" = (
 /obj/item/burial_shroud,
@@ -1795,7 +1795,7 @@
 /turf/open/floor/grass,
 /area/outdoors/rtfield)
 "bFz" = (
-/turf/closed/wall/mineral/decostone/center,
+/turf/closed/wall/mineral/stone/decostone/center,
 /area/indoors/town/church)
 "bFV" = (
 /obj/structure/table/wood{
@@ -1932,7 +1932,7 @@
 /turf/open/floor/ruinedwood/darker,
 /area/under/town/sewer)
 "bMn" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/indoors/town/church/inquisition)
 "bNv" = (
 /turf/open/floor/ruinedwood/darker,
@@ -2165,7 +2165,7 @@
 /turf/open/floor/twig,
 /area/outdoors/town)
 "bZo" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town)
 "bZs" = (
 /turf/open/floor/carpet/lord/left,
@@ -2298,7 +2298,7 @@
 /turf/open/floor/herringbone,
 /area/indoors/town/garrison)
 "cgw" = (
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/indoors/town/vault)
 "cgU" = (
 /obj/machinery/light/fueled/torchholder/l,
@@ -2437,7 +2437,7 @@
 /area/indoors/town/manor)
 "cpV" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town)
 "cpY" = (
 /obj/structure/fluff/walldeco/bigpainting/lake,
@@ -2458,7 +2458,7 @@
 /turf/open/floor/churchmarble,
 /area/indoors/town/church/chapel)
 "cqu" = (
-/turf/closed/wall/mineral/decostone/center,
+/turf/closed/wall/mineral/stone/decostone/center,
 /area/outdoors/town/roofs)
 "cqy" = (
 /obj/structure/table/wood/counter/end{
@@ -2536,7 +2536,7 @@
 /turf/open/floor/cobblerock,
 /area/outdoors/town)
 "cth" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 1
 	},
 /area/indoors/town/garrison)
@@ -2614,13 +2614,13 @@
 /turf/open/floor/ruinedwood/darker,
 /area/indoors/town/orphanage)
 "cwk" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/town/basement)
 "cwp" = (
 /obj/structure/lever/hidden/keep{
 	redstone_id = "Basement5Passage"
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/town/basement)
 "cwC" = (
 /turf/open/floor/tile/kitchen,
@@ -2699,13 +2699,13 @@
 /turf/open/transparent/openspace,
 /area/outdoors/town)
 "czP" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/cell)
 "cAh" = (
 /obj/structure/lever/hidden/keep{
 	redstone_id = "WolfpitPassage"
 	},
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/town/basement)
 "cAF" = (
 /obj/structure/closet/crate/chest/wicker,
@@ -2761,7 +2761,7 @@
 /turf/open/floor/tile,
 /area/indoors/town/tavern)
 "cBE" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/soilsons)
 "cBR" = (
 /obj/structure/stairs{
@@ -2774,7 +2774,7 @@
 /turf/open/floor/blocks/stonered/tiny,
 /area/indoors/town/bath)
 "cCo" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/smithy)
 "cCz" = (
 /obj/structure/fluff/railing/border{
@@ -2783,7 +2783,7 @@
 /turf/open/floor/blocks,
 /area/indoors/town/manor)
 "cCS" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/indoors/town/orphanage)
 "cCX" = (
 /obj/machinery/light/fueled/wallfire/candle/blue,
@@ -2853,7 +2853,7 @@
 /turf/open/transparent/openspace,
 /area/indoors/town/clocktower)
 "cGE" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/town/vault)
 "cGO" = (
 /obj/structure/rack,
@@ -2931,7 +2931,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "DungeoneerPassage"
 	},
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/under/town/basement)
 "cJl" = (
 /obj/structure/bookcase/random_recipes,
@@ -3047,7 +3047,7 @@
 /turf/open/floor/cobble,
 /area/under/town/basement)
 "cPs" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/butchershop)
 "cPP" = (
 /obj/effect/landmark/events/animal_migration_point,
@@ -3076,7 +3076,7 @@
 /turf/open/floor/wood,
 /area/outdoors/town/roofs)
 "cRb" = (
-/turf/closed/wall/mineral/wooddark/end,
+/turf/closed/wall/mineral/wood/wooddark/end,
 /area/indoors/town/garrison)
 "cRn" = (
 /obj/structure/fluff/railing/wood{
@@ -3247,7 +3247,7 @@
 /turf/open/floor/blocks/stonered,
 /area/indoors/town/dwarfin)
 "cXd" = (
-/turf/closed/wall/mineral/decostone/center,
+/turf/closed/wall/mineral/stone/decostone/center,
 /area/under/town/sewer)
 "cXk" = (
 /obj/machinery/light/fueled/torchholder/l,
@@ -3288,7 +3288,7 @@
 /area/under/town/basement)
 "cYE" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 4
 	},
 /area/indoors/town/tavern)
@@ -3311,11 +3311,11 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "Basement6Passage"
 	},
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/town/basement)
 "cZt" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/town/basement)
 "cZN" = (
 /obj/structure/closet/crate/chest,
@@ -3367,7 +3367,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "HeirPassage1"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "daI" = (
 /obj/item/paper/scroll,
@@ -3746,7 +3746,7 @@
 /turf/open/floor/greenstone,
 /area/indoors/town/manor)
 "drW" = (
-/turf/closed/wall/mineral/roofwall/center,
+/turf/closed/wall/mineral/wood/roofwall/center,
 /area/indoors/town/tavern)
 "drX" = (
 /obj/structure/table/wood/crafted,
@@ -3763,7 +3763,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "HallZPassage"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "dst" = (
 /obj/structure/fluff/railing/wood{
@@ -3786,7 +3786,7 @@
 /area/indoors/town/manor)
 "dvN" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/outdoors/town)
 "dvY" = (
 /obj/structure/closet/crate/crafted_closet/inn,
@@ -3958,7 +3958,7 @@
 /turf/open/floor/wood,
 /area/indoors/town/shop)
 "dEm" = (
-/turf/closed/wall/mineral/wooddark/window,
+/turf/closed/wall/mineral/wood/wooddark/window,
 /area/indoors/butchershop)
 "dEn" = (
 /obj/structure/fluff/railing/border{
@@ -3995,7 +3995,7 @@
 /turf/open/floor/woodturned,
 /area/indoors/butchershop)
 "dHs" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/garrison)
 "dHG" = (
 /obj/item/natural/stone,
@@ -4011,7 +4011,7 @@
 /area/indoors/town/smithy)
 "dIa" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/indoors/town/tavern)
 "dIf" = (
 /obj/structure/fluff/railing/border{
@@ -4078,7 +4078,7 @@
 /turf/open/floor/wood,
 /area/outdoors/town/roofs)
 "dLF" = (
-/turf/closed/wall/mineral/roofwall/middle{
+/turf/closed/wall/mineral/wood/roofwall/middle{
 	dir = 4
 	},
 /area/indoors/town/manor)
@@ -4134,7 +4134,7 @@
 /turf/open/floor/wood,
 /area/indoors/town/manor)
 "dNt" = (
-/turf/closed/wall/mineral/roofwall/center,
+/turf/closed/wall/mineral/wood/roofwall/center,
 /area/outdoors/town/roofs)
 "dOy" = (
 /obj/structure/flora/grass/bush_meagre,
@@ -4411,7 +4411,7 @@
 /turf/open/floor/wood,
 /area/indoors/town/manor)
 "ebx" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 4
 	},
 /area/indoors/town/clinic_large)
@@ -4585,10 +4585,10 @@
 /turf/open/floor/cobble,
 /area/outdoors/town/roofs)
 "eka" = (
-/turf/closed/wall/mineral/wooddark/window,
+/turf/closed/wall/mineral/wood/wooddark/window,
 /area/outdoors/town)
 "ekw" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors/town/garrison)
 "eky" = (
 /obj/structure/closet/crate/drawer,
@@ -4720,7 +4720,7 @@
 /turf/open/floor/tile/masonic/single,
 /area/indoors/town)
 "eop" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 4
 	},
 /area/indoors/town/tavern)
@@ -4736,7 +4736,7 @@
 /turf/open/floor/tile,
 /area/under/town/sewer)
 "eoX" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/indoors/town/manor)
 "epp" = (
 /obj/machinery/light/fueled/wallfire/candle/blue{
@@ -4892,7 +4892,7 @@
 /turf/open/floor/blocks/paving,
 /area/indoors/town/manor)
 "ewd" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/indoors/town/bath)
 "ewe" = (
 /obj/item/natural/cloth{
@@ -4913,7 +4913,7 @@
 /turf/open/floor/churchmarble,
 /area/indoors/town/clinic_large)
 "ewl" = (
-/turf/closed/wall/mineral/roofwall/innercorner,
+/turf/closed/wall/mineral/wood/roofwall/innercorner,
 /area/indoors/town/manor)
 "ewp" = (
 /obj/structure/activator,
@@ -5273,10 +5273,10 @@
 /turf/open/floor/blocks/paving,
 /area/under/town/sewer)
 "eKm" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/indoors/town/manor)
 "eKp" = (
-/turf/closed/wall/mineral/roofwall/middle{
+/turf/closed/wall/mineral/wood/roofwall/middle{
 	dir = 4
 	},
 /area/outdoors/town/roofs)
@@ -5297,7 +5297,7 @@
 /turf/open/floor/tile/bath,
 /area/indoors/town/manor)
 "eLs" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/shop)
 "eLL" = (
 /obj/structure/door/red,
@@ -5329,7 +5329,7 @@
 /turf/open/floor/tile,
 /area/under/town/basement)
 "eNg" = (
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/outdoors/town)
 "eNj" = (
 /obj/structure/minecart_rail{
@@ -5418,7 +5418,7 @@
 /turf/open/floor/dirt,
 /area/outdoors/rtfield)
 "eRj" = (
-/turf/closed/wall/mineral/roofwall/outercorner,
+/turf/closed/wall/mineral/wood/roofwall/outercorner,
 /area/indoors/town/manor)
 "eRC" = (
 /turf/open/floor/naturalstone,
@@ -5546,7 +5546,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "Basement4Passage"
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/town/basement)
 "eYa" = (
 /obj/structure/fluff/nest{
@@ -5563,7 +5563,7 @@
 /turf/open/floor/tile/bfloorz,
 /area/indoors/town/bath)
 "eZj" = (
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/indoors/town/tavern)
 "eZH" = (
 /obj/structure/closet/crate/chest/wicker,
@@ -5650,7 +5650,7 @@
 /turf/open/floor/greenstone,
 /area/under/town/basement)
 "feS" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/indoors/town/dwarfin)
 "ffK" = (
 /obj/structure/bookcase/random/myths,
@@ -5763,7 +5763,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/indoors/town/orphanage)
 "fkT" = (
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/indoors/town/garrison)
 "fkX" = (
 /obj/structure/spider/stickyweb/solo,
@@ -5846,7 +5846,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "Basement2Passage"
 	},
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/town/basement)
 "frm" = (
 /turf/open/floor/cobble,
@@ -5865,7 +5865,7 @@
 /turf/open/floor/wood/nosmooth,
 /area/outdoors/town)
 "fsT" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 8
 	},
 /area/indoors/butchershop)
@@ -5923,12 +5923,12 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "Cuck"
 	},
-/turf/closed/wall/mineral/roofwall/middle{
+/turf/closed/wall/mineral/wood/roofwall/middle{
 	dir = 8
 	},
 /area/indoors/town/manor)
 "fux" = (
-/turf/closed/wall/mineral/decostone/center,
+/turf/closed/wall/mineral/stone/decostone/center,
 /area/indoors/town/clinic_large)
 "fuO" = (
 /obj/structure/door{
@@ -5957,7 +5957,7 @@
 /turf/open/floor/carpet/red,
 /area/indoors/town/manor)
 "fwD" = (
-/turf/closed/wall/mineral/wood/window,
+/turf/closed/wall/mineral/wood/log/window,
 /area/indoors/town/theatre)
 "fxm" = (
 /obj/structure/fermentation_keg/water,
@@ -6083,10 +6083,10 @@
 /turf/open/floor/tile/bfloorz,
 /area/indoors/town/bath)
 "fBL" = (
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/indoors/town)
 "fCB" = (
-/turf/closed/wall/mineral/roofwall/innercorner{
+/turf/closed/wall/mineral/wood/roofwall/innercorner{
 	dir = 4
 	},
 /area/indoors/town/manor)
@@ -6100,7 +6100,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/indoors/town)
 "fDm" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 1
 	},
 /area/indoors/town/clinic_large)
@@ -6200,7 +6200,7 @@
 /turf/open/floor/blocks,
 /area/under/town/basement)
 "fIp" = (
-/turf/closed/wall/mineral/roofwall/middle{
+/turf/closed/wall/mineral/wood/roofwall/middle{
 	dir = 8
 	},
 /area/outdoors/town/roofs)
@@ -6267,7 +6267,7 @@
 /turf/open/transparent/openspace,
 /area/outdoors/town)
 "fLI" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors/town/clinic_large)
 "fLZ" = (
 /turf/open/floor/tile/checkeralt,
@@ -6334,7 +6334,7 @@
 /area/indoors/town/church)
 "fPH" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/outdoors/town)
 "fQL" = (
 /turf/open/floor/ruinedwood/spiral,
@@ -6367,7 +6367,7 @@
 /turf/closed,
 /area/under/cavelava)
 "fTN" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/clinic_large)
 "fTY" = (
 /obj/structure/stairs,
@@ -6389,7 +6389,7 @@
 /turf/open/floor/hexstone,
 /area/indoors/town/orphanage)
 "fUR" = (
-/turf/closed/wall/mineral/roofwall/innercorner{
+/turf/closed/wall/mineral/wood/roofwall/innercorner{
 	dir = 8
 	},
 /area/indoors/town/tavern)
@@ -6525,14 +6525,14 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/indoors/town/smithy)
 "fZG" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town/tavern)
 "fZV" = (
 /obj/structure/stairs/stone,
 /turf/open/floor/carpet,
 /area/indoors/town/manor)
 "fZZ" = (
-/turf/closed/wall/mineral/roofwall/outercorner{
+/turf/closed/wall/mineral/wood/roofwall/outercorner{
 	dir = 8
 	},
 /area/indoors/town/tavern)
@@ -6540,7 +6540,7 @@
 /turf/open/floor/carpet/red,
 /area/indoors/town/manor)
 "gaA" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/town/basement)
 "gaB" = (
 /obj/structure/table/wood/large/corner{
@@ -6551,10 +6551,10 @@
 /turf/open/floor/church,
 /area/indoors/town/church)
 "gaG" = (
-/turf/closed/wall/mineral/roofwall/outercorner,
+/turf/closed/wall/mineral/wood/roofwall/outercorner,
 /area/outdoors/town/roofs)
 "gaW" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/outdoors/town)
 "gbj" = (
 /obj/structure/closet/crate/drawer,
@@ -6569,7 +6569,7 @@
 	},
 /area/indoors/town/dwarfin)
 "gbz" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors/soilsons)
 "gca" = (
 /obj/structure/table/wood/large/corner_new{
@@ -6838,10 +6838,10 @@
 /turf/open/floor/metal/barograte,
 /area/indoors/town/clocktower)
 "grJ" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/outdoors/town)
 "grV" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/bath)
 "grZ" = (
 /turf/open/floor/ruinedwood/spiral,
@@ -6985,7 +6985,7 @@
 /turf/open/floor/blocks,
 /area/under/town/basement)
 "gwS" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 1
 	},
 /area/indoors/town/tavern)
@@ -7002,13 +7002,13 @@
 /turf/open/floor/cobble,
 /area/indoors/town/church)
 "gAa" = (
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/indoors/town/smithy)
 "gAJ" = (
 /obj/structure/lever/hidden/keep{
 	redstone_id = "Hall1Passage"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "gBr" = (
 /obj/structure/chair/wood/alt{
@@ -7112,7 +7112,7 @@
 /turf/closed/wall/mineral/pipe,
 /area/indoors/town/dwarfin)
 "gGw" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 8
 	},
 /area/indoors/town/tavern)
@@ -7185,7 +7185,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "doorroom"
 	},
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/town/orphanage)
 "gJN" = (
 /obj/structure/fluff/walldeco/church/line,
@@ -7237,7 +7237,7 @@
 /area/indoors/town/dwarfin)
 "gKT" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 1
 	},
 /area/indoors/town)
@@ -7282,7 +7282,7 @@
 /turf/open/floor/greenstone,
 /area/indoors/town/magician)
 "gMD" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/town/sewer)
 "gMQ" = (
 /obj/effect/landmark/start/steward{
@@ -7327,7 +7327,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "RoofAccess1"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "gOu" = (
 /obj/structure/chair/bench/church{
@@ -7440,7 +7440,7 @@
 /turf/open/floor/wood,
 /area/indoors/town)
 "gSx" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/town/merc_guild)
 "gSC" = (
 /obj/structure/bookcase/random/myths,
@@ -7505,7 +7505,7 @@
 /turf/open/floor/cobblerock,
 /area/outdoors/woods)
 "gWU" = (
-/turf/closed/wall/mineral/roofwall/outercorner{
+/turf/closed/wall/mineral/wood/roofwall/outercorner{
 	dir = 8
 	},
 /area/indoors/town/manor)
@@ -7556,7 +7556,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "HandPassage"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "had" = (
 /obj/structure/fluff/railing/wood{
@@ -7578,7 +7578,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "Basement5Passage"
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/town/basement)
 "haF" = (
 /obj/structure/stairs/stone/church{
@@ -7622,7 +7622,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "KeepBathPassage"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "hcA" = (
 /obj/structure/bridge_stakes{
@@ -7644,7 +7644,7 @@
 /turf/open/floor/ruinedwood/turned/darker,
 /area/under/town/sewer)
 "hcX" = (
-/turf/closed/wall/mineral/wooddark/end,
+/turf/closed/wall/mineral/wood/wooddark/end,
 /area/indoors/town/tavern)
 "hdR" = (
 /obj/structure/bars,
@@ -7692,7 +7692,7 @@
 /turf/open/floor/tile,
 /area/indoors/town/vault)
 "hfA" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/butchershop)
 "hfU" = (
 /obj/structure/fluff/railing/border,
@@ -7734,7 +7734,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "KeepBath2Passage"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "hiW" = (
 /mob/living/simple_animal/hostile/retaliate/saiga/tame,
@@ -7776,7 +7776,7 @@
 /turf/open/floor/carpet/royalblack,
 /area/indoors/town/manor)
 "hkA" = (
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/outdoors/town)
 "hkV" = (
 /obj/structure/table/wood{
@@ -7854,7 +7854,7 @@
 /turf/open/floor/tile,
 /area/indoors/town/magician)
 "hpn" = (
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/indoors/town/cell)
 "hqe" = (
 /obj/structure/fluff/walldeco/church/line{
@@ -7890,7 +7890,7 @@
 /turf/open/floor/cobblerock,
 /area/indoors/town/manor)
 "hrb" = (
-/turf/closed/wall/mineral/roofwall/outercorner{
+/turf/closed/wall/mineral/wood/roofwall/outercorner{
 	dir = 1
 	},
 /area/indoors/town/tavern)
@@ -7951,7 +7951,7 @@
 /turf/open/floor/wood,
 /area/indoors/butchershop)
 "htS" = (
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/under/town/sewer)
 "htX" = (
 /obj/structure/chair/wood/alt/chair_noble/red{
@@ -8012,7 +8012,7 @@
 /turf/open/floor/ruinedwood/darker,
 /area/indoors/town/orphanage)
 "hvk" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/outdoors/town)
 "hvA" = (
 /obj/structure/fluff/railing/border,
@@ -8145,7 +8145,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "Basement2Passage"
 	},
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/town/basement)
 "hCC" = (
 /obj/structure/fluff/railing/border,
@@ -8209,7 +8209,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/indoors/town/orphanage)
 "hEH" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/outdoors/town/roofs)
 "hEL" = (
 /obj/machinery/light/fueled/wallfire/candle,
@@ -8272,7 +8272,7 @@
 /turf/open/floor/church/purple,
 /area/indoors/town/church/inquisition)
 "hGp" = (
-/turf/closed/wall/mineral/stone/window/moss,
+/turf/closed/wall/mineral/stone/cobble/window/moss,
 /area/outdoors/town)
 "hGs" = (
 /obj/structure/table/wood{
@@ -8290,7 +8290,7 @@
 /turf/open/floor/wood,
 /area/indoors/soilsons)
 "hGD" = (
-/turf/closed/wall/mineral/wooddark/end,
+/turf/closed/wall/mineral/wood/wooddark/end,
 /area/indoors/town/shop)
 "hGJ" = (
 /turf/open/floor/carpet/royalblack,
@@ -8316,7 +8316,7 @@
 /area/outdoors/town)
 "hHC" = (
 /obj/structure/fluff/walldeco/psybanner,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/church/chapel)
 "hHN" = (
 /obj/structure/table/wood/reinf_long,
@@ -8335,7 +8335,7 @@
 /turf/open/floor/dirt,
 /area/indoors/town/church/inquisition)
 "hIy" = (
-/turf/closed/wall/mineral/stone/moss/red,
+/turf/closed/wall/mineral/stone/cobble/moss/red,
 /area/indoors/town)
 "hIW" = (
 /obj/structure/table/wood{
@@ -8484,7 +8484,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "KeepBathPassage"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "hQz" = (
 /turf/closed/mineral/random,
@@ -8611,7 +8611,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "Basement2Passage"
 	},
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/town/basement)
 "hWJ" = (
 /obj/structure/pottery_lathe,
@@ -8647,14 +8647,14 @@
 /turf/open/floor/dirt,
 /area/outdoors/town)
 "hZa" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/theatre)
 "hZU" = (
 /obj/structure/chair/stool,
 /turf/open/floor/dirt,
 /area/under/town/sewer)
 "iax" = (
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/outdoors/town/roofs)
 "iay" = (
 /obj/structure/bars/pipe{
@@ -8692,7 +8692,7 @@
 /turf/open/water/cleanshallow,
 /area/under/town/sewer)
 "icM" = (
-/turf/closed/wall/mineral/roofwall/innercorner{
+/turf/closed/wall/mineral/wood/roofwall/innercorner{
 	dir = 1
 	},
 /area/indoors/town/manor)
@@ -8856,7 +8856,7 @@
 /turf/open/floor/churchbrick,
 /area/indoors/town/church)
 "ikb" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 1
 	},
 /area/indoors/town/merc_guild)
@@ -8961,7 +8961,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "Basement3Passage"
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/town/basement)
 "imR" = (
 /obj/structure/fluff/walldeco/painting{
@@ -8990,7 +8990,7 @@
 /turf/open/floor/metal/alt,
 /area/indoors/town/magician)
 "inE" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/garrison)
 "inH" = (
 /obj/structure/rack/shelf/biggest,
@@ -9059,7 +9059,7 @@
 /turf/open/floor/blocks/newstone/alt,
 /area/indoors/town/merc_guild)
 "irh" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/indoors/town)
 "irE" = (
 /obj/structure/closet/crate/chest/crate,
@@ -9176,7 +9176,7 @@
 /turf/open/water,
 /area/under/cavewet)
 "iwH" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/indoors/town/dwarfin)
 "iwW" = (
 /obj/structure/table/wood/plain_alt,
@@ -9232,7 +9232,7 @@
 /turf/open/floor/tile,
 /area/under/town/sewer)
 "iyJ" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/town/merc_guild)
 "iyW" = (
 /obj/structure/fluff/walldeco/church/line{
@@ -9358,7 +9358,7 @@
 /turf/open/water/marsh,
 /area/under/town/sewer)
 "iEA" = (
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/under/cave)
 "iEX" = (
 /obj/structure/stairs/stone{
@@ -9459,7 +9459,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "Basement1Passage"
 	},
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/town/basement)
 "iJe" = (
 /obj/structure/flora/grass/water/reeds,
@@ -9647,7 +9647,7 @@
 	vips = list("Orphan");
 	redstone_id = "doorroom"
 	},
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/town/orphanage)
 "iQK" = (
 /obj/structure/fluff/walldeco/church/line{
@@ -9717,7 +9717,7 @@
 /turf/open/transparent/openspace,
 /area/outdoors/town)
 "iTO" = (
-/turf/closed/wall/mineral/decostone/cand,
+/turf/closed/wall/mineral/stone/decostone/cand,
 /area/indoors/town/church)
 "iUc" = (
 /obj/structure/noose,
@@ -9772,7 +9772,7 @@
 /turf/open/floor/ruinedwood/darker,
 /area/indoors/town/orphanage)
 "iWE" = (
-/turf/closed/wall/mineral/roofwall/middle{
+/turf/closed/wall/mineral/wood/roofwall/middle{
 	dir = 8
 	},
 /area/indoors/town/tavern)
@@ -9798,7 +9798,7 @@
 /turf/open/floor/church,
 /area/indoors/town/church)
 "iXh" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/town/sewer)
 "iXy" = (
 /obj/structure/closet/crate/crafted_closet,
@@ -9866,7 +9866,7 @@
 /turf/open/floor/wood,
 /area/indoors/town/church/chapel)
 "iZW" = (
-/turf/closed/wall/mineral/wooddark/end,
+/turf/closed/wall/mineral/wood/wooddark/end,
 /area/indoors/town)
 "jas" = (
 /obj/structure/chair/wood/alt/chair_noble/red,
@@ -10149,7 +10149,7 @@
 /turf/open/floor/cobble,
 /area/under/town/basement)
 "jkH" = (
-/turf/closed/wall/mineral/roofwall/middle,
+/turf/closed/wall/mineral/wood/roofwall/middle,
 /area/indoors/town/manor)
 "jkM" = (
 /obj/structure/table/wood{
@@ -10254,7 +10254,7 @@
 /turf/open/floor/wood,
 /area/indoors/town/orphanage)
 "jqv" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 8
 	},
 /area/indoors/town/shop)
@@ -10263,7 +10263,7 @@
 /turf/open/floor/grass,
 /area/outdoors/town)
 "jsc" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/outdoors/town/roofs)
 "jsj" = (
 /obj/structure/closet/crate/drawer,
@@ -10423,10 +10423,10 @@
 "jwP" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/machinery/light/fueled/wallfire/candle/blue,
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/town/church/inquisition)
 "jxa" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 8
 	},
 /area/indoors/soilsons)
@@ -10437,7 +10437,7 @@
 /turf/open/floor/wood,
 /area/outdoors/town/roofs)
 "jxi" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/dwarfin)
 "jxm" = (
 /obj/structure/table/wood/counter/end{
@@ -10446,7 +10446,7 @@
 /turf/open/floor/carpet/royalblack,
 /area/indoors/town/orphanage)
 "jxt" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/town/orphanage)
 "jxC" = (
 /obj/machinery/light/fueled/wallfire/candle/blue/l,
@@ -10505,7 +10505,7 @@
 /turf/open/floor/tile/bath,
 /area/indoors/town/manor)
 "jAj" = (
-/turf/closed/wall/mineral/roofwall/outercorner{
+/turf/closed/wall/mineral/wood/roofwall/outercorner{
 	dir = 4
 	},
 /area/indoors/town/manor)
@@ -10566,7 +10566,7 @@
 /turf/open/floor/blocks,
 /area/indoors/town/manor)
 "jCs" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 4
 	},
 /area/indoors/soilsons)
@@ -10757,14 +10757,14 @@
 /turf/open/floor/ruinedwood/chevron,
 /area/indoors/town)
 "jNj" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/outdoors/town/roofs)
 "jNk" = (
 /obj/structure/roguerock,
 /turf/open/floor/dirt,
 /area/outdoors/town)
 "jNo" = (
-/turf/closed/wall/mineral/roofwall/middle{
+/turf/closed/wall/mineral/wood/roofwall/middle{
 	dir = 8
 	},
 /area/indoors/town/manor)
@@ -10797,7 +10797,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "Guest1Passage"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "jPl" = (
 /obj/structure/fluff/railing/wood{
@@ -10895,7 +10895,7 @@
 	},
 /area/indoors/town/manor)
 "jRY" = (
-/turf/closed/wall/mineral/wooddark/end,
+/turf/closed/wall/mineral/wood/wooddark/end,
 /area/indoors/town/clinic_large)
 "jSe" = (
 /obj/effect/decal/cobbleedge{
@@ -10906,7 +10906,7 @@
 /turf/open/floor/tile/kitchen,
 /area/indoors/town)
 "jSg" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/cave)
 "jSs" = (
 /obj/structure/chair/wood/alt/chair3{
@@ -10944,7 +10944,7 @@
 /area/indoors/town/orphanage)
 "jUF" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/wooddark/window,
+/turf/closed/wall/mineral/wood/wooddark/window,
 /area/indoors/town)
 "jVj" = (
 /obj/structure/fake_machine/scomm/r,
@@ -11491,7 +11491,7 @@
 /turf/open/floor/wood/nosmooth,
 /area/indoors/town/manor)
 "ktT" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/tavern)
 "kuc" = (
 /obj/structure/stairs,
@@ -11774,7 +11774,7 @@
 /turf/open/floor/blocks/stonered/tiny,
 /area/indoors/town/bath)
 "kFW" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/cave)
 "kFX" = (
 /turf/open/water/marsh,
@@ -11863,7 +11863,7 @@
 /turf/open/floor/cobble/mossy,
 /area/outdoors/town)
 "kIs" = (
-/turf/closed/wall/mineral/roofwall/innercorner{
+/turf/closed/wall/mineral/wood/roofwall/innercorner{
 	dir = 8
 	},
 /area/indoors/town/manor)
@@ -11944,7 +11944,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "CaptainPassage"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "kLF" = (
 /obj/effect/decal/cleanable/blood/splatter,
@@ -12202,10 +12202,10 @@
 /obj/structure/fluff/railing/border{
 	dir = 8
 	},
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/outdoors/town)
 "kWx" = (
-/turf/closed/wall/mineral/decostone/moss/cand,
+/turf/closed/wall/mineral/stone/decostone/moss/cand,
 /area/indoors/town/church)
 "kWy" = (
 /turf/open/floor/wood/nosmooth,
@@ -12392,7 +12392,7 @@
 /area/indoors/town/tavern)
 "lcW" = (
 /obj/structure/fluff/walldeco/mageguild,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/indoors/town/magician)
 "ldo" = (
 /obj/structure/fluff/railing/border,
@@ -12519,7 +12519,7 @@
 /turf/open/floor/woodturned,
 /area/indoors/town/shop)
 "ljt" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 4
 	},
 /area/indoors/town/merc_guild)
@@ -12560,7 +12560,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/outdoors/town)
 "lkL" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/outdoors/town/roofs)
 "lkY" = (
 /obj/structure/door/swing,
@@ -12729,10 +12729,10 @@
 /turf/open/floor/blocks/stonered/tiny,
 /area/indoors/town/bath)
 "lvv" = (
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/indoors/town/church/chapel)
 "lvF" = (
-/turf/closed/wall/mineral/decostone/center,
+/turf/closed/wall/mineral/stone/decostone/center,
 /area/outdoors/town)
 "lwd" = (
 /obj/structure/fake_machine/hailer/r,
@@ -12746,7 +12746,7 @@
 /turf/open/floor/blocks,
 /area/under/town/basement)
 "lwN" = (
-/turf/closed/wall/mineral/wooddark/window,
+/turf/closed/wall/mineral/wood/wooddark/window,
 /area/indoors/soilsons)
 "lwZ" = (
 /obj/structure/composter/halffull,
@@ -12770,7 +12770,7 @@
 /turf/open/floor/cobble,
 /area/under/town/basement)
 "lyk" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/orphanage)
 "lyw" = (
 /obj/machinery/light/fueled/firebowl,
@@ -12815,7 +12815,7 @@
 /turf/open/floor/cobble,
 /area/under/town/sewer)
 "lBn" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/town)
 "lBB" = (
 /mob/living/carbon/human/species/skeleton/npc/ambush,
@@ -12981,7 +12981,7 @@
 /area/outdoors/town)
 "lJl" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/indoors/town/smithy)
 "lKe" = (
 /obj/item/natural/cloth{
@@ -13071,7 +13071,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "HeirPassage2"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "lPl" = (
 /turf/open/lava,
@@ -13084,7 +13084,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "Basement3Passage"
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/town/basement)
 "lPV" = (
 /obj/structure/table/wood{
@@ -13100,7 +13100,7 @@
 /turf/open/floor/blocks,
 /area/outdoors/town/roofs)
 "lQW" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors/town/bath)
 "lQY" = (
 /obj/structure/chair/stool,
@@ -13343,7 +13343,7 @@
 /turf/open/floor/wood,
 /area/outdoors/town/roofs)
 "lYR" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 8
 	},
 /area/indoors/town)
@@ -13601,7 +13601,7 @@
 /turf/open/floor/ruinedwood/turned/darker,
 /area/indoors/town)
 "mlk" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town)
 "mlz" = (
 /obj/structure/bookcase/random/legends,
@@ -13615,7 +13615,7 @@
 /turf/open/floor/cobblerock,
 /area/under/town/sewer)
 "mlX" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 4
 	},
 /area/indoors/town/shop)
@@ -13812,7 +13812,7 @@
 /turf/open/floor/grass,
 /area/outdoors/rtfield)
 "muu" = (
-/turf/closed/wall/mineral/roofwall/center,
+/turf/closed/wall/mineral/wood/roofwall/center,
 /area/indoors/town/manor)
 "mux" = (
 /obj/structure/chair/wood/alt/chair_noble/purple{
@@ -13850,7 +13850,7 @@
 /area/outdoors/rtfield/safe)
 "mxn" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/town/merc_guild)
 "mxs" = (
 /obj/structure/stairs{
@@ -14000,7 +14000,7 @@
 /turf/open/floor/twig,
 /area/outdoors/town)
 "mBU" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/bath)
 "mCJ" = (
 /obj/structure/fluff/railing/wood{
@@ -14042,7 +14042,7 @@
 /area/indoors/town/bath)
 "mEH" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/indoors/town)
 "mEJ" = (
 /obj/structure/fluff/walldeco/church/line{
@@ -14147,7 +14147,7 @@
 /turf/open/floor/cobble/alt,
 /area/indoors/town/manor)
 "mJn" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/town/sewer)
 "mJM" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -14188,7 +14188,7 @@
 /area/outdoors/town/roofs)
 "mNi" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town)
 "mNR" = (
 /obj/structure/bars/cemetery,
@@ -14251,12 +14251,12 @@
 /turf/open/floor/wood/nosmooth,
 /area/outdoors/rtfield)
 "mRP" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 4
 	},
 /area/indoors/town/smithy)
 "mRW" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/outdoors/rtfield)
 "mRY" = (
 /obj/structure/closet/crate/chest/wicker,
@@ -14325,7 +14325,7 @@
 /turf/open/floor/wood,
 /area/indoors/town/tavern)
 "mVy" = (
-/turf/closed/wall/mineral/decostone/center,
+/turf/closed/wall/mineral/stone/decostone/center,
 /area/indoors/town/manor)
 "mVG" = (
 /obj/structure/stairs,
@@ -14368,7 +14368,7 @@
 /turf/open/floor/blocks,
 /area/indoors/town/manor)
 "mYF" = (
-/turf/closed/wall/mineral/roofwall/middle,
+/turf/closed/wall/mineral/wood/roofwall/middle,
 /area/indoors/town/tavern)
 "mYT" = (
 /obj/structure/bed/hay,
@@ -14451,10 +14451,10 @@
 /area/indoors/town/church/chapel)
 "nbP" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town)
 "nbV" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/soilsons)
 "nci" = (
 /obj/structure/bridge_stakes{
@@ -14487,7 +14487,7 @@
 	},
 /area/indoors/town/tavern)
 "nee" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "nen" = (
 /obj/structure/table/wood/large/corner_new{
@@ -14778,7 +14778,7 @@
 /turf/open/floor/grass/yel,
 /area/outdoors/town)
 "nsZ" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/outdoors/town)
 "ntl" = (
 /obj/machinery/light/fueled/torchholder/r,
@@ -15245,7 +15245,7 @@
 /turf/open/floor/wood/nosmooth,
 /area/indoors/town)
 "nSJ" = (
-/turf/closed/wall/mineral/wooddark/end,
+/turf/closed/wall/mineral/wood/wooddark/end,
 /area/indoors/soilsons)
 "nST" = (
 /obj/structure/bars/pipe{
@@ -15372,7 +15372,7 @@
 /turf/open/floor/naturalstone,
 /area/under/town/sewer)
 "nWN" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manorgate)
 "nWO" = (
 /obj/structure/stairs{
@@ -15417,10 +15417,10 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/outdoors/town)
 "nYD" = (
-/turf/closed/wall/mineral/roofwall/outercorner,
+/turf/closed/wall/mineral/wood/roofwall/outercorner,
 /area/indoors/town/tavern)
 "nYR" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/town/manorgate)
 "nZk" = (
 /obj/structure/fluff/walldeco/church/line{
@@ -15456,10 +15456,10 @@
 /area/outdoors/rtfield/safe)
 "nZv" = (
 /obj/structure/fluff/walldeco/masonflag,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/smithy)
 "nZy" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/shop)
 "nZH" = (
 /obj/structure/fluff/walldeco/church/line{
@@ -15477,7 +15477,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/indoors/town/merc_guild)
 "oab" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/town/church)
 "oau" = (
 /obj/structure/closet/crate/chest,
@@ -15508,7 +15508,7 @@
 /turf/open/floor/carpet/royalblack,
 /area/under/town/sewer)
 "occ" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 1
 	},
 /area/indoors/soilsons)
@@ -15556,7 +15556,7 @@
 	layer = 2.81
 	},
 /obj/structure/fake_machine/vendor/blacksmith,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/smithy)
 "ofP" = (
 /obj/structure/closet/crate/chest/old_crate,
@@ -15798,7 +15798,7 @@
 /turf/open/floor/blocks/stonered,
 /area/indoors/town/manor)
 "opT" = (
-/turf/closed/wall/mineral/roofwall/innercorner,
+/turf/closed/wall/mineral/wood/roofwall/innercorner,
 /area/indoors/town/tavern)
 "oqA" = (
 /obj/structure/fluff/nest{
@@ -15807,7 +15807,7 @@
 /turf/open/floor/dirt/road,
 /area/indoors/town/church/inquisition)
 "oqZ" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/clinic_large)
 "orh" = (
 /obj/structure/rack/shelf/biggest,
@@ -15884,7 +15884,7 @@
 /area/outdoors/town)
 "osD" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town)
 "osJ" = (
 /obj/structure/table/wood{
@@ -15964,7 +15964,7 @@
 /turf/open/floor/tile,
 /area/under/town/basement)
 "ozh" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/church/chapel)
 "ozo" = (
 /turf/open/floor/grass,
@@ -16021,7 +16021,7 @@
 /turf/open/floor/churchmarble,
 /area/indoors/town/church/inquisition)
 "oAV" = (
-/turf/closed/wall/mineral/decostone/center,
+/turf/closed/wall/mineral/stone/decostone/center,
 /area/indoors/town/magician)
 "oBi" = (
 /obj/structure/chair/wood/alt/chair3{
@@ -16031,7 +16031,7 @@
 /area/indoors/town)
 "oCe" = (
 /obj/structure/fluff/walldeco/masonflag,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/town/dwarfin)
 "oCR" = (
 /turf/open/floor/cobble,
@@ -16128,7 +16128,7 @@
 /turf/open/floor/dirt/road,
 /area/outdoors/rtfield)
 "oGW" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/steward)
 "oHh" = (
 /obj/structure/window/openclose{
@@ -16165,7 +16165,7 @@
 /area/indoors/town/manor)
 "oJi" = (
 /obj/structure/fluff/railing/wood,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/outdoors/town)
 "oJk" = (
 /mob/living/simple_animal/pet/cat/cabbit{
@@ -16202,7 +16202,7 @@
 /turf/open/floor/blocks/stonered,
 /area/indoors/town/manor)
 "oKS" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/indoors/town/church/chapel)
 "oLi" = (
 /obj/effect/decal/cleanable/roguerune/arcyne/summoning/mid,
@@ -16261,7 +16261,7 @@
 /turf/open/floor/wood,
 /area/indoors/town/manor)
 "oNA" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/town/cell)
 "oNP" = (
 /obj/structure/fermentation_keg/random/water,
@@ -16293,7 +16293,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/indoors/town/smithy)
 "oPv" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors/town/smithy)
 "oQv" = (
 /turf/open/floor/woodturned,
@@ -16390,7 +16390,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/indoors/town/orphanage)
 "oWR" = (
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/indoors/town)
 "oXB" = (
 /turf/open/floor/blocks,
@@ -16412,7 +16412,7 @@
 /turf/open/floor/blocks/newstone/alt,
 /area/indoors/town/dwarfin)
 "oYg" = (
-/turf/closed/wall/mineral/decostone/moss/cand,
+/turf/closed/wall/mineral/stone/decostone/moss/cand,
 /area/under/town/sewer)
 "oYs" = (
 /obj/structure/chair/bench/church/r{
@@ -16563,7 +16563,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "RoofAccess1"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "pfF" = (
 /obj/structure/chair/bench/church/smallbench,
@@ -16608,7 +16608,7 @@
 /turf/open/floor/wood/nosmooth,
 /area/indoors/town/manor)
 "phs" = (
-/turf/closed/wall/mineral/wood/window,
+/turf/closed/wall/mineral/wood/log/window,
 /area/indoors/town/tavern)
 "phL" = (
 /obj/effect/decal/cleanable/dirt/cobweb{
@@ -16703,7 +16703,7 @@
 /turf/open/floor/cobble,
 /area/indoors/town/garrison)
 "pki" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/shop)
 "pkj" = (
 /obj/structure/stairs/stone{
@@ -16747,7 +16747,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "Hall1Passage"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "pmb" = (
 /obj/structure/roguerock{
@@ -17038,7 +17038,7 @@
 /turf/open/floor/carpet/royalblack,
 /area/indoors/town/magician)
 "pBI" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/cave)
 "pCc" = (
 /obj/structure/chair/stool,
@@ -17157,7 +17157,7 @@
 /turf/open/floor/cobblerock,
 /area/under/cavewet)
 "pHQ" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 8
 	},
 /area/indoors/town/clinic_large)
@@ -17176,7 +17176,7 @@
 /turf/open/floor/herringbone,
 /area/indoors/town/smithy)
 "pIA" = (
-/turf/closed/wall/mineral/roofwall/middle{
+/turf/closed/wall/mineral/wood/roofwall/middle{
 	dir = 1
 	},
 /area/indoors/town/manor)
@@ -17269,7 +17269,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "HallZPassage"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "pNR" = (
 /obj/structure/flora/tree,
@@ -17482,7 +17482,7 @@
 /area/outdoors/town)
 "pXq" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/town/merc_guild)
 "pXt" = (
 /obj/structure/stairs/stone{
@@ -17597,7 +17597,7 @@
 /turf/open/transparent/openspace,
 /area/indoors/town/merc_guild)
 "qed" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/indoors/town/steward)
 "qeh" = (
 /obj/machinery/light/fueled/torchholder/c,
@@ -17673,7 +17673,7 @@
 /turf/open/floor/blocks/newstone/alt,
 /area/indoors/town/dwarfin)
 "qhN" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/indoors/town/smithy)
 "qhQ" = (
 /turf/open/floor/cobble,
@@ -17852,10 +17852,10 @@
 /turf/open/floor/blocks/stonered/tiny,
 /area/indoors/town/bath)
 "qqt" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/tavern)
 "qrs" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/town/vault)
 "qrw" = (
 /obj/structure/bars,
@@ -17892,7 +17892,7 @@
 /turf/open/floor/cobble,
 /area/under/town/basement)
 "qua" = (
-/turf/closed/wall/mineral/roofwall/outercorner{
+/turf/closed/wall/mineral/wood/roofwall/outercorner{
 	dir = 1
 	},
 /area/indoors/town/manor)
@@ -17944,7 +17944,7 @@
 /turf/open/floor/carpet/royalblack,
 /area/indoors/town/manor)
 "qwF" = (
-/turf/closed/wall/mineral/roofwall/outercorner{
+/turf/closed/wall/mineral/wood/roofwall/outercorner{
 	dir = 4
 	},
 /area/indoors/town/tavern)
@@ -17956,7 +17956,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/indoors/town)
 "qwK" = (
-/turf/closed/wall/mineral/roofwall/middle,
+/turf/closed/wall/mineral/wood/roofwall/middle,
 /area/outdoors/town/roofs)
 "qwP" = (
 /obj/structure/window/openclose{
@@ -18077,7 +18077,7 @@
 /turf/open/floor/grass/yel,
 /area/outdoors/town)
 "qEi" = (
-/turf/closed/wall/mineral/roofwall/middle{
+/turf/closed/wall/mineral/wood/roofwall/middle{
 	dir = 1
 	},
 /area/indoors/town/tavern)
@@ -18111,12 +18111,12 @@
 /turf/open/floor/cobble,
 /area/under/town/basement)
 "qGc" = (
-/turf/closed/wall/mineral/roofwall/middle{
+/turf/closed/wall/mineral/wood/roofwall/middle{
 	dir = 1
 	},
 /area/outdoors/town/roofs)
 "qGj" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/bath)
 "qGt" = (
 /obj/structure/table/wood/reinforced,
@@ -18175,7 +18175,7 @@
 /area/indoors/town/bath)
 "qHS" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/church/chapel)
 "qHT" = (
 /obj/structure/stairs{
@@ -18335,7 +18335,7 @@
 /area/indoors/town/smithy)
 "qOk" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 1
 	},
 /area/indoors/town/tavern)
@@ -18404,7 +18404,7 @@
 /turf/open/floor/carpet/royalblack,
 /area/indoors/town/orphanage)
 "qRn" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/outdoors/rtfield)
 "qRJ" = (
 /turf/open/water/bath,
@@ -18512,7 +18512,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "HeirPassage3"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "qXM" = (
 /obj/structure/fluff/railing/wood{
@@ -18572,7 +18572,7 @@
 /turf/open/water/marsh,
 /area/outdoors/town)
 "qZE" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/town/basement)
 "qZF" = (
 /obj/structure/closet/crate/crafted_closet,
@@ -18800,7 +18800,7 @@
 /turf/open/floor/blocks/stonered/tiny,
 /area/indoors/town/manor)
 "rjD" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 1
 	},
 /area/indoors/town)
@@ -18912,7 +18912,7 @@
 /turf/open/water/river/dirt,
 /area/under/town/sewer)
 "rnL" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town)
 "ros" = (
 /obj/structure/bars,
@@ -19001,7 +19001,7 @@
 /turf/open/transparent/openspace,
 /area/indoors/town/magician)
 "rxu" = (
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/indoors/town/bath)
 "rxC" = (
 /obj/structure/fermentation_keg,
@@ -19226,7 +19226,7 @@
 /area/indoors/town/garrison)
 "rHF" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/indoors/town/church/chapel)
 "rHG" = (
 /obj/structure/fluff/walldeco/church/line{
@@ -19341,7 +19341,7 @@
 /turf/open/floor/dirt,
 /area/outdoors/town)
 "rQe" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/clinic_large)
 "rQw" = (
 /obj/structure/table/wood{
@@ -19375,7 +19375,7 @@
 /area/outdoors/town)
 "rSe" = (
 /obj/structure/fluff/walldeco/psybanner,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/church)
 "rSu" = (
 /obj/structure/bookcase/random,
@@ -19406,7 +19406,7 @@
 /turf/open/floor/blocks/stonered/tiny,
 /area/indoors/town/manor)
 "rTS" = (
-/turf/closed/wall/mineral/wooddark/window,
+/turf/closed/wall/mineral/wood/wooddark/window,
 /area/outdoors/town/roofs)
 "rTX" = (
 /turf/open/floor/carpet/royalblack,
@@ -19562,7 +19562,7 @@
 /turf/open/floor/cobble,
 /area/under/town/basement)
 "sac" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/town/cell)
 "sag" = (
 /turf/open/floor/ruinedwood/turned/darker,
@@ -19592,7 +19592,7 @@
 /turf/open/floor/churchbrick,
 /area/indoors/town/church/inquisition)
 "saT" = (
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/outdoors/rtfield)
 "sbe" = (
 /obj/effect/landmark/events/haunts,
@@ -19620,7 +19620,7 @@
 /turf/open/floor/dirt/road,
 /area/outdoors/rtfield/safe)
 "scE" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/indoors/town/orphanage)
 "scV" = (
 /obj/effect/landmark/tram/queued_path/cargo_exit{
@@ -19641,7 +19641,7 @@
 /turf/open/floor/wood/nosmooth,
 /area/indoors/town)
 "sdA" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/outdoors/town/roofs)
 "sdI" = (
 /obj/structure/fluff/railing/wood{
@@ -19669,7 +19669,7 @@
 /turf/open/floor/greenstone,
 /area/indoors/town/manor)
 "sey" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/soilsons)
 "seP" = (
 /obj/machinery/essence/research_matrix{
@@ -19682,7 +19682,7 @@
 /turf/open/floor/wood,
 /area/indoors/soilsons)
 "sfm" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 4
 	},
 /area/indoors/town)
@@ -19936,7 +19936,7 @@
 /turf/open/floor/wood/nosmooth,
 /area/indoors/town)
 "stl" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/church)
 "stq" = (
 /obj/structure/closet/crate/chest/crate,
@@ -19971,7 +19971,7 @@
 /area/outdoors/town)
 "sue" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/town/sewer)
 "suW" = (
 /obj/structure/fluff/walldeco/church/line{
@@ -20018,7 +20018,7 @@
 /turf/open/floor/carpet/royalblack,
 /area/indoors/town/magician)
 "swu" = (
-/turf/closed/wall/mineral/roofwall/outercorner{
+/turf/closed/wall/mineral/wood/roofwall/outercorner{
 	dir = 8
 	},
 /area/outdoors/town/roofs)
@@ -20032,7 +20032,7 @@
 /turf/open/floor/tile/bath,
 /area/indoors/town/manor)
 "sxu" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 1
 	},
 /area/indoors/butchershop)
@@ -20085,7 +20085,7 @@
 /area/indoors/town/manor)
 "syB" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 4
 	},
 /area/indoors/town)
@@ -20305,7 +20305,7 @@
 /turf/open/floor/metal/alt,
 /area/indoors/town/clocktower)
 "sMQ" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/smithy)
 "sMU" = (
 /obj/structure/flora/ausbushes/ppflowers,
@@ -20324,7 +20324,7 @@
 /turf/open/floor/dirt,
 /area/outdoors/town)
 "sNE" = (
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/outdoors/rtfield/safe)
 "sOc" = (
 /obj/structure/chair/bench/coucha/r,
@@ -20471,7 +20471,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "LordPassage"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "sYj" = (
 /obj/machinery/light/fueled/wallfire/candle{
@@ -20650,7 +20650,7 @@
 /turf/open/floor/carpet/green,
 /area/indoors/town/merc_guild)
 "tgW" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors/town/theatre)
 "thh" = (
 /obj/structure/window/openclose{
@@ -20758,7 +20758,7 @@
 /turf/open/floor/blocks,
 /area/under/town/basement)
 "tkU" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/outdoors/town/roofs)
 "tlC" = (
 /obj/structure/bed/hay,
@@ -20904,7 +20904,7 @@
 /turf/open/floor/ruinedwood/darker,
 /area/indoors/town)
 "trY" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/merc_guild)
 "tsj" = (
 /obj/structure/chair/wood/alt/chair_noble/purple,
@@ -21002,7 +21002,7 @@
 /turf/open/floor/blocks/stonered,
 /area/indoors/town/dwarfin)
 "twB" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/outdoors/town)
 "twY" = (
 /obj/structure/fluff/railing/border{
@@ -21058,7 +21058,7 @@
 /turf/open/floor/woodturned,
 /area/indoors/town/shop)
 "tzP" = (
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/under/town/basement)
 "tzX" = (
 /obj/structure/table/wood/large/corner_new{
@@ -21188,7 +21188,7 @@
 /turf/open/floor/church,
 /area/outdoors/town)
 "tGi" = (
-/turf/closed/wall/mineral/wooddark/end,
+/turf/closed/wall/mineral/wood/wooddark/end,
 /area/indoors/town/smithy)
 "tGW" = (
 /obj/structure/chair/stool,
@@ -21380,7 +21380,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "HeirPassage3"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "tQg" = (
 /obj/machinery/light/fueled/wallfire/candle/l,
@@ -21457,7 +21457,7 @@
 /turf/open/floor/carpet/red,
 /area/indoors/town)
 "tVk" = (
-/turf/closed/wall/mineral/roofwall/innercorner{
+/turf/closed/wall/mineral/wood/roofwall/innercorner{
 	dir = 8
 	},
 /area/outdoors/town/roofs)
@@ -21470,14 +21470,14 @@
 /turf/open/floor/wood,
 /area/indoors/soilsons)
 "tWr" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/tavern)
 "tWx" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/carpet/lord/center,
 /area/under/town/sewer)
 "tXJ" = (
-/turf/closed/wall/mineral/wooddark/window,
+/turf/closed/wall/mineral/wood/wooddark/window,
 /area/indoors/town)
 "tYh" = (
 /obj/structure/flora/ausbushes/ywflowers,
@@ -21508,7 +21508,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/indoors/town/bath)
 "tZI" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/indoors/town/magician)
 "tZX" = (
 /obj/machinery/light/fueled/wallfire/candle,
@@ -21532,7 +21532,7 @@
 /turf/open/floor/blocks,
 /area/indoors/town/manor)
 "ubv" = (
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/indoors/town/theatre)
 "ucQ" = (
 /turf/open/floor/twig,
@@ -21568,7 +21568,7 @@
 /turf/open/floor/churchmarble,
 /area/indoors/town/church)
 "ueG" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/butchershop)
 "ueN" = (
 /obj/structure/bed/inn/double,
@@ -21662,7 +21662,7 @@
 /turf/open/floor/ruinedwood/turned/darker,
 /area/indoors/town/theatre)
 "ukF" = (
-/turf/closed/wall/mineral/roofwall/outercorner{
+/turf/closed/wall/mineral/wood/roofwall/outercorner{
 	dir = 4
 	},
 /area/outdoors/town/roofs)
@@ -21814,7 +21814,7 @@
 /turf/open/floor/twig,
 /area/outdoors/town)
 "uuR" = (
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/indoors/town/church)
 "uvk" = (
 /turf/open/floor/ruinedwood/chevron,
@@ -22131,7 +22131,7 @@
 /turf/open/floor/dirt,
 /area/outdoors/town)
 "uJL" = (
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/outdoors/town/roofs)
 "uJS" = (
 /obj/structure/chair/wood/alt{
@@ -22249,7 +22249,7 @@
 /turf/open/transparent/openspace,
 /area/indoors/town/tavern)
 "uQY" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/town/basement)
 "uRa" = (
 /obj/structure/bookcase/random/apocrypha,
@@ -22438,7 +22438,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/outdoors/town)
 "vbf" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/town/basement)
 "vbh" = (
 /obj/structure/bars,
@@ -22574,7 +22574,7 @@
 /turf/open/floor/carpet/red,
 /area/indoors/town/merc_guild)
 "vhs" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/bath)
 "vhX" = (
 /obj/structure/fluff/walldeco/church/line{
@@ -22616,7 +22616,7 @@
 /turf/open/floor/ruinedwood/turned/alt,
 /area/indoors/town/tavern)
 "vkk" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/smithy)
 "vkp" = (
 /obj/structure/table/wood/plain_alt,
@@ -22630,10 +22630,10 @@
 /turf/open/water/river/dirt,
 /area/under/town/sewer)
 "vkT" = (
-/turf/closed/wall/mineral/wooddark/end,
+/turf/closed/wall/mineral/wood/wooddark/end,
 /area/indoors/town/merc_guild)
 "vli" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/town/dwarfin)
 "vlj" = (
 /obj/structure/rack/shelf/biggest,
@@ -22756,7 +22756,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "HeirPassage2"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "vpA" = (
 /obj/structure/table/wood/plain_alt,
@@ -22790,7 +22790,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "LordPassage"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "vrt" = (
 /obj/structure/fluff/railing/border{
@@ -22907,7 +22907,7 @@
 /turf/open/floor/ruinedwood/spiralfade,
 /area/outdoors/town/roofs)
 "vwg" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors/butchershop)
 "vwo" = (
 /obj/structure/fluff/traveltile{
@@ -22949,7 +22949,7 @@
 /area/indoors/town/clinic_large)
 "vxt" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 8
 	},
 /area/indoors/town)
@@ -23240,7 +23240,7 @@
 /area/indoors/town/dwarfin)
 "vJS" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/under/town/sewer)
 "vKe" = (
 /obj/structure/rack/shelf/biggest,
@@ -23308,7 +23308,7 @@
 /turf/open/water/marsh,
 /area/indoors/town/bath)
 "vNS" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/merc_guild)
 "vNY" = (
 /obj/structure/ladder,
@@ -23402,7 +23402,7 @@
 /turf/open/floor/wood/nosmooth,
 /area/indoors/town)
 "vSA" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/indoors/town)
 "vSB" = (
 /obj/effect/mapping_helpers/access/keyset/manor/general,
@@ -23597,7 +23597,7 @@
 /turf/open/floor/naturalstone,
 /area/under/cavelava)
 "vZJ" = (
-/turf/closed/wall/mineral/roofwall/middle{
+/turf/closed/wall/mineral/wood/roofwall/middle{
 	dir = 4
 	},
 /area/indoors/town/tavern)
@@ -23696,7 +23696,7 @@
 /area/indoors/town/dwarfin)
 "wfY" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/tavern)
 "wga" = (
 /turf/open/floor/greenstone,
@@ -23741,7 +23741,7 @@
 /turf/open/floor/cobble,
 /area/under/town/basement)
 "wjL" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 1
 	},
 /area/indoors/town/shop)
@@ -24067,7 +24067,7 @@
 /turf/open/floor/dirt,
 /area/under/cavelava)
 "wvn" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 8
 	},
 /area/indoors/town/smithy)
@@ -24081,10 +24081,10 @@
 /turf/open/floor/wood,
 /area/indoors/town/merc_guild)
 "wvD" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/outdoors/town)
 "wvR" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/cave)
 "wwc" = (
 /obj/structure/table/wood/plain_alt,
@@ -24247,7 +24247,7 @@
 /turf/open/floor/blocks/newstone,
 /area/indoors/town/manor)
 "wCB" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/town/church/inquisition)
 "wCO" = (
 /obj/structure/closet/crate/chest/wicker,
@@ -24313,7 +24313,7 @@
 /area/indoors/town/steward)
 "wGt" = (
 /obj/structure/fake_machine/vendor/soilson,
-/turf/closed/wall/mineral/wooddark/window,
+/turf/closed/wall/mineral/wood/wooddark/window,
 /area/outdoors/town)
 "wHi" = (
 /obj/structure/table/wood/large_new{
@@ -24373,7 +24373,7 @@
 /obj/structure/fluff/walldeco/customflag{
 	name = "daftmarsh flag"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "wJU" = (
 /obj/structure/closet/crate/crafted_closet/dark,
@@ -24406,7 +24406,7 @@
 /area/indoors/town/clinic_large)
 "wKO" = (
 /obj/structure/fluff/walldeco/masonflag,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/indoors/town/dwarfin)
 "wKT" = (
 /obj/structure/table/wood/large_new{
@@ -24579,7 +24579,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "Basement6Passage"
 	},
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/town/basement)
 "wTJ" = (
 /obj/machinery/light/fueled/firebowl/standing/blue,
@@ -24763,7 +24763,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "Basement2Passage"
 	},
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/town/basement)
 "xbz" = (
 /obj/structure/stairs/fancy/l{
@@ -24783,7 +24783,7 @@
 	floor_turf = /turf/open/floor/ruinedwood/spiral;
 	override_floor = 1
 	},
-/turf/closed/wall/mineral/roofwall/middle{
+/turf/closed/wall/mineral/wood/roofwall/middle{
 	dir = 8
 	},
 /area/indoors/town/manor)
@@ -24867,7 +24867,7 @@
 /turf/open/floor/woodturned,
 /area/indoors/butchershop)
 "xhU" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors/town)
 "xiy" = (
 /turf/open/floor/churchrough,
@@ -25023,7 +25023,7 @@
 /turf/open/floor/wood,
 /area/indoors/town/steward)
 "xpb" = (
-/turf/closed/wall/mineral/roofwall/outercorner{
+/turf/closed/wall/mineral/wood/roofwall/outercorner{
 	dir = 1
 	},
 /area/outdoors/town/roofs)
@@ -25031,7 +25031,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "Basement4Passage"
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/town/basement)
 "xpv" = (
 /obj/machinery/light/fueled/wallfire/candle,
@@ -25379,7 +25379,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "CaptainPassage"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "xLT" = (
 /obj/structure/chair/bench/church/mid{
@@ -25412,7 +25412,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/outdoors/town)
 "xNt" = (
-/turf/closed/wall/mineral/wooddark/end,
+/turf/closed/wall/mineral/wood/wooddark/end,
 /area/indoors/butchershop)
 "xOp" = (
 /obj/structure/fluff/railing/border{
@@ -25437,7 +25437,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "DungeoneerPassage"
 	},
-/turf/closed/wall/mineral/decorstone/moss,
+/turf/closed/wall/mineral/stone/decorstone/moss,
 /area/under/town/basement)
 "xOG" = (
 /obj/effect/landmark/start/magician,
@@ -25476,7 +25476,7 @@
 /turf/open/floor/ruinedwood/spiralfade,
 /area/indoors/town/tavern)
 "xQI" = (
-/turf/closed/wall/mineral/stone/window/moss,
+/turf/closed/wall/mineral/stone/cobble/window/moss,
 /area/indoors/town/orphanage)
 "xQR" = (
 /obj/structure/bookcase/random/myths,
@@ -25565,7 +25565,7 @@
 /area/indoors/town/tavern)
 "xUy" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors/town)
 "xUC" = (
 /obj/structure/door/fancy{
@@ -25609,7 +25609,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "Guest1Passage"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "xXB" = (
 /obj/structure/fluff/railing/border{
@@ -25637,7 +25637,7 @@
 /turf/open/floor/blocks,
 /area/under/town/basement)
 "xYA" = (
-/turf/closed/wall/mineral/wood/window,
+/turf/closed/wall/mineral/wood/log/window,
 /area/indoors/town)
 "xYM" = (
 /obj/structure/fluff/railing/border{
@@ -25790,7 +25790,7 @@
 /turf/open/floor/carpet/green,
 /area/indoors/town/merc_guild)
 "yds" = (
-/turf/closed/wall/mineral/decostone/center,
+/turf/closed/wall/mineral/stone/decostone/center,
 /area/indoors/town)
 "yeg" = (
 /obj/structure/door{
@@ -25801,7 +25801,7 @@
 /turf/open/floor/ruinedwood/turned/darker,
 /area/indoors/town)
 "yei" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 1
 	},
 /area/indoors/town/smithy)
@@ -25820,13 +25820,13 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/indoors/town/magician)
 "yfv" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/town/basement)
 "yfD" = (
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "HeirPassage1"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "yfV" = (
 /obj/structure/flora/grass,
@@ -25936,7 +25936,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/indoors/town)
 "yki" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 4
 	},
 /area/indoors/town/garrison)
@@ -25950,7 +25950,7 @@
 /turf/open/floor/church,
 /area/indoors/town/church)
 "ylo" = (
-/turf/closed/wall/mineral/decostone/cand,
+/turf/closed/wall/mineral/stone/decostone/cand,
 /area/indoors/town/manor)
 "ylH" = (
 /obj/structure/window,

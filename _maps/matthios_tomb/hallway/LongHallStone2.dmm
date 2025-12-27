@@ -3,7 +3,7 @@
 /turf/open/floor/cobblerock,
 /area/under/tomb)
 "c" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/tomb)
 "r" = (
 /obj/effect/dungeon_directional_helper/west,
@@ -17,7 +17,7 @@
 /turf/open/floor/cobblerock,
 /area/under/tomb)
 "Z" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/tomb)
 
 (1,1,1) = {"

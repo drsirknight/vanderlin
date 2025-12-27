@@ -11,7 +11,7 @@
 /turf/open/floor/hexstone,
 /area)
 "f" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area)
 "g" = (
 /obj/effect/dungeon_directional_helper/east,

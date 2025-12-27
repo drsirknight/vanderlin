@@ -137,7 +137,7 @@
 	redstone_id = "hctomb03sdA";
 	floor_turf = /turf/open/floor/blocks/stonered/tiny
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb/indoors)
 "eB" = (
 /obj/structure/barricade/wooden,
@@ -214,7 +214,7 @@
 /turf/open/floor/naturalstone,
 /area/under/tomb)
 "ho" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb/indoors)
 "hq" = (
 /turf/open/transparent/openspace,
@@ -232,7 +232,7 @@
 /obj/structure/fluff/walldeco/stone{
 	icon_state = "walldec5"
 	},
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1
 	},
 /area/under/tomb/cave/spider)
@@ -330,7 +330,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "hctomb03sdB"
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb/indoors)
 "mi" = (
 /obj/machinery/light/fueled/torchholder/l,
@@ -355,7 +355,7 @@
 /turf/open/floor/churchmarble,
 /area/under/tomb/indoors)
 "mO" = (
-/turf/closed/wall/mineral/decostone/end{
+/turf/closed/wall/mineral/stone/decostone/end{
 	dir = 8
 	},
 /area/under/tomb)
@@ -365,13 +365,13 @@
 /turf/open/floor/churchmarble,
 /area/under/tomb/indoors)
 "nh" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/cave/spider)
 "nC" = (
 /obj/structure/fluff/walldeco/stone{
 	icon_state = "walldec6"
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb/indoors)
 "nM" = (
 /obj/structure/stairs/stone/church,
@@ -430,7 +430,7 @@
 /turf/open/floor/cobblerock,
 /area/under/tomb/cave/wet)
 "pJ" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb)
 "rj" = (
 /obj/structure/trap/poison,
@@ -438,7 +438,7 @@
 /turf/open/floor/cobblerock,
 /area/under/tomb/cave/wet)
 "rn" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb/cave/wet)
 "rN" = (
 /obj/structure/door/stone,
@@ -472,7 +472,7 @@
 /area/under/tomb/indoors)
 "sK" = (
 /obj/structure/fluff/walldeco/sparrowflag,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb/cave/wet)
 "sN" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -533,7 +533,7 @@
 /area/under/tomb/cave/wet)
 "tT" = (
 /obj/structure/fluff/walldeco/sparrowflag,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb/indoors)
 "us" = (
 /turf/closed/mineral/bedrock,
@@ -545,7 +545,7 @@
 /turf/open/floor/herringbone,
 /area/under/tomb)
 "uB" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "uH" = (
 /obj/machinery/light/fueled/smelter,
@@ -642,7 +642,7 @@
 /turf/open/floor/churchmarble,
 /area/under/tomb/indoors)
 "xh" = (
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1
 	},
 /area/under/tomb/cave/spider)
@@ -711,7 +711,7 @@
 /turf/open/water/cleanshallow,
 /area/under/tomb/cave/wet)
 "zV" = (
-/turf/closed/wall/mineral/decostone/long,
+/turf/closed/wall/mineral/stone/decostone/long,
 /area/under/tomb/cave/spider)
 "Am" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -732,7 +732,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "hctomb03sdD"
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb/indoors)
 "AL" = (
 /obj/structure/rousman_hole,
@@ -754,7 +754,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "hctomb03sdC"
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/cave/spider)
 "Cg" = (
 /turf/open/floor/cobblerock,
@@ -876,7 +876,7 @@
 /turf/open/floor/blocks/stonered,
 /area/under/tomb/indoors)
 "Gj" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb/cave)
 "Gm" = (
 /obj/structure/fluff/railing/border,
@@ -887,7 +887,7 @@
 /turf/open/floor/churchmarble,
 /area/under/tomb/indoors)
 "Gr" = (
-/turf/closed/wall/mineral/craftstone{
+/turf/closed/wall/mineral/stone/craftstone{
 	max_integrity = 400;
 	desc = "A weak, crumbling wall made from specially crafted stone.";
 	name = "weak craftstone wall"
@@ -912,7 +912,7 @@
 /turf/open/floor/church,
 /area/under/tomb/indoors)
 "Ha" = (
-/turf/closed/wall/mineral/decostone/end,
+/turf/closed/wall/mineral/stone/decostone/end,
 /area/under/tomb/cave/spider)
 "Hb" = (
 /obj/structure/table/stone_small,
@@ -930,7 +930,7 @@
 /obj/structure/fluff/walldeco/stone{
 	icon_state = "walldec3"
 	},
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1
 	},
 /area/under/tomb/cave/spider)
@@ -969,7 +969,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "hctomb03sdA"
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb/indoors)
 "Jo" = (
 /turf/open/floor/naturalstone,
@@ -1027,7 +1027,7 @@
 	redstone_id = "hctomb03sdB";
 	floor_turf = /turf/open/floor/blocks/stonered/tiny
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb/indoors)
 "Kx" = (
 /obj/structure/fluff/railing/border{
@@ -1310,7 +1310,7 @@
 /turf/open/floor/metal/barograte,
 /area/under/tomb/indoors)
 "QL" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb)
 "Rq" = (
 /obj/effect/mapping_helpers/secret_door_creator{
@@ -1320,7 +1320,7 @@
 	redstone_id = "hctomb03sdD";
 	floor_turf = /turf/open/floor/blocks/stonered/tiny
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb/indoors)
 "RG" = (
 /obj/structure/fermentation_keg/random/beer,
@@ -1407,7 +1407,7 @@
 	redstone_id = "hctomb03sdC";
 	floor_turf = /turf/open/floor/churchrough
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/cave/spider)
 "Vf" = (
 /turf/open/floor/naturalstone,
@@ -1451,7 +1451,7 @@
 /turf/open/floor/church,
 /area/under/tomb/cave/spider)
 "VX" = (
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1
 	},
 /area/under/tomb)
@@ -1495,7 +1495,7 @@
 /turf/open/floor/blocks/stonered,
 /area/under/tomb/indoors)
 "XJ" = (
-/turf/closed/wall/mineral/decostone/end{
+/turf/closed/wall/mineral/stone/decostone/end{
 	dir = 4
 	},
 /area/under/tomb)
@@ -1510,7 +1510,7 @@
 /turf/open/floor/churchrough,
 /area/under/tomb/cave/spider)
 "Yg" = (
-/turf/closed/wall/mineral/decostone/end{
+/turf/closed/wall/mineral/stone/decostone/end{
 	dir = 1
 	},
 /area/under/tomb/cave/spider)

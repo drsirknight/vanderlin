@@ -4,10 +4,10 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/under/tomb/indoors)
 "aK" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/under/tomb/indoors)
 "fV" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/under/tomb/indoors)
 "hr" = (
 /obj/structure/fluff/railing/border{
@@ -17,7 +17,7 @@
 /area/under/tomb/indoors)
 "hM" = (
 /obj/machinery/light/fueled/wallfire,
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/under/tomb/indoors)
 "ih" = (
 /obj/structure/fluff/railing/border{
@@ -172,7 +172,7 @@
 /turf/open/floor/dirt/road,
 /area/under/tomb)
 "Fq" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb/indoors)
 "GG" = (
 /obj/item/weapon/shovel,

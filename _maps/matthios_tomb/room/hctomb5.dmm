@@ -44,7 +44,7 @@
 /turf/open/floor/naturalstone,
 /area/under/tomb)
 "fv" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/tomb/indoors/rest)
 "fx" = (
 /obj/effect/decal/cobbleedge{
@@ -90,10 +90,10 @@
 /obj/machinery/light/fueled/hearth/big_fireplace{
 	pixel_x = -32
 	},
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/tomb/indoors/rest)
 "js" = (
-/turf/closed/wall/mineral/decostone/cand,
+/turf/closed/wall/mineral/stone/decostone/cand,
 /area/under/tomb/indoors)
 "jI" = (
 /obj/machinery/light/fueled/torchholder/l,
@@ -131,7 +131,7 @@
 /turf/open/floor/carpet/purple,
 /area/under/tomb/indoors/rest)
 "qV" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/tomb)
 "rX" = (
 /obj/structure/table/wood/nice/decorated,
@@ -192,10 +192,10 @@
 /turf/open/floor/dirt/road,
 /area/under/tomb)
 "xw" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb/indoors/rest)
 "xH" = (
-/turf/closed/wall/mineral/decostone/center,
+/turf/closed/wall/mineral/stone/decostone/center,
 /area/under/tomb/indoors)
 "yk" = (
 /turf/open/floor/dirt,
@@ -279,7 +279,7 @@
 /turf/open/floor/wood,
 /area/under/tomb/indoors/rest)
 "Kz" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors)
 "LP" = (
 /obj/item/clothing/pants/skirt/colored/random{

@@ -4,7 +4,7 @@
 /turf/open/floor/cobblerock,
 /area/under/mountains/anvil/dungeon)
 "ac" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/cavelava)
 "ad" = (
 /obj/item/natural/obsidian,
@@ -17,7 +17,7 @@
 "af" = (
 /obj/structure/fluff/walldeco/vinez/red,
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon/lower)
 "aj" = (
 /obj/effect/decal/cleanable/blood/old,
@@ -112,7 +112,7 @@
 /area/under/mountains/anvil/dungeon/lower)
 "bj" = (
 /obj/structure/fluff/walldeco/painting/skull,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon)
 "bl" = (
 /obj/machinery/light/fueled/wallfire/candle/blue,
@@ -377,7 +377,7 @@
 /turf/open/floor/carpet/royalblack,
 /area/under/mountains/anvil/dungeon/lower)
 "dl" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon/lower)
 "dm" = (
 /obj/structure/fluff/railing/border{
@@ -397,7 +397,7 @@
 /area/under/mountains/anvil/dungeon/lower)
 "ds" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1
 	},
 /area/under/mountains/anvil/upper)
@@ -442,7 +442,7 @@
 /area/under/mountains/anvil/dungeon/lower)
 "dI" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon/lower)
 "dL" = (
 /obj/structure/table/stone_small,
@@ -514,7 +514,7 @@
 /area/under/mountains/anvil/dungeon)
 "ep" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decostone/long,
+/turf/closed/wall/mineral/stone/decostone/long,
 /area/under/mountains/anvil/upper)
 "eq" = (
 /obj/structure/fermentation_keg/random/water,
@@ -539,7 +539,7 @@
 /area/under/mountains/anvil/upper)
 "eA" = (
 /obj/structure/fluff/walldeco/painting/skull,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon/lower)
 "eC" = (
 /obj/structure/fluff/railing/border,
@@ -618,7 +618,7 @@
 "fc" = (
 /obj/structure/fluff/walldeco/masonflag,
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/mountains/anvil/surface/building)
 "fd" = (
 /obj/structure/fluff/statue/small{
@@ -634,7 +634,7 @@
 /area/under/mountains/anvil/dungeon)
 "fh" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1;
 	name = "Wonderwall";
 	desc = "I don't believe that anybody."
@@ -975,7 +975,7 @@
 	name = "Bloodied Notice Board";
 	desc = "West holds a few untapped ruins, East is dangerous and untouched for the most part. Hold on mining east till further reinforcements arrive."
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/mountains/anvil/surface/building)
 "ht" = (
 /obj/structure/chair/wood/alt/fancy{
@@ -1020,7 +1020,7 @@
 /turf/open/floor/herringbone,
 /area/under/mountains/anvil/upper)
 "hI" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/mountains/anvil/dungeon/lower)
 "hL" = (
 /obj/machinery/light/fueled/firebowl/stumpb,
@@ -1247,7 +1247,7 @@
 /area/under/mountains/anvil/upper)
 "jr" = (
 /obj/structure/fluff/walldeco/painting/seraphina,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon/lower)
 "js" = (
 /turf/open/floor/hexstone,
@@ -1295,7 +1295,7 @@
 /area/under/mountains/anvil/dungeon/lower)
 "jO" = (
 /obj/structure/fluff/walldeco/painting/queen,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon)
 "jP" = (
 /obj/effect/decal/cleanable/blood,
@@ -1471,7 +1471,7 @@
 "lG" = (
 /obj/structure/fluff/walldeco/masonflag,
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/outdoors/mountains/anvil/snowyforest)
 "lI" = (
 /obj/structure/closet/crate/crafted_closet/inn/south,
@@ -1649,7 +1649,7 @@
 /area/under/mountains/anvil/dungeon)
 "nd" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/mountains/anvil/surface/building)
 "nk" = (
 /turf/open/water/blood,
@@ -1721,7 +1721,7 @@
 /turf/open/floor/herringbone,
 /area/under/mountains/anvil/dungeon)
 "nL" = (
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	name = "Wonderwall";
 	desc = "That they're gonna throw it back to you"
 	},
@@ -1751,7 +1751,7 @@
 /area/under/mountains/anvil/dungeon/lower)
 "nS" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/decostone/long,
+/turf/closed/wall/mineral/stone/decostone/long,
 /area/under/mountains/anvil/dungeon/lower)
 "nT" = (
 /obj/structure/rack/shelf/biggest,
@@ -1831,7 +1831,7 @@
 /area/under/cavelava)
 "oA" = (
 /obj/structure/fluff/walldeco/mageguild,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon/lower)
 "oC" = (
 /obj/effect/decal/cleanable/food/flour,
@@ -1872,7 +1872,7 @@
 /area/under/mountains/anvil/upper)
 "oS" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/mountains/anvil/upper)
 "oW" = (
 /obj/machinery/light/fueledstreet/blue/wall{
@@ -1904,7 +1904,7 @@
 /area/under/mountains/anvil/upper)
 "pf" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/mountains/anvil/upper)
 "pk" = (
 /obj/machinery/light/fueledstreet/blue/wall,
@@ -1987,13 +1987,13 @@
 "pN" = (
 /obj/structure/fluff/walldeco/vinez/blue,
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1
 	},
 /area/under/mountains/anvil/upper)
 "pP" = (
 /obj/structure/fluff/walldeco/med3,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon/lower)
 "pQ" = (
 /obj/structure/bookcase,
@@ -2052,7 +2052,7 @@
 /turf/open/floor/cobble,
 /area/under/mountains/anvil/dungeon/lower)
 "qz" = (
-/turf/closed/wall/mineral/decostone{
+/turf/closed/wall/mineral/stone/decostone{
 	name = "Wonderwall";
 	desc = "By now you should have somehow"
 	},
@@ -2102,7 +2102,7 @@
 /area/under/mountains/anvil/dungeon/lower)
 "qT" = (
 /obj/structure/fluff/walldeco/med5,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon/lower)
 "qY" = (
 /obj/effect/decal/cleanable/blood/gibs/core,
@@ -2278,7 +2278,7 @@
 /turf/open/floor/dirt,
 /area/under/mountains/anvil/dungeon)
 "se" = (
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	name = "Wonderwall";
 	desc = "Today is gonna be the day."
 	},
@@ -2386,7 +2386,7 @@
 /turf/open/floor/twig,
 /area/under/mountains/anvil/lower)
 "te" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/mountains/anvil/upper)
 "tf" = (
 /obj/structure/closet/crate/chest/neu_iron,
@@ -2431,7 +2431,7 @@
 /area/under/mountains/anvil/lower)
 "tA" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1
 	},
 /area/under/mountains/anvil/dungeon/lower)
@@ -2484,7 +2484,7 @@
 /area/outdoors/mountains/anvil/snowyforest)
 "ud" = (
 /obj/structure/fluff/walldeco/med2,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon/lower)
 "ue" = (
 /obj/item/clothing/armor/gambeson/heavy,
@@ -2730,7 +2730,7 @@
 /turf/open/floor/cobble,
 /area/under/mountains/anvil/lower)
 "wh" = (
-/turf/closed/wall/mineral/decostone/long,
+/turf/closed/wall/mineral/stone/decostone/long,
 /area/under/mountains/anvil/lower)
 "wj" = (
 /obj/item/weapon/sword/long,
@@ -2797,7 +2797,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "DragonLair"
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon)
 "wN" = (
 /obj/structure/door/stone,
@@ -2989,7 +2989,7 @@
 /area/under/mountains/anvil/dungeon)
 "yt" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1;
 	name = "Wonderwall";
 	desc = "Feels the way I do about you now."
@@ -3002,7 +3002,7 @@
 /area/under/mountains/anvil/lower)
 "yv" = (
 /obj/structure/noticeboard,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon/lower)
 "yx" = (
 /obj/structure/fluff/statue/knight/interior/r,
@@ -3033,7 +3033,7 @@
 /turf/open/floor/carpet/royalblack,
 /area/under/mountains/anvil/dungeon/lower)
 "yL" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/mountains/anvil/upper)
 "yQ" = (
 /obj/effect/decal/cleanable/blood/old,
@@ -3055,7 +3055,7 @@
 /turf/open/floor/twig,
 /area/under/mountains/anvil/lower)
 "yY" = (
-/turf/closed/wall/mineral/decostone/long,
+/turf/closed/wall/mineral/stone/decostone/long,
 /area/under/cavelava)
 "yZ" = (
 /turf/open/water/river{
@@ -3118,7 +3118,7 @@
 /turf/open/floor/herringbone,
 /area/under/mountains/anvil/upper)
 "zs" = (
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1
 	},
 /area/under/mountains/anvil/upper)
@@ -3170,7 +3170,7 @@
 /turf/open/floor/cobble,
 /area/under/mountains/anvil/upper)
 "zT" = (
-/turf/closed/wall/mineral/decostone/long,
+/turf/closed/wall/mineral/stone/decostone/long,
 /area/under/mountains/anvil/dungeon/lower)
 "zY" = (
 /obj/structure/spider/stickyweb,
@@ -3270,7 +3270,7 @@
 /area/under/mountains/anvil/dungeon)
 "AJ" = (
 /obj/structure/fluff/walldeco/med,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon/lower)
 "AK" = (
 /turf/open/floor/grass/cold,
@@ -3323,7 +3323,7 @@
 /turf/open/floor/snow/rough,
 /area/indoors/mountains/anvil/surface/building)
 "Be" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon)
 "Bh" = (
 /obj/structure/closet/crate/chest/crate,
@@ -3432,7 +3432,7 @@
 /area/indoors/mountains/anvil/surface/building)
 "BR" = (
 /obj/structure/fluff/walldeco/painting,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon/lower)
 "BT" = (
 /obj/structure/table/stone_small,
@@ -3585,7 +3585,7 @@
 /turf/open/floor/grass/red,
 /area/under/mountains/anvil/dungeon/lower)
 "De" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/mountains/anvil/surface/building)
 "Df" = (
 /obj/machinery/light/fueled/firebowl/standing/blue,
@@ -3653,7 +3653,7 @@
 /area/under/mountains/anvil/upper)
 "DP" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1
 	},
 /area/under/mountains/anvil/upper)
@@ -3826,7 +3826,7 @@
 "Fq" = (
 /obj/structure/fluff/walldeco/vinez/red,
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1
 	},
 /area/under/mountains/anvil/dungeon/lower)
@@ -3901,7 +3901,7 @@
 /area/under/mountains/anvil/upper)
 "FS" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/mountains/anvil/upper)
 "FV" = (
 /obj/structure/closet/crate/chest/crate,
@@ -4451,7 +4451,7 @@
 /area/under/mountains/anvil/dungeon/lower)
 "Ki" = (
 /obj/structure/fluff/walldeco/masonflag,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/mountains/anvil/surface/building)
 "Kk" = (
 /obj/structure/door/fancy,
@@ -4459,7 +4459,7 @@
 /area/under/mountains/anvil/dungeon/lower)
 "Kl" = (
 /obj/structure/fluff/walldeco/masonflag,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/outdoors/mountains/anvil/snowyforest)
 "Km" = (
 /obj/structure/well/fountain{
@@ -4544,7 +4544,7 @@
 /turf/closed,
 /area/under/mountains/anvil/upper)
 "KN" = (
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1;
 	name = "Wonderwall";
 	desc = "Realised what you gotta do."
@@ -4628,7 +4628,7 @@
 /area/under/mountains/anvil/dungeon)
 "Lw" = (
 /obj/structure/fluff/walldeco/med6,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon/lower)
 "Lx" = (
 /obj/effect/spawner/map_spawner/loot/common,
@@ -4661,7 +4661,7 @@
 /area/under/mountains/anvil/upper)
 "LE" = (
 /obj/structure/fluff/walldeco/med4,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon/lower)
 "LF" = (
 /turf/open/floor/dirt,
@@ -4710,7 +4710,7 @@
 /area/under/mountains/anvil/dungeon/lower)
 "LW" = (
 /obj/structure/fluff/walldeco/painting/queen,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon/lower)
 "Mb" = (
 /obj/structure/fluff/statue/small{
@@ -4826,7 +4826,7 @@
 /turf/open/floor/ruinedwood/turned/darker,
 /area/indoors/mountains/anvil/surface/building)
 "MG" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/under/cavelava)
 "MP" = (
 /turf/open/floor/dirt/ambush,
@@ -4857,7 +4857,7 @@
 /area/indoors/mountains/anvil/surface/building)
 "MV" = (
 /obj/machinery/light/fueled/wallfire/candle/blue/l,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/mountains/anvil/lower)
 "MX" = (
 /obj/structure/window/solid,
@@ -4870,7 +4870,7 @@
 /area/under/mountains/anvil/dungeon/lower)
 "Nc" = (
 /obj/machinery/light/fueled/wallfire/candle/blue/r,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/mountains/anvil/lower)
 "Nd" = (
 /obj/structure/rack/shelf/biggest,
@@ -4914,7 +4914,7 @@
 /turf/open/floor/herringbone,
 /area/under/mountains/anvil/upper)
 "Nv" = (
-/turf/closed/wall/mineral/decostone/long,
+/turf/closed/wall/mineral/stone/decostone/long,
 /area/under/mountains/anvil/upper)
 "Nx" = (
 /obj/item/statue/silver,
@@ -5163,7 +5163,7 @@
 "PA" = (
 /obj/structure/fluff/walldeco/vinez/red,
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/mountains/anvil/dungeon/lower)
 "PB" = (
 /obj/structure/well/fountain,
@@ -5198,7 +5198,7 @@
 /area/under/mountains/anvil/lower)
 "PN" = (
 /obj/structure/fluff/walldeco/painting/crown,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon/lower)
 "PO" = (
 /obj/item/weapon/thresher/military,
@@ -5350,7 +5350,7 @@
 /turf/open/floor/herringbone,
 /area/under/mountains/anvil/dungeon/lower)
 "QL" = (
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1
 	},
 /area/under/mountains/anvil/dungeon/lower)
@@ -5460,11 +5460,11 @@
 /area/under/mountains/anvil/lower)
 "RB" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/outdoors/mountains/anvil/snowyforest)
 "RC" = (
 /obj/structure/fluff/walldeco/painting/castle,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon/lower)
 "RD" = (
 /obj/structure/table/stone_small,
@@ -5495,11 +5495,11 @@
 /turf/open/floor/carpet/royalblack,
 /area/under/mountains/anvil/dungeon/lower)
 "RO" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/mountains/anvil/lower)
 "RQ" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/mountains/anvil/lower)
 "RS" = (
 /obj/structure/stairs/stone/reddish{
@@ -5546,7 +5546,7 @@
 /turf/open/floor/cobblerock,
 /area/under/mountains/anvil/upper)
 "Sn" = (
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1
 	},
 /area/under/cavelava)
@@ -5671,7 +5671,7 @@
 /area/under/mountains/anvil/dungeon/lower)
 "Tf" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/mountains/anvil/dungeon/lower)
 "Th" = (
 /turf/open/floor/volcanic,
@@ -6006,7 +6006,7 @@
 "VV" = (
 /obj/structure/fluff/walldeco/vinez/red,
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/decostone/long,
+/turf/closed/wall/mineral/stone/decostone/long,
 /area/under/mountains/anvil/dungeon/lower)
 "VX" = (
 /obj/structure/closet/crate/crafted_closet/inn/south,
@@ -6018,11 +6018,11 @@
 	redstone_id = "DragonLair"
 	},
 /obj/effect/decal/cleanable/blood/tracks,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon)
 "Wb" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/decostone/long,
+/turf/closed/wall/mineral/stone/decostone/long,
 /area/under/mountains/anvil/upper)
 "Wc" = (
 /obj/structure/fermentation_keg/random/water,
@@ -6141,7 +6141,7 @@
 /obj/structure/fluff/walldeco/masonflag,
 /obj/structure/fluff/walldeco/vinez/blue,
 /obj/structure/fake_machine/scomm,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/mountains/anvil/surface/building)
 "WY" = (
 /obj/structure/chair/bench,
@@ -6216,7 +6216,7 @@
 /area/under/mountains/anvil/upper)
 "XL" = (
 /obj/structure/fluff/walldeco/painting/crown,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon)
 "XM" = (
 /obj/structure/fluff/walldeco/vinez/blue{
@@ -6348,7 +6348,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/under/mountains/anvil/lower)
 "Yy" = (
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1
 	},
 /area/under/mountains/anvil/lower)
@@ -6418,7 +6418,7 @@
 /turf/open/floor/cobblerock,
 /area/under/mountains/anvil/dungeon)
 "YZ" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/mountains/anvil/dungeon)
 "Za" = (
 /obj/item/chair/stool,

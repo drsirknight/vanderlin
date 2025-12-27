@@ -56,10 +56,10 @@
 /turf/open/floor/carpet/red,
 /area/indoors/shelter)
 "jm" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/shelter)
 "md" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/shelter)
 "mh" = (
 /obj/structure/stairs{
@@ -111,7 +111,7 @@
 /turf/open/floor/carpet/red,
 /area/indoors/shelter)
 "vA" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -252,7 +252,7 @@
 /turf/open/floor/carpet/red,
 /area/indoors/shelter)
 "Js" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/shelter)
 "JV" = (
 /obj/structure/window/openclose{
@@ -353,7 +353,7 @@
 /turf/open/floor/carpet/red,
 /area/indoors/shelter)
 "XS" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/shelter)
 "Zj" = (
 /obj/structure/window/solid,

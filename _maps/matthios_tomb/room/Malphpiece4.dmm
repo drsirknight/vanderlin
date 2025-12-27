@@ -22,12 +22,12 @@
 /area/under/tomb/wilds/bog)
 "cB" = (
 /obj/structure/fluff/walldeco/painting/queen,
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/tomb/indoors/royal)
 "cG" = (
 /obj/structure/fluff/walldeco/painting/seraphina,
 /obj/structure/fluff/walldeco/painting/seraphina,
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/tomb/indoors/royal)
 "cO" = (
 /obj/machinery/light/fueled/torchholder/c,
@@ -98,7 +98,7 @@
 /area/under/tomb/indoors/royal)
 "pK" = (
 /obj/structure/fluff/walldeco/painting/castle,
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/tomb/indoors/royal)
 "pX" = (
 /obj/structure/chair/stool,
@@ -146,11 +146,11 @@
 /area/under/tomb/indoors/royal)
 "xQ" = (
 /obj/structure/fluff/walldeco/painting/skull,
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/tomb/indoors/royal)
 "yI" = (
 /obj/structure/fluff/walldeco/painting,
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/tomb/indoors/royal)
 "Bv" = (
 /obj/structure/table/wood/nice/decorated_alt,
@@ -159,7 +159,7 @@
 /turf/open/floor/carpet,
 /area/under/tomb/indoors/royal)
 "CP" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/tomb/indoors/royal)
 "CX" = (
 /obj/machinery/light/fueled/firebowl/standing,
@@ -175,7 +175,7 @@
 /area/under/tomb/wilds/bog)
 "HA" = (
 /obj/structure/fluff/walldeco/painting/crown,
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/tomb/indoors/royal)
 "HM" = (
 /obj/structure/flora/grass/swampweed,

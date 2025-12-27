@@ -84,7 +84,7 @@
 /turf/open/water/bath,
 /area/under/tomb/indoors)
 "jV" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/under/tomb/indoors)
 "jX" = (
 /obj/structure/door/fancy,
@@ -263,7 +263,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/under/tomb/indoors)
 "JE" = (
-/turf/closed/wall/mineral/decowood/vert,
+/turf/closed/wall/mineral/wood/decowood/vert,
 /area/under/tomb/indoors)
 "JH" = (
 /obj/structure/rack/shelf/big,

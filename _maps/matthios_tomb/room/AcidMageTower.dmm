@@ -18,12 +18,12 @@
 /area/under/tomb/indoors/magic)
 "aK" = (
 /obj/machinery/light/fueled/wallfire,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb/indoors/magic)
 "aN" = (
 /obj/machinery/light/fueled/wallfire/candle/blue,
 /obj/structure/fluff/walldeco/painting/skull,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb/indoors/magic)
 "bf" = (
 /obj/structure/chair/bench/coucha,
@@ -121,7 +121,7 @@
 /area/under/tomb/indoors/magic)
 "fx" = (
 /obj/structure/fluff/walldeco/painting/crown,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb/indoors/magic)
 "fy" = (
 /obj/structure/fermentation_keg/random/beer,
@@ -178,7 +178,7 @@
 /area/under/tomb/indoors/magic)
 "jg" = (
 /obj/structure/fluff/walldeco/painting/castle,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb/indoors/magic)
 "jk" = (
 /obj/structure/roguerock,
@@ -299,7 +299,7 @@
 	override_floor = 0;
 	redstone_id = 882
 	},
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb/indoors/magic)
 "nA" = (
 /obj/effect/decal/cleanable/blood/tracks{
@@ -382,7 +382,7 @@
 /area/under/tomb/indoors/magic)
 "qc" = (
 /obj/machinery/light/fueled/wallfire/candle/blue,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb/indoors/magic)
 "qd" = (
 /obj/structure/closet/crate/crafted_closet/lord,
@@ -431,7 +431,7 @@
 /area/under/tomb/indoors/magic)
 "rv" = (
 /obj/structure/fluff/walldeco/painting/seraphina,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb/indoors/magic)
 "rz" = (
 /obj/item/natural/rock/random_ore,
@@ -502,7 +502,7 @@
 /area/under/tomb/indoors/magic)
 "tA" = (
 /obj/machinery/light/fueled/wallfire/big_fireplace,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb/indoors/magic)
 "tD" = (
 /obj/effect/decal/cleanable/dirt/cobweb/cobweb2,
@@ -597,7 +597,7 @@
 /area/under/tomb/indoors/magic)
 "vB" = (
 /obj/structure/fluff/walldeco/painting,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb/indoors/magic)
 "vH" = (
 /obj/structure/table/wood,
@@ -883,7 +883,7 @@
 /area/under/tomb/cave/wet)
 "Hk" = (
 /obj/effect/decal/cleanable/blood/splatter,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb/indoors/magic)
 "Hr" = (
 /obj/effect/decal/cleanable/blood/gibs/old,
@@ -1111,7 +1111,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = 882
 	},
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb/indoors/magic)
 "Qf" = (
 /obj/effect/decal/cleanable/blood/old,
@@ -1154,7 +1154,7 @@
 /area/under/tomb/indoors/magic)
 "QY" = (
 /obj/structure/fluff/walldeco/painting/skull,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb/indoors/magic)
 "QZ" = (
 /obj/structure/barricade/wooden,
@@ -1259,7 +1259,7 @@
 /turf/open/floor/tile/kitchen,
 /area/under/tomb/indoors/magic)
 "TF" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb/indoors/magic)
 "TM" = (
 /obj/structure/table/church{
@@ -1313,7 +1313,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = 881
 	},
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb/indoors/magic)
 "Wi" = (
 /obj/structure/forcefield,

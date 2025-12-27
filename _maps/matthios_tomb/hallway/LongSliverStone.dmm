@@ -6,7 +6,7 @@
 /turf/open/floor/cobble,
 /area/under/tomb)
 "t" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/tomb)
 "w" = (
 /obj/effect/dungeon_directional_helper/south,
@@ -14,7 +14,7 @@
 /turf/open/floor/cobblerock,
 /area/under/tomb)
 "K" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/tomb)
 
 (1,1,1) = {"

@@ -111,7 +111,7 @@
 /turf/open/floor/grass,
 /area/template_noop)
 "K" = (
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/template_noop)
 "M" = (
 /obj/structure/table/wood/plain_alt,

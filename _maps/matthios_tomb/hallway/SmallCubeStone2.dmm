@@ -6,7 +6,7 @@
 /turf/open/floor/cobble,
 /area/under/tomb)
 "i" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/tomb)
 "q" = (
 /obj/effect/dungeon_directional_helper/east,
@@ -17,7 +17,7 @@
 /turf/open/floor/cobble,
 /area/under/tomb)
 "u" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/tomb)
 "A" = (
 /obj/effect/dungeon_directional_helper/west,
