@@ -7,7 +7,7 @@
 /datum/blueprint_recipe/wall/woodwall
 	name = "Wood Wall"
 	desc = "A wooden wall."
-	result_type = /turf/closed/wall/mineral/wood
+	result_type = /turf/closed/wall/mineral/wood/log
 	required_materials = list(
 		/obj/item/grown/log/tree/small = 2
 	)
@@ -20,7 +20,7 @@
 /datum/blueprint_recipe/wall/woodwindow
 	name = "Wood Murder Hole"
 	desc = "A wooden wall with a murder hole."
-	result_type = /turf/closed/wall/mineral/wood/window
+	result_type = /turf/closed/wall/mineral/wood/log/window
 	required_materials = list(
 		/obj/item/grown/log/tree/small = 2
 	)
@@ -34,7 +34,7 @@
 /datum/blueprint_recipe/wall/dwoodwall
 	name = "Dark Wood Wall"
 	desc = "A dark wooden wall."
-	result_type = /turf/closed/wall/mineral/wooddark
+	result_type = /turf/closed/wall/mineral/wood/wooddark
 	required_materials = list(
 		/obj/item/natural/wood/plank = 3
 	)
@@ -48,27 +48,27 @@
 /datum/blueprint_recipe/wall/dwoodwall/horizontal
 	name = "Horizontal Dark Wood Wall"
 	desc = "A dark wooden wall."
-	result_type = /turf/closed/wall/mineral/wooddark/horizontal
+	result_type = /turf/closed/wall/mineral/wood/wooddark/horizontal
 
 /datum/blueprint_recipe/wall/dwoodwall/vertical
 	name = "Vertical Dark Wood Wall"
 	desc = "A dark wooden wall."
-	result_type = /turf/closed/wall/mineral/wooddark/vertical
+	result_type = /turf/closed/wall/mineral/wood/wooddark/vertical
 
 /datum/blueprint_recipe/wall/dwoodwall/end
 	name = "Dark Wood End Wall"
 	desc = "A dark wooden wall."
-	result_type = /turf/closed/wall/mineral/wooddark/end
+	result_type = /turf/closed/wall/mineral/wood/wooddark/end
 
 /datum/blueprint_recipe/wall/dwoodwall/slit
 	name = "Dark Wood Slit Wall"
 	desc = "A dark wooden wall."
-	result_type = /turf/closed/wall/mineral/wooddark/slitted
+	result_type = /turf/closed/wall/mineral/wood/wooddark/slitted
 
 /datum/blueprint_recipe/wall/dwoodwindow
 	name = "Dark Wood Window"
 	desc = "A dark wooden wall with a window."
-	result_type = /turf/closed/wall/mineral/wooddark/window
+	result_type = /turf/closed/wall/mineral/wood/wooddark/window
 	required_materials = list(
 		/obj/item/natural/wood/plank = 3
 	)
@@ -83,7 +83,7 @@
 /datum/blueprint_recipe/wall/stonewall
 	name = "Stone Wall"
 	desc = "A stone wall."
-	result_type = /turf/closed/wall/mineral/stone
+	result_type = /turf/closed/wall/mineral/stone/cobble
 	required_materials = list(
 		/obj/item/natural/stone = 2
 	)
@@ -96,7 +96,7 @@
 /datum/blueprint_recipe/wall/stonewindow
 	name = "Stone Murder Hole"
 	desc = "A stone wall with a murder hole."
-	result_type = /turf/closed/wall/mineral/stone/window
+	result_type = /turf/closed/wall/mineral/stone/cobble/window
 	required_materials = list(
 		/obj/item/natural/stone = 2
 	)
@@ -109,7 +109,7 @@
 /datum/blueprint_recipe/wall/stonebrick
 	name = "Stone Brick Wall"
 	desc = "A stone brick wall."
-	result_type = /turf/closed/wall/mineral/stonebrick
+	result_type = /turf/closed/wall/mineral/stone/stonebrick
 	required_materials = list(
 		/obj/item/natural/stoneblock = 2
 	)
@@ -123,7 +123,7 @@
 /datum/blueprint_recipe/wall/fancyswall
 	name = "Decorated Stone Wall"
 	desc = "A decorated stone wall."
-	result_type = /turf/closed/wall/mineral/decostone
+	result_type = /turf/closed/wall/mineral/stone/decostone
 	required_materials = list(
 		/obj/item/natural/stoneblock = 3
 	)
@@ -137,7 +137,7 @@
 /datum/blueprint_recipe/wall/craftstone
 	name = "Craftstone Wall"
 	desc = "A craftstone wall."
-	result_type = /turf/closed/wall/mineral/craftstone
+	result_type = /turf/closed/wall/mineral/stone/craftstone
 	required_materials = list(
 		/obj/item/natural/stoneblock = 3
 	)
@@ -165,7 +165,7 @@
 /datum/blueprint_recipe/wall/daubwall
 	name = "Daub Wall"
 	desc = "A daub wall made of sticks and dirt."
-	result_type = /turf/closed/wall/mineral/decowood
+	result_type = /turf/closed/wall/mineral/wood/decowood
 	required_materials = list(
 		/obj/item/grown/log/tree/stick = 3,
 		/obj/item/natural/dirtclod = 2
@@ -177,7 +177,7 @@
 /datum/blueprint_recipe/wall/daubwall/vert
 	name = "Vertical Daub Wall"
 	desc = "A daub wall made of sticks and dirt."
-	result_type = /turf/closed/wall/mineral/decowood/vert
+	result_type = /turf/closed/wall/mineral/wood/decowood/vert
 	required_materials = list(
 		/obj/item/grown/log/tree/stick = 3,
 		/obj/item/natural/dirtclod = 2
@@ -248,19 +248,19 @@
 	)
 	craftdiff = 2
 	skillcraft = /datum/skill/craft/masonry
-	result_type = /turf/closed/wall/mineral/stone/window
+	result_type = /turf/closed/wall/mineral/stone/cobble/window
 
 /datum/blueprint_recipe/wall/stonewindow/moss
 	name = "Solid Mossy Stone Window"
-	result_type = /turf/closed/wall/mineral/stone/window/moss
+	result_type = /turf/closed/wall/mineral/stone/cobble/window/moss
 
 /datum/blueprint_recipe/wall/stonewindow/blue
 	name = "Solid Mossy Bluestone Window"
-	result_type = /turf/closed/wall/mineral/stone/window/moss/blue
+	result_type = /turf/closed/wall/mineral/stone/cobble/window/moss/blue
 
 /datum/blueprint_recipe/wall/stonewindow/red
 	name = "Solid Mossy Redstone Window"
-	result_type = /turf/closed/wall/mineral/stone/window/moss/red
+	result_type = /turf/closed/wall/mineral/stone/cobble/window/moss/red
 
 /datum/blueprint_recipe/wall/mossstone
 	name = "Mossy Stone Wall"
@@ -271,15 +271,15 @@
 	)
 	craftdiff = 2
 	skillcraft = /datum/skill/craft/masonry
-	result_type = /turf/closed/wall/mineral/stone/moss
+	result_type = /turf/closed/wall/mineral/stone/cobble/moss
 
 /datum/blueprint_recipe/wall/mossstone/blue
 	name = "Mossy Bluestone Wall"
-	result_type = /turf/closed/wall/mineral/stone/moss/blue
+	result_type = /turf/closed/wall/mineral/stone/cobble/moss/blue
 
 /datum/blueprint_recipe/wall/mossstone/red
 	name = "Mossy Redstone Wall"
-	result_type = /turf/closed/wall/mineral/stone/moss/red
+	result_type = /turf/closed/wall/mineral/stone/cobble/moss/red
 
 /datum/blueprint_recipe/wall/decorstone
 	name = "Decor Stone Wall"
@@ -289,7 +289,7 @@
 	)
 	craftdiff = 4
 	skillcraft = /datum/skill/craft/masonry
-	result_type = /turf/closed/wall/mineral/decostone
+	result_type = /turf/closed/wall/mineral/stone/decostone
 
 
 /datum/blueprint_recipe/wall/decorstone_alt
@@ -300,7 +300,7 @@
 	)
 	craftdiff = 4
 	skillcraft = /datum/skill/craft/masonry
-	result_type = /turf/closed/wall/mineral/decorstone
+	result_type = /turf/closed/wall/mineral/stone/decorstone
 
 /datum/blueprint_recipe/wall/decorstone_center_alt
 	name = "Alternative Center Decor Stone Wall"
@@ -310,7 +310,7 @@
 	)
 	craftdiff = 4
 	skillcraft = /datum/skill/craft/masonry
-	result_type = /turf/closed/wall/mineral/decostone/center
+	result_type = /turf/closed/wall/mineral/stone/decostone/center
 
 /datum/blueprint_recipe/wall/decorstonewindow
 	name = "Decor Stone Window"
@@ -320,7 +320,7 @@
 	)
 	craftdiff = 4
 	skillcraft = /datum/skill/craft/masonry
-	result_type = /turf/closed/wall/mineral/decorstone/window
+	result_type = /turf/closed/wall/mineral/stone/decorstone/window
 
 /datum/blueprint_recipe/wall/decorstonealt/moss
 	name = "Alternative Mossy Decor Stone Wall"
@@ -328,15 +328,15 @@
 		/obj/item/natural/stoneblock = 4,
 		/obj/item/natural/fibers = 2,
 	)
-	result_type = /turf/closed/wall/mineral/decorstone/moss
+	result_type = /turf/closed/wall/mineral/stone/decorstone/moss
 
 /datum/blueprint_recipe/wall/decorstonealt/moss/red
 	name = "Alternative Mossy Decor Redstone Wall"
-	result_type = /turf/closed/wall/mineral/decorstone/moss/red
+	result_type = /turf/closed/wall/mineral/stone/decorstone/moss/red
 
 /datum/blueprint_recipe/wall/decorstonealt/moss/blue
 	name = "Alternative Mossy Decor Bluestone Wall"
-	result_type = /turf/closed/wall/mineral/decorstone/moss/blue
+	result_type = /turf/closed/wall/mineral/stone/decorstone/moss/blue
 
 /datum/blueprint_recipe/wall/decorstone/moss
 	name = "Mossy Decor Stone Wall"
@@ -344,15 +344,15 @@
 		/obj/item/natural/stoneblock = 4,
 		/obj/item/natural/fibers = 2,
 	)
-	result_type = /turf/closed/wall/mineral/decostone/moss
+	result_type = /turf/closed/wall/mineral/stone/decostone/moss
 
 /datum/blueprint_recipe/wall/decorstone/moss/red
 	name = "Mossy Decor Redstone Wall"
-	result_type = /turf/closed/wall/mineral/decostone/moss/red
+	result_type = /turf/closed/wall/mineral/stone/decostone/moss/red
 
 /datum/blueprint_recipe/wall/decorstone/moss/blue
 	name = "Mossy Decor Bluestone Wall"
-	result_type = /turf/closed/wall/mineral/decostone/moss/blue
+	result_type = /turf/closed/wall/mineral/stone/decostone/moss/blue
 
 /datum/blueprint_recipe/wall/decorstonecand
 	name = "Decor Stone Alcove"
@@ -362,7 +362,7 @@
 	)
 	craftdiff = 4
 	skillcraft = /datum/skill/craft/masonry
-	result_type = /turf/closed/wall/mineral/decostone/cand
+	result_type = /turf/closed/wall/mineral/stone/decostone/cand
 
 /datum/blueprint_recipe/wall/decorstonecand/moss
 	name = "Mossy Decor Stone Alcove"
@@ -370,15 +370,15 @@
 		/obj/item/natural/stoneblock = 4,
 		/obj/item/natural/fibers = 2,
 	)
-	result_type = /turf/closed/wall/mineral/decostone/moss/cand
+	result_type = /turf/closed/wall/mineral/stone/decostone/moss/cand
 
 /datum/blueprint_recipe/wall/decorstonecand/moss/red
 	name = "Mossy Decor Redstone Alcove"
-	result_type = /turf/closed/wall/mineral/decostone/moss/red/cand
+	result_type = /turf/closed/wall/mineral/stone/decostone/moss/red/cand
 
 /datum/blueprint_recipe/wall/decorstonecand/moss/blue
 	name = "Mossy Decor Bluestone Alcove"
-	result_type = /turf/closed/wall/mineral/decostone/moss/blue/cand
+	result_type = /turf/closed/wall/mineral/stone/decostone/moss/blue/cand
 
 /datum/blueprint_recipe/wall/decorstonelong
 	name = "Decor Stone Long Wall"
@@ -388,7 +388,7 @@
 	)
 	craftdiff = 4
 	skillcraft = /datum/skill/craft/masonry
-	result_type = /turf/closed/wall/mineral/decostone/long
+	result_type = /turf/closed/wall/mineral/stone/decostone/long
 
 /datum/blueprint_recipe/wall/decorstonelong/moss
 	name = "Mossy Decor Stone Long Wall"
@@ -396,15 +396,15 @@
 		/obj/item/natural/stoneblock = 4,
 		/obj/item/natural/fibers = 2,
 	)
-	result_type = /turf/closed/wall/mineral/decostone/moss/long
+	result_type = /turf/closed/wall/mineral/stone/decostone/moss/long
 
 /datum/blueprint_recipe/wall/decorstonelong/moss/red
 	name = "Mossy Decor Redstone Long Wall"
-	result_type = /turf/closed/wall/mineral/decostone/moss/red/long
+	result_type = /turf/closed/wall/mineral/stone/decostone/moss/red/long
 
 /datum/blueprint_recipe/wall/decorstonelong/moss/blue
 	name = "Mossy Decor Bluestone Long Wall"
-	result_type = /turf/closed/wall/mineral/decostone/moss/blue/long
+	result_type = /turf/closed/wall/mineral/stone/decostone/moss/blue/long
 
 /datum/blueprint_recipe/wall/decorstoneend
 	name = "Decor Stone End Wall"
@@ -414,7 +414,7 @@
 	)
 	craftdiff = 4
 	skillcraft = /datum/skill/craft/masonry
-	result_type = /turf/closed/wall/mineral/decostone/end
+	result_type = /turf/closed/wall/mineral/stone/decostone/end
 
 /datum/blueprint_recipe/wall/decorstoneend/moss
 	name = "Mossy Decor Stone End Wall"
@@ -422,15 +422,15 @@
 		/obj/item/natural/stoneblock = 4,
 		/obj/item/natural/fibers = 2,
 	)
-	result_type = /turf/closed/wall/mineral/decostone/moss/end
+	result_type = /turf/closed/wall/mineral/stone/decostone/moss/end
 
 /datum/blueprint_recipe/wall/decorstoneend/moss/red
 	name = "Mossy Decor Redstone End Wall"
-	result_type = /turf/closed/wall/mineral/decostone/moss/red/end
+	result_type = /turf/closed/wall/mineral/stone/decostone/moss/red/end
 
 /datum/blueprint_recipe/wall/decorstoneend/moss/blue
 	name = "Mossy Decor Bluestone End Wall"
-	result_type = /turf/closed/wall/mineral/decostone/moss/blue/end
+	result_type = /turf/closed/wall/mineral/stone/decostone/moss/blue/end
 
 /datum/blueprint_recipe/wall/roof
 	name = "Center Brick Roof"
@@ -440,20 +440,20 @@
 	)
 	craftdiff = 4
 	skillcraft = /datum/skill/craft/masonry
-	result_type = /turf/closed/wall/mineral/roofwall/center
+	result_type = /turf/closed/wall/mineral/wood/roofwall/center
 	supports_directions = TRUE
 
 /datum/blueprint_recipe/wall/roof/middle
 	name = "Middle Brick Roof"
-	result_type = /turf/closed/wall/mineral/roofwall/middle
+	result_type = /turf/closed/wall/mineral/wood/roofwall/middle
 
 /datum/blueprint_recipe/wall/roof/outercorner
 	name = "Outer Brick Roof"
-	result_type = /turf/closed/wall/mineral/roofwall/outercorner
+	result_type = /turf/closed/wall/mineral/wood/roofwall/outercorner
 
 /datum/blueprint_recipe/wall/roof/innercorner
 	name = "Inner Brick Roof"
-	result_type = /turf/closed/wall/mineral/roofwall/innercorner
+	result_type = /turf/closed/wall/mineral/wood/roofwall/innercorner
 
 /datum/blueprint_recipe/wall/underbrick
 	name = "Underbrick Wall"

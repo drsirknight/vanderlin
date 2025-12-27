@@ -29,6 +29,9 @@
 	icon = 'icons/obj/stairs.dmi'
 	icon_state = "stonestairs"
 
+/obj/structure/stairs/stone/reddish
+	color = "#ffddd7"
+
 // original icon = 'icons/roguetown/topadd/cre/enigma_misc1.dmi'
 /obj/structure/stairs/stone/church
 	name = "stone stairs"
