@@ -1,6 +1,6 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "ag" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/under/tomb/indoors)
 "ah" = (
 /obj/structure/fermentation_keg/beer,
@@ -44,7 +44,7 @@
 /turf/open/floor/dirt/road,
 /area/under/tomb)
 "aA" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/under/tomb/indoors)
 "aE" = (
 /obj/structure/door/stone,
@@ -55,7 +55,7 @@
 /turf/open/floor/dirt/road,
 /area/under/tomb)
 "aG" = (
-/turf/closed/wall/mineral/wooddark/end,
+/turf/closed/wall/mineral/wood/wooddark/end,
 /area/under/tomb/indoors)
 "aI" = (
 /obj/machinery/light/fueled/firebowl/standing,

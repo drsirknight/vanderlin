@@ -130,7 +130,7 @@
 /turf/open/floor/hexstone,
 /area/under/tomb)
 "Y" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/tomb/indoors)
 
 (1,1,1) = {"

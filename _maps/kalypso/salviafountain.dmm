@@ -33,7 +33,7 @@
 "o" = (
 /obj/structure/fluff/walldeco/vinez,
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/template_noop)
 "p" = (
 /obj/item/candle/eora/lit{
@@ -52,7 +52,7 @@
 /area/template_noop)
 "s" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/template_noop)
 "t" = (
 /obj/structure/flora/grass/bush,
@@ -106,7 +106,7 @@
 /turf/open/floor/grass/mixyel,
 /area/template_noop)
 "N" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/template_noop)
 "O" = (
 /obj/structure/flora/hotspring_rocks/small/five,

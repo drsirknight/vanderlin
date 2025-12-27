@@ -122,7 +122,7 @@
 /turf/open/floor/ruinedwood/chevron,
 /area/under/tomb)
 "wg" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/tomb)
 "wj" = (
 /mob/living/simple_animal/hostile/retaliate/wolf,
@@ -179,7 +179,7 @@
 /turf/open/floor/metal,
 /area/under/tomb)
 "HQ" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/under/tomb)
 "IM" = (
 /obj/structure/stairs{
@@ -189,7 +189,7 @@
 /area/under/tomb)
 "IO" = (
 /obj/effect/decal/cleanable/debris/glass,
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/under/tomb)
 "Jx" = (
 /obj/structure/bars,

@@ -139,7 +139,7 @@
 /turf/open/floor/dirt/road,
 /area/under/tomb)
 "fk" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/under/tomb/indoors/magic)
 "ga" = (
 /turf/open/floor/naturalstone,
@@ -221,7 +221,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/under/tomb/indoors)
 "ie" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/under/tomb/indoors/magic)
 "ih" = (
 /obj/structure/fireaxecabinet{
@@ -311,7 +311,7 @@
 /turf/open/floor/carpet,
 /area/under/tomb/indoors)
 "mM" = (
-/turf/closed/wall/mineral/wooddark/window,
+/turf/closed/wall/mineral/wood/wooddark/window,
 /area/under/tomb/indoors)
 "mO" = (
 /obj/structure/flora/shroom_tree,
@@ -356,7 +356,7 @@
 /turf/open/floor/blocks/newstone/alt,
 /area/under/tomb/indoors)
 "nB" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/tomb/indoors/magic)
 "nM" = (
 /obj/machinery/light/fueled/wallfire/candle/blue/r,
@@ -442,7 +442,7 @@
 /turf/open/floor/ruinedwood/chevron,
 /area/under/tomb/indoors/magic)
 "pH" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/under/tomb/indoors)
 "qc" = (
 /obj/effect/decal/cleanable/blood/splatter,
@@ -628,7 +628,7 @@
 /turf/open/transparent/openspace,
 /area/under/tomb/indoors)
 "wv" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/tomb/indoors)
 "wD" = (
 /mob/living/simple_animal/hostile/retaliate/mole,
@@ -700,7 +700,7 @@
 /turf/open/floor/blocks/newstone/alt,
 /area/under/tomb/indoors)
 "AK" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/under/tomb/indoors)
 "Bn" = (
 /obj/structure/stairs{
@@ -714,7 +714,7 @@
 /turf/open/floor/naturalstone,
 /area/under/tomb/cave)
 "BJ" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/under/tomb/indoors/magic)
 "BO" = (
 /mob/living/simple_animal/hostile/retaliate/bigrat,
@@ -1258,7 +1258,7 @@
 /turf/open/floor/carpet,
 /area/under/tomb/indoors)
 "YH" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/under/tomb/indoors)
 "YO" = (
 /turf/closed/mineral,

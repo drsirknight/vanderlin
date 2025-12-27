@@ -265,7 +265,7 @@
 /turf/open/floor/dirt/road,
 /area/under/tomb/cave/wet)
 "iz" = (
-/turf/closed/wall/mineral/decostone/end{
+/turf/closed/wall/mineral/stone/decostone/end{
 	dir = 1
 	},
 /area/under/tomb/indoors/church)
@@ -361,14 +361,14 @@
 /turf/open/floor/naturalstone,
 /area/under/tomb/cave)
 "lp" = (
-/turf/closed/wall/mineral/decostone/end,
+/turf/closed/wall/mineral/stone/decostone/end,
 /area/under/tomb/indoors/church)
 "ly" = (
 /obj/structure/chair/bench/church,
 /turf/open/floor/churchmarble,
 /area/under/tomb/indoors/church)
 "lG" = (
-/turf/closed/wall/mineral/decostone/end{
+/turf/closed/wall/mineral/stone/decostone/end{
 	dir = 4
 	},
 /area/under/tomb/indoors/church)
@@ -420,7 +420,7 @@
 /turf/open/floor/blocks,
 /area/under/tomb/indoors/church)
 "nm" = (
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1
 	},
 /area/under/tomb/indoors/church)
@@ -468,7 +468,7 @@
 /turf/open/floor/churchmarble,
 /area/under/tomb/indoors/church)
 "pj" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/tomb)
 "pp" = (
 /turf/open/floor/concrete,
@@ -482,7 +482,7 @@
 /turf/open/water/swamp/deep,
 /area/under/tomb/cave/wet)
 "pE" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/cave/wet)
 "pH" = (
 /obj/structure/fluff/statue/small,
@@ -581,7 +581,7 @@
 /turf/open/water/swamp/deep,
 /area/under/tomb/cave/wet)
 "uT" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors/church)
 "vp" = (
 /obj/structure/flora/grass/bush_meagre,
@@ -854,7 +854,7 @@
 /turf/open/floor/churchmarble,
 /area/under/tomb/indoors/church)
 "Hv" = (
-/turf/closed/wall/mineral/decostone/end{
+/turf/closed/wall/mineral/stone/decostone/end{
 	dir = 8
 	},
 /area/under/tomb/indoors/church)
@@ -925,7 +925,7 @@
 /turf/open/floor/churchrough,
 /area/under/tomb/indoors/church)
 "JQ" = (
-/turf/closed/wall/mineral/decostone/long,
+/turf/closed/wall/mineral/stone/decostone/long,
 /area/under/tomb/indoors/church)
 "Kk" = (
 /obj/effect/decal/remains/human{
@@ -1294,7 +1294,7 @@
 /turf/open/floor/dirt/road,
 /area/under/tomb/cave)
 "Ye" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/under/tomb)
 "YN" = (
 /obj/structure/fluff/railing/wood,

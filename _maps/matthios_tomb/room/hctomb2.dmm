@@ -172,7 +172,7 @@
 /turf/open/floor/cobblerock,
 /area/under/tomb/cave)
 "nB" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb)
 "oB" = (
 /obj/structure/stairs/stone{
@@ -201,7 +201,7 @@
 /turf/open/floor/dirt,
 /area/under/tomb)
 "rp" = (
-/turf/closed/wall/mineral/decostone/end{
+/turf/closed/wall/mineral/stone/decostone/end{
 	dir = 8
 	},
 /area/under/tomb/cave)
@@ -220,7 +220,7 @@
 /turf/open/floor/dirt,
 /area/under/tomb)
 "tc" = (
-/turf/closed/wall/mineral/decostone/end{
+/turf/closed/wall/mineral/stone/decostone/end{
 	dir = 4
 	},
 /area/under/tomb/cave)
@@ -566,7 +566,7 @@
 /turf/open/floor/dirt/road,
 /area/under/tomb)
 "XW" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/cave)
 "Yg" = (
 /obj/structure/closet/dirthole/closed,

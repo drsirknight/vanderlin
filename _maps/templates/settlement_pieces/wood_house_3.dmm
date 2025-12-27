@@ -16,17 +16,17 @@
 /turf/open/floor/rooftop/green,
 /area)
 "f" = (
-/turf/closed/wall/mineral/roofwall/center,
+/turf/closed/wall/mineral/wood/roofwall/center,
 /area)
 "h" = (
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/template_noop)
 "i" = (
 /obj/effect/landmark/settlement_mob_spawn,
 /turf/open/floor/cobble,
 /area/template_noop)
 "l" = (
-/turf/closed/wall/mineral/roofwall/middle{
+/turf/closed/wall/mineral/wood/roofwall/middle{
 	dir = 4
 	},
 /area)
@@ -52,7 +52,7 @@
 /turf/open/floor/cobble,
 /area/template_noop)
 "s" = (
-/turf/closed/wall/mineral/roofwall/middle{
+/turf/closed/wall/mineral/wood/roofwall/middle{
 	dir = 2
 	},
 /area)
@@ -76,7 +76,7 @@
 /turf/open/transparent/openspace,
 /area/template_noop)
 "y" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/template_noop)
 "D" = (
 /obj/structure/window/openclose,
@@ -86,7 +86,7 @@
 /turf/open/floor/wood,
 /area/template_noop)
 "G" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/template_noop)
 "H" = (
 /turf/open/floor/ruinedwood,
@@ -109,7 +109,7 @@
 /turf/open/floor/wood,
 /area/template_noop)
 "O" = (
-/turf/closed/wall/mineral/roofwall/middle{
+/turf/closed/wall/mineral/wood/roofwall/middle{
 	dir = 8
 	},
 /area)
@@ -144,7 +144,7 @@
 /turf/open/floor/ruinedwood,
 /area/template_noop)
 "Z" = (
-/turf/closed/wall/mineral/roofwall/middle{
+/turf/closed/wall/mineral/wood/roofwall/middle{
 	dir = 1
 	},
 /area)

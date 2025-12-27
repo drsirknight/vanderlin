@@ -102,7 +102,7 @@
 	pixel_x = 8;
 	pixel_y = 10
 	},
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/tomb/indoors)
 "if" = (
 /turf/open/floor/carpet,
@@ -163,7 +163,7 @@
 /turf/open/floor/grass,
 /area/under/tomb/cave/wet)
 "tr" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/tomb/indoors)
 "tz" = (
 /obj/structure/fluff/millstone,
@@ -280,7 +280,7 @@
 /turf/open/floor/carpet,
 /area/under/tomb/indoors)
 "La" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/tomb/indoors)
 "Lj" = (
 /obj/structure/window/openclose{

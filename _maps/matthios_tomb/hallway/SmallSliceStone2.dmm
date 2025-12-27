@@ -1,6 +1,6 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "a" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/tomb)
 "b" = (
 /turf/open/floor/cobblerock,
@@ -11,7 +11,7 @@
 /turf/open/floor/cobble,
 /area/under/tomb)
 "H" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/tomb)
 "P" = (
 /turf/open/floor/cobble,

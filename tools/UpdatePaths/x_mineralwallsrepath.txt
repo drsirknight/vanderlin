@@ -1,0 +1,9 @@
+/turf/closed/wall/mineral/stone/@SUBTYPES : /turf/closed/wall/mineral/stone/cobble/@SUBTYPES{@OLD}
+/turf/closed/wall/mineral/decorstone/@SUBTYPES : /turf/closed/wall/mineral/stone/decorstone/@SUBTYPES{@OLD}
+/turf/closed/wall/mineral/craftstone/@SUBTYPES : /turf/closed/wall/mineral/stone/craftstone/@SUBTYPES{@OLD}
+/turf/closed/wall/mineral/stonebrick/@SUBTYPES : /turf/closed/wall/mineral/stone/stonebrick/@SUBTYPES{@OLD}
+/turf/closed/wall/mineral/wood/@SUBTYPES : /turf/closed/wall/mineral/wood/log/@SUBTYPES{@OLD}
+/turf/closed/wall/mineral/wooddark/@SUBTYPES : /turf/closed/wall/mineral/wood/wooddark/@SUBTYPES{@OLD}
+/turf/closed/wall/mineral/roofwall/@SUBTYPES : /turf/closed/wall/mineral/wood/roofwall/@SUBTYPES{@OLD}
+/turf/closed/wall/mineral/decowood/@SUBTYPES : /turf/closed/wall/mineral/wood/decowood/@SUBTYPES{@OLD}
+/turf/closed/wall/mineral/decostone/@SUBTYPES : /turf/closed/wall/mineral/stone/decostone/@SUBTYPES{@OLD}

@@ -129,13 +129,13 @@
 /turf/open/floor/herringbone,
 /area/overlord_lair)
 "au" = (
-/turf/closed/wall/mineral/decostone/cand,
+/turf/closed/wall/mineral/stone/decostone/cand,
 /area/indoors)
 "av" = (
 /turf/open/floor/carpet/royalblack,
 /area)
 "aw" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors)
 "ax" = (
 /obj/structure/table/wood/plain,
@@ -359,7 +359,7 @@
 /area/indoors)
 "be" = (
 /obj/machinery/light/fueled/torchholder,
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors)
 "bf" = (
 /obj/structure/table/wood{
@@ -389,7 +389,7 @@
 /area/indoors)
 "bh" = (
 /obj/machinery/light/fueled/torchholder,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/indoors)
 "bi" = (
 /obj/structure/hotspring/border/seven,
@@ -764,7 +764,7 @@
 /turf/open/floor/carpet,
 /area/indoors/vampire_manor)
 "cw" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/bandit_lair)
 "cx" = (
 /obj/structure/flora/ausbushes/ppflowers,
@@ -1088,7 +1088,7 @@
 /area/indoors)
 "dB" = (
 /obj/structure/fluff/walldeco/stone,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/vampire_manor)
 "dC" = (
 /obj/structure/fluff/statue/gargoyle/moss,
@@ -1118,7 +1118,7 @@
 /turf/open/floor/cobble/mossy,
 /area/outdoors/woods_safe)
 "dL" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/outdoors/woods_safe)
 "dM" = (
 /obj/machinery/light/fueled/torchholder/c,
@@ -1208,11 +1208,11 @@
 /turf/open/floor/cobble,
 /area/indoors)
 "eh" = (
-/turf/closed/wall/mineral/decostone/moss/long,
+/turf/closed/wall/mineral/stone/decostone/moss/long,
 /area/indoors/lich)
 "ep" = (
 /obj/structure/fluff/walldeco/wallshield,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/vampire_manor)
 "er" = (
 /obj/structure/fluff/railing/border{
@@ -1556,7 +1556,7 @@
 /turf/open/floor/cobblerock,
 /area/outdoors/woods_safe)
 "gS" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/lich)
 "gW" = (
 /obj/structure/table/wood/plain_alt,
@@ -1571,10 +1571,10 @@
 /obj/effect/decal/cobbleedge/alt{
 	dir = 9
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/indoors/lich)
 "gY" = (
-/turf/closed/wall/mineral/decostone/moss,
+/turf/closed/wall/mineral/stone/decostone/moss,
 /area/indoors/lich)
 "gZ" = (
 /turf/closed/mineral/bedrock,
@@ -2199,7 +2199,7 @@
 /turf/open/floor/churchmarble,
 /area/indoors/lich)
 "lh" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors)
 "li" = (
 /obj/structure/bars/cemetery,
@@ -2451,7 +2451,7 @@
 /turf/open/floor/cobble,
 /area/indoors)
 "nf" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/lich)
 "ng" = (
 /obj/structure/closet/crate/chest/neu_fancy,
@@ -2638,7 +2638,7 @@
 /turf/open/floor/blocks/paving,
 /area/indoors/vampire_manor)
 "ob" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/indoors)
 "oe" = (
 /obj/machinery/light/fueled/campfire/densefire,
@@ -3204,7 +3204,7 @@
 /area/indoors)
 "rN" = (
 /obj/machinery/light/fueled/wallfire,
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors)
 "rO" = (
 /obj/effect/decal/cleanable/blood/splatter,
@@ -3550,7 +3550,7 @@
 /turf/closed,
 /area/under)
 "tQ" = (
-/turf/closed/wall/mineral/decostone/moss/cand,
+/turf/closed/wall/mineral/stone/decostone/moss/cand,
 /area/indoors/lich)
 "tR" = (
 /obj/structure/hotspring/border/three,
@@ -3818,7 +3818,7 @@
 /turf/open/floor/blocks,
 /area/indoors)
 "vI" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors)
 "vL" = (
 /obj/structure/closet/dirthole/grave,
@@ -4207,7 +4207,7 @@
 /turf/open/floor/ruinedwood/darker,
 /area/indoors/bandit_lair)
 "yu" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/overlord_lair)
 "yv" = (
 /obj/structure/closet/crate/chest/neu,
@@ -4242,7 +4242,7 @@
 /turf/open/floor/cobble,
 /area/outdoors/bog/inhumen_camp)
 "yE" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/vampire_manor)
 "yI" = (
 /obj/structure/table/wood{
@@ -4265,7 +4265,7 @@
 /turf/open/floor/ruinedwood/darker,
 /area/indoors/bandit_lair)
 "yR" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors/bandit_lair)
 "yT" = (
 /obj/structure/closet/crate/crafted_closet/inn,
@@ -4303,7 +4303,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/indoors/vampire_manor)
 "zf" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/outdoors/woods_safe)
 "zg" = (
 /obj/item/weapon/surgery/saw/improv,
@@ -5007,7 +5007,7 @@
 /area/overlord_lair)
 "Ei" = (
 /obj/item/painting/skull,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/vampire_manor)
 "Ek" = (
 /obj/structure/closet/dirthole/closed/loot,
@@ -5101,10 +5101,10 @@
 /obj/structure/fluff/railing/border{
 	dir = 5
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/vampire_manor)
 "EW" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/outdoors/bog/inhumen_camp)
 "EX" = (
 /obj/structure/table/wood/treestump/burnt,
@@ -5144,7 +5144,7 @@
 /turf/open/floor/grass/red,
 /area/outdoors/woods_safe)
 "Fk" = (
-/turf/closed/wall/mineral/decostone/cand,
+/turf/closed/wall/mineral/stone/decostone/cand,
 /area/indoors/lich)
 "Fl" = (
 /obj/structure/closet/crate/chest/neu_iron,
@@ -5867,7 +5867,7 @@
 /obj/machinery/light/fueled/wallfire/candle{
 	pixel_y = -32
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/vampire_manor)
 "JY" = (
 /obj/structure/kneestingers,
@@ -5897,7 +5897,7 @@
 /area/outdoors)
 "Kj" = (
 /obj/machinery/light/fueled/wallfire,
-/turf/closed/wall/mineral/decostone/long,
+/turf/closed/wall/mineral/stone/decostone/long,
 /area/indoors/lich)
 "Kn" = (
 /obj/structure/flora/grass,
@@ -5932,7 +5932,7 @@
 /turf/open/floor/dirt,
 /area/outdoors/bog/inhumen_camp)
 "Ky" = (
-/turf/closed/wall/mineral/decostone/moss/cand,
+/turf/closed/wall/mineral/stone/decostone/moss/cand,
 /area/outdoors/bog/inhumen_camp)
 "KC" = (
 /obj/structure/stairs/stone{
@@ -6041,7 +6041,7 @@
 /turf/open/floor/grass/yel,
 /area/outdoors)
 "Lv" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/lich)
 "Ly" = (
 /obj/structure/fluff/railing/border{
@@ -6105,14 +6105,14 @@
 /obj/effect/decal/cobbleedge{
 	dir = 9
 	},
-/turf/closed/wall/mineral/decostone/moss/long,
+/turf/closed/wall/mineral/stone/decostone/moss/long,
 /area/indoors/lich)
 "LU" = (
 /obj/structure/fluff/psycross/crafted,
 /turf/open/floor/dirt,
 /area/outdoors/woods_safe)
 "LW" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/indoors/lich)
 "LY" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -6244,7 +6244,7 @@
 /turf/open/floor/grass/yel,
 /area/outdoors/bog/inhumen_camp)
 "MV" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors/lich)
 "MW" = (
 /obj/structure/table/wood/plain_alt,
@@ -6655,7 +6655,7 @@
 /turf/open/floor/carpet,
 /area/indoors)
 "Qe" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area)
 "Qh" = (
 /obj/effect/landmark/hammer/dev_text{
@@ -6739,7 +6739,7 @@
 /turf/open/floor/wood,
 /area)
 "QA" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/indoors/lich)
 "QB" = (
 /obj/structure/bed/shit,
@@ -6784,7 +6784,7 @@
 /obj/structure/fluff/railing/border{
 	dir = 9
 	},
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors/vampire_manor)
 "QS" = (
 /obj/effect/decal/cobbleedge,
@@ -7005,7 +7005,7 @@
 /turf/open/floor/plasteel/maniac,
 /area)
 "RX" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/start)
 "RY" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -7067,7 +7067,7 @@
 /turf/open/floor/dirt/road,
 /area/outdoors/woods_safe)
 "Sq" = (
-/turf/closed/wall/mineral/decowood/vert,
+/turf/closed/wall/mineral/wood/decowood/vert,
 /area/indoors/bandit_lair)
 "Sr" = (
 /turf/open/floor/plasteel/maniac,
@@ -7370,7 +7370,7 @@
 /turf/open/floor/grass/mixyel,
 /area/outdoors/bog/inhumen_camp)
 "TX" = (
-/turf/closed/wall/mineral/decostone/end{
+/turf/closed/wall/mineral/stone/decostone/end{
 	dir = 4
 	},
 /area/indoors/lich)
@@ -7381,7 +7381,7 @@
 /turf/open/floor/ruinedwood/darker,
 /area/indoors/bandit_lair)
 "Uj" = (
-/turf/closed/wall/mineral/decostone/center,
+/turf/closed/wall/mineral/stone/decostone/center,
 /area/indoors/lich)
 "Un" = (
 /obj/structure/table/wood{
@@ -7400,7 +7400,7 @@
 /turf/open/floor/cobble,
 /area/indoors/bandit_lair)
 "Up" = (
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1
 	},
 /area/indoors/lich)
@@ -7467,7 +7467,7 @@
 /turf/open/floor/twig,
 /area/indoors/lich)
 "UN" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors)
 "UR" = (
 /obj/structure/hotspring,
@@ -7514,7 +7514,7 @@
 	pixel_x = 3;
 	pixel_y = -5
 	},
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/indoors/lich)
 "Va" = (
 /obj/structure/fluff/railing/wood{
@@ -7555,13 +7555,13 @@
 /turf/open/floor/cobble,
 /area/indoors/bandit_lair)
 "Vm" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area)
 "Vq" = (
 /obj/effect/decal/cobbleedge{
 	dir = 9
 	},
-/turf/closed/wall/mineral/decostone/long,
+/turf/closed/wall/mineral/stone/decostone/long,
 /area/indoors/lich)
 "Vt" = (
 /obj/structure/vampire/necromanticbook{
@@ -7775,7 +7775,7 @@
 /turf/open/floor/twig,
 /area/indoors/bandit_lair)
 "WG" = (
-/turf/closed/wall/mineral/decostone/long,
+/turf/closed/wall/mineral/stone/decostone/long,
 /area/indoors/lich)
 "WI" = (
 /obj/structure/fluff/railing/wood,
@@ -7964,7 +7964,7 @@
 /turf/open/floor/herringbone,
 /area/indoors/vampire_manor)
 "Yc" = (
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/indoors)
 "Yf" = (
 /obj/effect/decal/remains/bigrat,
@@ -8135,7 +8135,7 @@
 /area/indoors)
 "YU" = (
 /obj/machinery/light/fueled/torchholder,
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/indoors)
 "YV" = (
 /obj/structure/fluff/statue/pillar,
@@ -8219,7 +8219,7 @@
 	pixel_x = 8;
 	pixel_y = 6
 	},
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1
 	},
 /area/indoors/lich)

@@ -238,7 +238,7 @@
 /area/indoors/lich)
 "bs" = (
 /obj/effect/decal/cleanable/blood/splatter,
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/indoors/lich)
 "bt" = (
 /obj/structure/fluff/railing/border,
@@ -543,7 +543,7 @@
 /turf/open/floor/ruinedwood,
 /area/outdoors/bog)
 "dy" = (
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/outdoors/bog)
 "dz" = (
 /obj/structure/fluff/walldeco/church/line{
@@ -575,10 +575,10 @@
 /turf/open/floor/ruinedwood,
 /area/indoors/cave)
 "dE" = (
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/indoors/lich)
 "dG" = (
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/indoors/cave)
 "dI" = (
 /obj/structure/table/wood/plain,
@@ -598,7 +598,7 @@
 "dM" = (
 /obj/structure/forcefield/strong,
 /obj/structure/forcefield/strong,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/indoors/lich)
 "dO" = (
 /obj/effect/decal/cleanable/food/egg_smudge,
@@ -1038,7 +1038,7 @@
 /turf/open/floor/ruinedwood,
 /area/indoors/mountains)
 "gp" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/mountains)
 "gr" = (
 /obj/structure/stairs{
@@ -1069,10 +1069,10 @@
 /turf/open/floor/churchbrick,
 /area/indoors/lich)
 "gx" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/outdoors/bog)
 "gy" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/cave)
 "gz" = (
 /obj/structure/hotspring/border/ten,
@@ -1711,7 +1711,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "Marsh2"
 	},
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/indoors/lich)
 "jL" = (
 /obj/item/clothing/neck/psycross/silver,
@@ -1833,7 +1833,7 @@
 /area/indoors/lich)
 "kJ" = (
 /obj/structure/forcefield,
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/indoors/lich)
 "kL" = (
 /obj/structure/table/wood/counter{
@@ -2410,7 +2410,7 @@
 /turf/open/floor/tile/bath,
 /area/indoors/lich)
 "od" = (
-/turf/closed/wall/mineral/wooddark/window,
+/turf/closed/wall/mineral/wood/wooddark/window,
 /area/indoors/mountains)
 "oe" = (
 /obj/effect/temp_visual/curse{
@@ -2661,7 +2661,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "Marsh1"
 	},
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/indoors/lich)
 "pO" = (
 /obj/structure/table/wood/treestump,
@@ -3075,7 +3075,7 @@
 /turf/open/floor/dirt,
 /area/indoors/mountains)
 "sE" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/cave)
 "sH" = (
 /obj/structure/stairs{
@@ -3282,7 +3282,7 @@
 /turf/open/floor/naturalstone,
 /area/indoors/cave)
 "tH" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/indoors/lich)
 "tI" = (
 /obj/structure/table/wood/plain_alt,
@@ -3397,7 +3397,7 @@
 /turf/open/floor/ruinedwood,
 /area/indoors/lich)
 "uk" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/outdoors/bog)
 "ul" = (
 /obj/structure/door/weak,
@@ -3524,7 +3524,7 @@
 /turf/open/floor/dirt,
 /area/indoors/lich)
 "uL" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/mountains)
 "uM" = (
 /obj/structure/closet/crate/coffin,
@@ -3922,7 +3922,7 @@
 /turf/open/floor/ruinedwood/darker,
 /area/indoors/lich)
 "wP" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors/mountains)
 "wR" = (
 /obj/structure/fluff/traveltile{
@@ -4000,7 +4000,7 @@
 /obj/structure/fluff/railing/tall/palisade{
 	dir = 8
 	},
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors/lich)
 "xj" = (
 /obj/structure/stairs/stone{
@@ -4108,7 +4108,7 @@
 /turf/open/floor/grass/cold,
 /area/outdoors/bog)
 "xS" = (
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/indoors/mountains)
 "xT" = (
 /obj/structure/trap/fire,
@@ -4160,7 +4160,7 @@
 /turf/open/floor/churchrough/purple,
 /area/indoors/lich)
 "ye" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/mountains)
 "yg" = (
 /obj/structure/door/fancy,
@@ -4848,7 +4848,7 @@
 /obj/structure/fluff/railing/tall/palisade{
 	dir = 4
 	},
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors/lich)
 "BW" = (
 /obj/structure/flora/tree/burnt,
@@ -4959,7 +4959,7 @@
 /obj/structure/fluff/railing/tall/palisade{
 	dir = 4
 	},
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors/lich)
 "CA" = (
 /mob/living/simple_animal/hostile/retaliate/infernal/hellhound,
@@ -5411,7 +5411,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "Marsh2"
 	},
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/indoors/lich)
 "EV" = (
 /obj/structure/table/vtable/v2,
@@ -6255,7 +6255,7 @@
 /area/outdoors/bog)
 "JU" = (
 /obj/effect/landmark/hammer/dev_text,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/indoors/lich)
 "JV" = (
 /turf/open/floor/volcanic,
@@ -7138,11 +7138,11 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "Marsh3"
 	},
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/indoors/lich)
 "PE" = (
 /obj/structure/forcefield/strong,
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/indoors/lich)
 "PF" = (
 /obj/structure/fluff/psycross/zizocross{
@@ -7192,7 +7192,7 @@
 /turf/open/floor/cobblerock,
 /area/indoors/lich)
 "PP" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/outdoors/bog)
 "PR" = (
 /obj/structure/chair/wood/alt/chair_noble/purple{
@@ -7451,7 +7451,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "Marsh1"
 	},
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/indoors/lich)
 "RJ" = (
 /obj/structure/rack/shelf/big,
@@ -7755,7 +7755,7 @@
 /area/indoors/lich)
 "TA" = (
 /obj/structure/forcefield/strong,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/indoors/lich)
 "TB" = (
 /obj/effect/landmark/hammer/dev_text,
@@ -7771,7 +7771,7 @@
 /turf/open/floor/naturalstone,
 /area/indoors/lich)
 "TE" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/outdoors/bog)
 "TF" = (
 /obj/structure/stairs/stone{
@@ -8188,7 +8188,7 @@
 /turf/open/floor/churchrough/purple,
 /area/indoors/lich)
 "Wf" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/cave)
 "Wg" = (
 /obj/structure/fluff/railing/border{
@@ -8493,7 +8493,7 @@
 /area/indoors/lich)
 "XZ" = (
 /obj/structure/fluff/railing/tall/palisade,
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors/lich)
 "Ya" = (
 /obj/structure/rack/shelf/biggest,

@@ -23,7 +23,7 @@
 /turf/open/floor/dirt/road,
 /area/outdoors/bog)
 "j" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/outdoors/bog)
 "l" = (
 /mob/living/carbon/human/species/skeleton/npc/warrior/skilled,

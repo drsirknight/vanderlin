@@ -84,7 +84,7 @@
 	redstone_id = "INQ2"
 	},
 /obj/machinery/light/fueled/wallfire/candle/blue,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -308,7 +308,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Heir 1"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "anm" = (
 /obj/structure/fermentation_keg{
@@ -336,7 +336,7 @@
 /turf/open/floor/herringbone,
 /area/indoors/town/manor)
 "aoh" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -368,7 +368,7 @@
 /area/indoors/town)
 "aps" = (
 /obj/structure/fluff/walldeco/customflag,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/garrison)
 "apK" = (
 /turf/open/floor/ruinedwood/darker,
@@ -451,7 +451,7 @@
 	redstone_id = "K12"
 	},
 /obj/machinery/light/fueled/wallfire/candle/blue/l,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "avF" = (
 /obj/item/natural/feather,
@@ -711,7 +711,7 @@
 /turf/open/floor/tile/masonic/single,
 /area/indoors/town/manor)
 "aHf" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -807,7 +807,7 @@
 /area/indoors/town/steward)
 "aMi" = (
 /obj/structure/fluff/walldeco/customflag,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/villagegarrison)
 "aMv" = (
 /obj/structure/door/red{
@@ -861,7 +861,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 10
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -884,7 +884,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 10
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "aPX" = (
 /obj/structure/table/vtable/v2,
@@ -927,7 +927,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "K10"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "aRM" = (
 /obj/structure/hotspring,
@@ -1186,7 +1186,7 @@
 /obj/structure/fake_machine/scomm{
 	pixel_y = 0
 	},
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/garrison)
 "bct" = (
 /obj/structure/rack/shelf/biggest,
@@ -1250,7 +1250,7 @@
 /obj/structure/fluff/customsign{
 	name = "Psydon's light guides you, hold back the shadows with lit fire, and maintain secrecy at all costs."
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -1435,7 +1435,7 @@
 /turf/open/floor/ruinedwood,
 /area/indoors/town/manorgate)
 "bmU" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/indoors/town/manorgate)
 "bnt" = (
 /mob/living/simple_animal/hostile/retaliate/shade,
@@ -1445,7 +1445,7 @@
 /turf/open/floor/church/purple,
 /area/indoors/town/church)
 "bok" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/garrison)
 "boq" = (
 /obj/structure/rotation_piece/cog/large,
@@ -1501,7 +1501,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 9
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -1513,7 +1513,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/indoors/soilsons)
 "bqh" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -1790,7 +1790,7 @@
 /turf/open/floor/carpet/red,
 /area/indoors/town/manor)
 "bBZ" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manorgate)
 "bCy" = (
 /obj/structure/spider/stickyweb{
@@ -1856,7 +1856,7 @@
 /area/indoors/town)
 "bGG" = (
 /obj/machinery/light/fueled/torchholder/metal_torch,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/villagegarrison)
 "bGH" = (
 /obj/structure/chair/bench/couchablack,
@@ -1896,7 +1896,7 @@
 /area/indoors/town/dwarfin)
 "bIW" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manorgate)
 "bJa" = (
 /turf/closed/mineral/bedrock,
@@ -2000,7 +2000,7 @@
 /area/indoors/town)
 "bOO" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/steward)
 "bPc" = (
 /obj/effect/falling_sakura,
@@ -2028,7 +2028,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Heir 2"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "bQT" = (
 /obj/machinery/light/fueled/smelter,
@@ -2133,7 +2133,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 5
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/steward)
 "bVY" = (
 /obj/effect/decal/cleanable/blood/old,
@@ -2198,7 +2198,7 @@
 /turf/open/floor/cobble/alt,
 /area/under/cave)
 "bXt" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/shop)
 "bXG" = (
 /obj/machinery/light/fueledstreet/blue/wall{
@@ -2220,7 +2220,7 @@
 /area/indoors/town/tavern)
 "bYU" = (
 /obj/structure/curtain/bounty,
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/indoors/town/steward)
 "bZx" = (
 /obj/structure/bookcase/random,
@@ -2275,7 +2275,7 @@
 /turf/open/floor/tile/masonic/spiral,
 /area/indoors/town/manor)
 "cda" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -2347,7 +2347,7 @@
 	pixel_x = -27;
 	pixel_y = -23
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -2360,7 +2360,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 10
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -2527,7 +2527,7 @@
 /area/outdoors/rtfield)
 "cri" = (
 /obj/structure/fluff/walldeco/med3,
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/clinic_large)
 "crJ" = (
 /obj/effect/landmark/start/farmer,
@@ -2537,13 +2537,13 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "K7"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "csh" = (
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 6
 	},
-/turf/closed/wall/mineral/decostone/cand/reddish,
+/turf/closed/wall/mineral/stone/decostone/cand/reddish,
 /area/indoors/town/church)
 "csu" = (
 /obj/machinery/light/fueled/wallfire/candle,
@@ -2603,7 +2603,7 @@
 /turf/open/lava/acid,
 /area/under/cave)
 "cxH" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town)
 "cxW" = (
 /obj/structure/lever/wall{
@@ -2638,7 +2638,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 1
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/magician)
 "czS" = (
 /obj/structure/bars/cemetery,
@@ -2684,7 +2684,7 @@
 /turf/open/floor/ruinedwood/darker,
 /area/indoors/town/shop)
 "cCx" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/outdoors/rtfield)
 "cCW" = (
 /obj/effect/decal/cleanable/blood,
@@ -2753,7 +2753,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 5
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -2904,11 +2904,11 @@
 /turf/open/floor/churchrough/purple,
 /area/under/cave)
 "cNM" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/cave)
 "cOb" = (
 /obj/structure/water_pipe,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/town/basement)
 "cOH" = (
 /obj/structure/chair/wood/alt{
@@ -3089,7 +3089,7 @@
 /area/indoors/town/orphanage)
 "cZo" = (
 /obj/machinery/light/fueled/wallfire/candle/blue,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "cZA" = (
 /obj/machinery/light/fueled/wallfire/candle,
@@ -3322,7 +3322,7 @@
 /turf/open/floor/churchrough/purple,
 /area/under/cave)
 "dnx" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/magician)
 "dnA" = (
 /obj/machinery/light/fueled/wallfire/candle,
@@ -3406,7 +3406,7 @@
 /turf/open/floor/cobble,
 /area/indoors/lich)
 "dpI" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town/clinic_large)
 "dqu" = (
 /obj/structure/window,
@@ -3495,7 +3495,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 6
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/cave)
 "duA" = (
 /obj/structure/window/openclose{
@@ -3514,7 +3514,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "lighthouse"
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -3689,7 +3689,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "K14"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "dBu" = (
 /obj/structure/stairs{
@@ -3768,7 +3768,7 @@
 /turf/open/floor/churchrough/purple,
 /area/under/cave)
 "dEz" = (
-/turf/closed/wall/mineral/decorstone{
+/turf/closed/wall/mineral/stone/decorstone{
 	climbdiff = 3
 	},
 /area/indoors/villagegarrison)
@@ -3783,7 +3783,7 @@
 	dir = 6
 	},
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "dEV" = (
 /obj/structure/closet/crate/drawer,
@@ -4043,7 +4043,7 @@
 /turf/open/floor/cobble,
 /area/indoors/town/clocktower)
 "dPH" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/smithy)
 "dPW" = (
 /turf/open/floor/carpet/red,
@@ -4134,7 +4134,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 6
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -4288,7 +4288,7 @@
 /area/under/cavewet)
 "edj" = (
 /obj/structure/fake_machine/scomm,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/villagegarrison)
 "edI" = (
 /obj/structure/bed/wool,
@@ -4391,7 +4391,7 @@
 /obj/structure/fluff/walldeco/bsmith{
 	pixel_x = 26
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -4430,7 +4430,7 @@
 /area/under/town/basement)
 "elb" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -4588,7 +4588,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "K4"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "esD" = (
 /obj/structure/table/wood/counter{
@@ -4807,7 +4807,7 @@
 /turf/open/floor/church,
 /area/under/cavewet)
 "eCh" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town/tavern)
 "eCN" = (
 /obj/structure/chair/wood/alt{
@@ -5062,7 +5062,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "K6"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "eRg" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -5107,7 +5107,7 @@
 /area/under/cave)
 "eTf" = (
 /obj/structure/fluff/walldeco/med5,
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/clinic_large)
 "eTt" = (
 /obj/structure/bed/inn,
@@ -5183,7 +5183,7 @@
 	name = "Garrison"
 	},
 /obj/structure/fluff/walldeco/customflag,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/garrison)
 "eWK" = (
 /obj/machinery/light/fueled/wallfire/candle,
@@ -5349,7 +5349,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 4
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manorgate)
 "fdg" = (
 /obj/structure/fluff/railing/border{
@@ -5406,7 +5406,7 @@
 /turf/open/water/swamp,
 /area/under/cave)
 "fjA" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/merc_guild)
 "fjB" = (
 /obj/machinery/light/fueled/wallfire/candle,
@@ -5477,7 +5477,7 @@
 /area/outdoors/rtfield/safe)
 "fmr" = (
 /obj/structure/fluff/walldeco/med2,
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/clinic_large)
 "fmA" = (
 /obj/structure/fermentation_keg/water,
@@ -5512,7 +5512,7 @@
 /turf/open/floor/dirt/road,
 /area/indoors/lich)
 "fon" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/outdoors/rtfield)
 "foL" = (
 /obj/structure/window/openclose{
@@ -5585,7 +5585,7 @@
 /turf/open/floor/church/purple,
 /area/indoors/town/church)
 "ftA" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/orphanage)
 "ftF" = (
 /obj/item/candle/yellow/lit/infinite/strong/skull,
@@ -5611,7 +5611,7 @@
 /turf/open/floor/hexstone,
 /area/indoors/town/smithy)
 "fuV" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town/clocktower)
 "fuY" = (
 /obj/structure/chair/wood/alt/chair3{
@@ -5625,7 +5625,7 @@
 /area/indoors/town/manorgate)
 "fvk" = (
 /obj/structure/fluff/walldeco/customflag,
-/turf/closed/wall/mineral/decorstone{
+/turf/closed/wall/mineral/stone/decorstone{
 	climbdiff = 3
 	},
 /area/indoors/town/garrison)
@@ -5733,7 +5733,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 9
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -5783,7 +5783,7 @@
 /turf/open/floor/tile/checker,
 /area/indoors/town/manor)
 "fES" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/dwarfin)
 "fFC" = (
 /obj/structure/table/wood/crafted,
@@ -5818,7 +5818,7 @@
 /turf/open/floor/tile/kitchen,
 /area/indoors/lich)
 "fHb" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -5887,7 +5887,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 8
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "fJF" = (
 /obj/machinery/light/fueledstreet/blue/wall{
@@ -5968,7 +5968,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "INQUIS"
 	},
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/cavewet)
 "fMR" = (
 /turf/open/floor/carpet/royalblack,
@@ -5978,7 +5978,7 @@
 /turf/open/floor/tile/diamond/blue,
 /area/indoors/town/manor)
 "fNh" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "fNF" = (
 /obj/structure/table/wood/reinf_long{
@@ -6024,7 +6024,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Keeps guard and squires"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "fPY" = (
 /obj/structure/fluff/railing/wood,
@@ -6041,7 +6041,7 @@
 /turf/open/floor/cobble,
 /area/under/tomb/indoors/church)
 "fQr" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -6123,7 +6123,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 5
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -6142,7 +6142,7 @@
 /turf/open/floor/ruinedwood/spiralfade,
 /area/indoors/town/steward)
 "fWq" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/clocktower)
 "fWt" = (
 /obj/structure/rack/shelf/biggest,
@@ -6397,7 +6397,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "K11"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "gkx" = (
 /turf/open/floor/tile/diamond/blue,
@@ -6477,7 +6477,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "K16"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "goU" = (
 /obj/machinery/light/fueled/torchholder/metal_torch/east,
@@ -7179,7 +7179,7 @@
 /area/indoors/lich)
 "gOi" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -7327,7 +7327,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "K15"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "gUg" = (
 /obj/machinery/essence/reservoir{
@@ -7363,7 +7363,7 @@
 /turf/open/floor/twig,
 /area/under/cave)
 "gVI" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/clinic_large)
 "gVS" = (
 /obj/structure/flora/hotspring_rocks,
@@ -7423,7 +7423,7 @@
 /turf/open/floor/ruinedwood/chevron,
 /area/indoors/town/garrison)
 "gYc" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/indoors/villagegarrison)
 "gYs" = (
 /obj/structure/door/fancy{
@@ -7569,7 +7569,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "INQUIS"
 	},
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/cavewet)
 "hcv" = (
 /obj/structure/table/wood/crafted,
@@ -7605,7 +7605,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "INQUIS3"
 	},
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/cavewet)
 "heO" = (
 /obj/structure/hotspring/border/five,
@@ -7787,7 +7787,7 @@
 /turf/open/floor/dirt,
 /area/under/cave)
 "hnN" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/indoors/lich)
 "hnO" = (
 /obj/effect/decal/cleanable/dirt,
@@ -7970,7 +7970,7 @@
 /turf/open/floor/cobblerock,
 /area/indoors/town/clocktower)
 "huX" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/villagegarrison)
 "huY" = (
 /obj/effect/falling_leaves,
@@ -8013,7 +8013,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 9
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/magician)
 "hwB" = (
 /obj/machinery/light/fueled/wallfire/candle/l,
@@ -8081,7 +8081,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 10
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/cave)
 "hyX" = (
 /obj/structure/fake_machine/scomm/r,
@@ -8139,7 +8139,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "K9"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "hBv" = (
 /obj/structure/fluff/railing/border{
@@ -8153,7 +8153,7 @@
 /turf/open/floor/churchrough/purple,
 /area/indoors/town/church/chapel)
 "hBz" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/outdoors/town/roofs)
 "hBO" = (
 /obj/structure/rack,
@@ -8236,7 +8236,7 @@
 /obj/machinery/light/fueled/wallfire/candle/blue{
 	pixel_y = -32
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/cave)
 "hFo" = (
 /obj/machinery/light/fueled/wallfire/candle/l{
@@ -8295,7 +8295,7 @@
 /area/indoors/town/church)
 "hIB" = (
 /obj/structure/fluff/walldeco/med4,
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/clinic_large)
 "hIC" = (
 /obj/machinery/light/fueled/wallfire/candle/skull/r,
@@ -8361,7 +8361,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "INQUIS3"
 	},
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/cavewet)
 "hMG" = (
 /obj/structure/fluff/railing/border{
@@ -8375,16 +8375,16 @@
 /area/indoors/town)
 "hMI" = (
 /obj/structure/fluff/walldeco/med4,
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/under/cave)
 "hMP" = (
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "K1"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "hMX" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town/bath)
 "hNe" = (
 /obj/effect/decal/cleanable/dirt,
@@ -8460,7 +8460,7 @@
 /turf/open/floor/tile/diamond,
 /area/indoors/town/clocktower)
 "hPW" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/outdoors/rtfield/safe)
 "hQg" = (
 /obj/effect/landmark/events/haunts,
@@ -8692,7 +8692,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 8
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/cave)
 "ifv" = (
 /obj/effect/decal/cobbleedge{
@@ -8738,7 +8738,7 @@
 /area/under/cave)
 "ihC" = (
 /obj/structure/fluff/walldeco/customflag,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/villagegarrison)
 "ihM" = (
 /obj/structure/chair/wood/alt/chair_noble/purple{
@@ -8816,7 +8816,7 @@
 /turf/open/floor/ruinedwood/chevron,
 /area/indoors/town)
 "ikD" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/vault)
 "ikH" = (
 /obj/structure/stairs/stone{
@@ -8885,7 +8885,7 @@
 /obj/machinery/light/fueled/wallfire/candle/blue{
 	pixel_y = -32
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "inp" = (
 /obj/structure/door/violet{
@@ -8900,7 +8900,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/indoors/soilsons)
 "ioG" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -8970,7 +8970,7 @@
 /turf/open/floor/blocks,
 /area/indoors/town/clinic_large)
 "irt" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -9020,7 +9020,7 @@
 /turf/open/floor/snow/patchy,
 /area/outdoors/rtfield/safe)
 "ivr" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -9032,7 +9032,7 @@
 /turf/open/floor/cobblerock,
 /area/indoors/town/church)
 "ivK" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/villagegarrison)
 "ivR" = (
 /turf/open/floor/metal/alt,
@@ -9053,7 +9053,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 6
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -9173,7 +9173,7 @@
 /area/outdoors/rtfield)
 "iEw" = (
 /obj/structure/fluff/walldeco/med3,
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/under/cave)
 "iEy" = (
 /obj/machinery/light/fueled/wallfire/big_fireplace{
@@ -9326,7 +9326,7 @@
 /obj/structure/fake_machine/atm{
 	pixel_y = 0
 	},
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/tavern)
 "iMw" = (
 /obj/structure/fake_machine/scomm,
@@ -9567,7 +9567,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 10
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -9652,7 +9652,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 10
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -9701,7 +9701,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "K5"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "jgp" = (
 /obj/structure/bars,
@@ -9757,7 +9757,7 @@
 /turf/open/floor/cobble/alt,
 /area/under/cave)
 "jiS" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/outdoors/town/roofs)
 "jjr" = (
 /obj/structure/closet/dirthole/closed,
@@ -9816,7 +9816,7 @@
 /turf/open/floor/ruinedwood/chevron,
 /area/indoors/town/manor)
 "jmN" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town/orphanage)
 "jmS" = (
 /obj/structure/closet/crate/drawer,
@@ -10101,10 +10101,10 @@
 /obj/structure/lever/hidden{
 	redstone_id = "INQUIS1"
 	},
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/cavewet)
 "jAq" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -10941,7 +10941,7 @@
 /turf/open/floor/ruinedwood/darker,
 /area/indoors/town/garrison)
 "ktQ" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/outdoors/rtfield)
 "kuf" = (
 /obj/structure/window/openclose,
@@ -10994,7 +10994,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "K15"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "kwv" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -11132,7 +11132,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Merc Guild"
 	},
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/merc_guild)
 "kBm" = (
 /obj/structure/table/wood/crafted,
@@ -11153,7 +11153,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 6
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -11285,7 +11285,7 @@
 /area/outdoors/rtfield/safe)
 "kHz" = (
 /obj/structure/fluff/walldeco/med6,
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/under/cave)
 "kHF" = (
 /obj/structure/fluff/railing/wood{
@@ -11305,7 +11305,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Captains Quarters"
 	},
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/garrison)
 "kHW" = (
 /obj/structure/fluff/railing/border{
@@ -11348,7 +11348,7 @@
 	density = 0;
 	pixel_y = 2
 	},
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/tavern)
 "kJy" = (
 /obj/structure/chair/wood/alt{
@@ -11464,7 +11464,7 @@
 	pixel_x = -28;
 	pixel_y = -23
 	},
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/orphanage)
 "kOA" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -11508,7 +11508,7 @@
 /turf/open/floor/concrete,
 /area/indoors/town/shop)
 "kPM" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/smithy)
 "kQk" = (
 /obj/structure/hotspring/border/fourteen,
@@ -11651,7 +11651,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/under/town/basement)
 "kUY" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town/shop)
 "kVA" = (
 /obj/effect/decal/carpet,
@@ -11816,7 +11816,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/indoors/soilsons)
 "lbS" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/orphanage)
 "lcs" = (
 /obj/structure/fluff/railing/border{
@@ -12062,7 +12062,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Dining Hall"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "llX" = (
 /turf/open/floor/ruinedwood,
@@ -12126,7 +12126,7 @@
 /area/indoors/town/manor)
 "loo" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -12209,7 +12209,7 @@
 /turf/open/floor/grass/cold,
 /area/outdoors/exposed/church)
 "lqD" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -12258,7 +12258,7 @@
 	name = "White Palace Pass flag"
 	},
 /obj/effect/decal/cleanable/dirt/dust,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -12297,7 +12297,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 5
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -12345,7 +12345,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 6
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -12366,7 +12366,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "INQUIS2"
 	},
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/cavewet)
 "lBE" = (
 /obj/item/clothing/face/cigarette,
@@ -12420,7 +12420,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Throne Room"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "lDg" = (
 /turf/closed/mineral,
@@ -12480,7 +12480,7 @@
 /turf/open/floor/ruinedwood/darker,
 /area/indoors/town/orphanage)
 "lEY" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -12521,7 +12521,7 @@
 /area/under/cave)
 "lJo" = (
 /obj/structure/fluff/walldeco/customflag,
-/turf/closed/wall/mineral/decorstone{
+/turf/closed/wall/mineral/stone/decorstone{
 	climbdiff = 3
 	},
 /area/indoors/villagegarrison)
@@ -12530,7 +12530,7 @@
 /turf/open/floor/churchrough,
 /area/indoors/town/church)
 "lJS" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/soilsons)
 "lJY" = (
 /obj/structure/fluff/railing/border{
@@ -12575,7 +12575,7 @@
 /turf/open/floor/dirt,
 /area/under/cave)
 "lLB" = (
-/turf/closed/wall/mineral/wooddark/window,
+/turf/closed/wall/mineral/wood/wooddark/window,
 /area/indoors/town/garrison)
 "lLH" = (
 /obj/structure/hotspring/border/four,
@@ -12610,7 +12610,7 @@
 /turf/open/floor/cobblerock,
 /area/under/tomb/indoors/church)
 "lOE" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -12678,7 +12678,7 @@
 /turf/open/floor/grass/cold,
 /area/indoors/lich)
 "lTB" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/tavern)
 "lTF" = (
 /obj/structure/dock_bell,
@@ -12776,7 +12776,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "INQUIS1"
 	},
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/cavewet)
 "lXE" = (
 /obj/effect/falling_leaves,
@@ -12816,7 +12816,7 @@
 /turf/open/floor/carpet/purple,
 /area/indoors/town)
 "mbj" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/magician)
 "mbw" = (
 /obj/structure/bars/cemetery,
@@ -12887,7 +12887,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 6
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -12902,7 +12902,7 @@
 /turf/open/transparent/openspace,
 /area/outdoors/river)
 "mdJ" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/villagegarrison)
 "meg" = (
 /obj/structure/table/wood/reinforced,
@@ -12973,7 +12973,7 @@
 /area/indoors/town/orphanage)
 "miQ" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -12990,7 +12990,7 @@
 /turf/open/floor/ruinedwood/chevron,
 /area/indoors/town/manor)
 "mjA" = (
-/turf/closed/wall/mineral/wooddark/window,
+/turf/closed/wall/mineral/wood/wooddark/window,
 /area/indoors/villagegarrison)
 "mjB" = (
 /obj/structure/door/fancy{
@@ -13078,7 +13078,7 @@
 /turf/open/floor/ruinedwood/darker,
 /area/indoors/town/garrison)
 "mos" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/town/basement)
 "mow" = (
 /obj/structure/chair/bench/couchablack/r,
@@ -13087,7 +13087,7 @@
 /turf/open/floor/carpet/red,
 /area/indoors/town/smithy)
 "moK" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/steward)
 "moR" = (
 /obj/structure/hotspring,
@@ -13126,7 +13126,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 4
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "msC" = (
 /obj/machinery/light/fueled/wallfire/candle/blue/l,
@@ -13306,7 +13306,7 @@
 /area/indoors/town/church/chapel)
 "mFF" = (
 /obj/structure/fluff/walldeco/painting/crown,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -13353,7 +13353,7 @@
 /turf/open/floor/ruinedwood/spiralfade,
 /area/indoors/town/manor)
 "mHD" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -13451,7 +13451,7 @@
 /turf/open/floor/church,
 /area/indoors/town/church)
 "mJW" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/tomb/indoors/church)
 "mJZ" = (
 /obj/structure/door/stone{
@@ -13479,7 +13479,7 @@
 /turf/open/floor/dirt,
 /area/outdoors/rtfield)
 "mLv" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/shop)
 "mLS" = (
 /obj/structure/fluff/railing/border{
@@ -13623,10 +13623,10 @@
 /obj/structure/fake_machine/scomm{
 	pixel_y = 0
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/steward)
 "mSq" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town/smithy)
 "mSM" = (
 /obj/structure/hotspring/border/twelve,
@@ -13651,7 +13651,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 5
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/magician)
 "mUa" = (
 /obj/machinery/light/fueledstreet/blue{
@@ -13689,7 +13689,7 @@
 /area/indoors/town/magician)
 "mVQ" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -13747,7 +13747,7 @@
 /turf/open/floor/cobblerock,
 /area/under/cave)
 "mYY" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/clinic_large)
 "mZo" = (
 /obj/machinery/light/fueled/wallfire/candle,
@@ -13762,7 +13762,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 5
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -14037,7 +14037,7 @@
 /obj/structure/fake_machine/scomm{
 	pixel_y = 0
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -14068,7 +14068,7 @@
 /turf/open/floor/ruinedwood,
 /area/indoors/town/church)
 "nji" = (
-/turf/closed/wall/mineral/decorstone/moss/red,
+/turf/closed/wall/mineral/stone/decorstone/moss/red,
 /area/under/cavelava)
 "njz" = (
 /obj/structure/bed/wool,
@@ -14130,7 +14130,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 6
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -14164,7 +14164,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Royal Knights"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "noa" = (
 /obj/structure/fake_machine/hailerboard/l,
@@ -14333,7 +14333,7 @@
 /area/outdoors/rtfield/safe)
 "nvE" = (
 /obj/structure/fluff/walldeco/med6,
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/clinic_large)
 "nvI" = (
 /obj/structure/chair/wood/alt/chair_noble/purple{
@@ -14665,7 +14665,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "INQUIS2"
 	},
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/cavewet)
 "nNj" = (
 /obj/machinery/light/fueled/wallfire/candle,
@@ -14867,7 +14867,7 @@
 /turf/open/floor/cobble,
 /area/indoors/town/church/inquisition)
 "nWg" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/merc_guild)
 "nWz" = (
 /obj/structure/chair/stool,
@@ -15056,7 +15056,7 @@
 /obj/machinery/light/fueled/wallfire/candle/blue{
 	pixel_y = -32
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "ofl" = (
 /obj/structure/fluff/railing/border,
@@ -15185,19 +15185,19 @@
 /area/indoors/town/clocktower)
 "oiZ" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
 /area/indoors/town/dwarfin)
 "ojf" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/merc_guild)
 "ojA" = (
 /obj/structure/lever/hidden{
 	redstone_id = "WPPK1"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/cave)
 "oke" = (
 /obj/structure/vertical_gearbox,
@@ -15257,7 +15257,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 6
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -15300,7 +15300,7 @@
 /area/indoors/town/church)
 "opk" = (
 /obj/structure/fake_machine/vendor/soilson,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -15384,13 +15384,13 @@
 /obj/structure/lever/hidden{
 	redstone_id = "INQ2"
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
 /area/indoors/town/church)
 "ota" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/manor)
 "otj" = (
 /obj/machinery/light/fueled/wallfire/candle/l,
@@ -15406,7 +15406,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 6
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/cave)
 "otK" = (
 /turf/open/floor/cobblerock,
@@ -15439,7 +15439,7 @@
 	redstone_id = "K2"
 	},
 /obj/machinery/light/fueled/wallfire/candle/blue/l,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "ovq" = (
 /obj/structure/stairs/stone{
@@ -15558,7 +15558,7 @@
 /turf/open/floor/ruinedwood/chevron,
 /area/indoors/town)
 "oyO" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town/merc_guild)
 "ozy" = (
 /obj/machinery/light/fueled/wallfire/candle/l,
@@ -15651,7 +15651,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 9
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/cave)
 "oFT" = (
 /obj/structure/spider/stickyweb{
@@ -15803,7 +15803,7 @@
 /turf/open/floor/ruinedwood/turned,
 /area/indoors/town)
 "oMM" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/bath)
 "oMN" = (
 /obj/item/candle/yellow/lit/infinite/strong{
@@ -15881,7 +15881,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/indoors/town/magician)
 "oPQ" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/magician)
 "oQG" = (
 /obj/structure/fluff/railing/border{
@@ -15904,7 +15904,7 @@
 /area/under/town/basement)
 "oRM" = (
 /obj/structure/fake_machine/vendor/steward,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/steward)
 "oTo" = (
 /obj/structure/fluff/railing/border{
@@ -15922,7 +15922,7 @@
 /obj/structure/fluff/walldeco/customflag{
 	name = "White Palace Pass flag"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/steward)
 "oUD" = (
 /obj/item/bin/water/gross,
@@ -16078,7 +16078,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Smithy"
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -16223,7 +16223,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 6
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/steward)
 "phR" = (
 /obj/structure/flora/newtree/snow,
@@ -16254,7 +16254,7 @@
 /turf/open/floor/dirt,
 /area/outdoors/rtfield/safe)
 "piL" = (
-/turf/closed/wall/mineral/decostone/cand/reddish,
+/turf/closed/wall/mineral/stone/decostone/cand/reddish,
 /area/indoors/town/church)
 "piZ" = (
 /turf/open/floor/cobble,
@@ -16271,7 +16271,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 4
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -16289,7 +16289,7 @@
 /turf/open/floor/cobblerock,
 /area/indoors/town/church)
 "plc" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/tavern)
 "plr" = (
 /obj/structure/closet/crate/drawer,
@@ -16305,7 +16305,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 9
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -16577,7 +16577,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 1
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -16612,7 +16612,7 @@
 /turf/open/floor/cobble,
 /area/indoors/town/clocktower)
 "pzw" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/garrison)
 "pzP" = (
 /obj/effect/landmark/hammer/dev_text{
@@ -16840,7 +16840,7 @@
 /area/indoors/town/orphanage)
 "pKg" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -16857,7 +16857,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 6
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -17133,7 +17133,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 10
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -17144,7 +17144,7 @@
 /turf/open/floor/tile,
 /area/indoors/town)
 "pXj" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town)
 "pXn" = (
 /obj/structure/mirror,
@@ -17252,7 +17252,7 @@
 /turf/open/floor/ruinedwood/turned,
 /area/outdoors/rtfield/safe)
 "qbL" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/cave)
 "qbX" = (
 /turf/closed/mineral,
@@ -17434,7 +17434,7 @@
 /area/indoors/town/manor)
 "qjq" = (
 /obj/structure/fake_machine/vendor/blacksmith,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -17458,7 +17458,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "INQ1"
 	},
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/cave)
 "qlO" = (
 /obj/structure/table/wood/crafted,
@@ -17533,7 +17533,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Library and Printing Press"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/town/basement)
 "qqj" = (
 /obj/structure/stairs/stone,
@@ -17544,7 +17544,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 10
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -17612,7 +17612,7 @@
 /area/indoors/town/clocktower)
 "qvC" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -17700,7 +17700,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 10
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/magician)
 "qyI" = (
 /obj/structure/fluff/walldeco/vinez/blue{
@@ -17733,7 +17733,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "K8"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "qzX" = (
 /turf/open/floor/grass/cold,
@@ -17995,7 +17995,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Servants room"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/tomb/indoors/church)
 "qMe" = (
 /obj/structure/chair/wood/alt/chair_noble/purple{
@@ -18038,7 +18038,7 @@
 /area/indoors/town/dwarfin)
 "qNM" = (
 /obj/structure/fake_machine/scomm,
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/soilsons)
 "qNO" = (
 /obj/structure/boiler,
@@ -18179,7 +18179,7 @@
 /obj/machinery/light/fueled/torchholder{
 	pixel_y = 28
 	},
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/indoors/lich)
 "qWy" = (
 /obj/item/dice/d6,
@@ -18335,7 +18335,7 @@
 	redstone_id = "K6"
 	},
 /obj/machinery/light/fueled/wallfire/candle/blue/l,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "rbi" = (
 /obj/item/ore/iron{
@@ -18460,7 +18460,7 @@
 /turf/open/floor/tile/diamond,
 /area/indoors/town/clocktower)
 "rhY" = (
-/turf/closed/wall/mineral/wooddark/window,
+/turf/closed/wall/mineral/wood/wooddark/window,
 /area/indoors/town/shop)
 "rie" = (
 /obj/structure/door,
@@ -18505,7 +18505,7 @@
 /area/indoors/town/orphanage)
 "rjp" = (
 /obj/structure/fluff/walldeco/painting/castle,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -18514,10 +18514,10 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Tailor"
 	},
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town)
 "rjK" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -18660,7 +18660,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Butler Room"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/tomb/indoors/church)
 "rpl" = (
 /obj/item/storage/crucible/random,
@@ -18855,7 +18855,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "K1"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "rAR" = (
 /obj/structure/flora/newtree,
@@ -18947,7 +18947,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 9
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -19075,7 +19075,7 @@
 /turf/open/floor/tile/kitchen,
 /area/indoors/lich)
 "rLd" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/soilsons)
 "rMm" = (
 /obj/effect/falling_leaves,
@@ -19092,7 +19092,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "O1"
 	},
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/orphanage)
 "rNV" = (
 /obj/machinery/light/fueled/wallfire/candle/r,
@@ -19128,7 +19128,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Artificers and Miners"
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -19162,13 +19162,13 @@
 	redstone_id = "K5"
 	},
 /obj/machinery/light/fueled/wallfire/candle/blue,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "rRx" = (
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 9
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -19261,7 +19261,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 9
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -19423,7 +19423,7 @@
 /turf/open/floor/naturalstone,
 /area/outdoors/river)
 "scL" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/soilsons)
 "scM" = (
 /obj/structure/fluff/railing/border{
@@ -19573,7 +19573,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "INQ1"
 	},
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/cave)
 "skm" = (
 /obj/item/paint_palette/filled,
@@ -19622,7 +19622,7 @@
 /turf/open/floor/carpet/royalblack,
 /area/indoors/town/steward)
 "snz" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town/garrison)
 "snS" = (
 /obj/structure/door/stone{
@@ -19719,7 +19719,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 6
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -19751,7 +19751,7 @@
 /area/indoors/town)
 "svp" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -19796,7 +19796,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 10
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -19835,13 +19835,13 @@
 /turf/open/floor/snow,
 /area/outdoors/rtfield/safe)
 "swW" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/garrison)
 "swZ" = (
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 10
 	},
-/turf/closed/wall/mineral/decostone/cand/reddish,
+/turf/closed/wall/mineral/stone/decostone/cand/reddish,
 /area/indoors/town/church)
 "sxi" = (
 /turf/open/floor/carpet/royalblack,
@@ -19948,7 +19948,7 @@
 /turf/open/floor/grass/yel,
 /area/indoors/lich)
 "szX" = (
-/turf/closed/wall/mineral/decorstone{
+/turf/closed/wall/mineral/stone/decorstone{
 	climbdiff = 3
 	},
 /area/indoors/town/garrison)
@@ -20072,7 +20072,7 @@
 /turf/open/floor/snow/patchy,
 /area/outdoors/rtfield/safe)
 "sHb" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/town/dwarfin)
 "sHo" = (
 /obj/structure/waterwheel,
@@ -20100,7 +20100,7 @@
 /area/indoors/villagegarrison)
 "sKf" = (
 /obj/structure/fluff/walldeco/painting,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -20168,7 +20168,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/indoors/town/tavern)
 "sQx" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/bath)
 "sQL" = (
 /turf/open/floor/ruinedwood/spiral,
@@ -20186,7 +20186,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 4
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/steward)
 "sRF" = (
 /obj/structure/fluff/railing/border{
@@ -20240,11 +20240,11 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "K14"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "sWu" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "sWA" = (
 /obj/structure/fluff/railing/border{
@@ -20254,7 +20254,7 @@
 /area/indoors/town/clocktower)
 "sWZ" = (
 /obj/structure/fluff/walldeco/bath/wallrope,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -20289,7 +20289,7 @@
 /area/indoors/town)
 "sYs" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/magician)
 "sYy" = (
 /obj/machinery/light/fueled/wallfire/candle/r,
@@ -20325,7 +20325,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Clinic"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/town/basement)
 "tbC" = (
 /obj/structure/bed/inn,
@@ -20345,7 +20345,7 @@
 /obj/machinery/light/fueled/wallfire/candle/blue{
 	pixel_y = -32
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "tcL" = (
 /obj/structure/window/solid,
@@ -20542,7 +20542,7 @@
 /turf/open/floor/carpet/red,
 /area/indoors/town)
 "tiH" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -20596,7 +20596,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "K12"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "tlA" = (
 /obj/structure/spider/stickyweb{
@@ -20723,7 +20723,7 @@
 /area/indoors/lich)
 "trd" = (
 /obj/structure/fluff/walldeco/customflag,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/garrison)
 "trh" = (
 /turf/open/floor/ruinedwood/turned,
@@ -20732,7 +20732,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 9
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "trK" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -20983,7 +20983,7 @@
 /turf/open/floor/carpet/red,
 /area/indoors/town/orphanage)
 "tCJ" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -21007,7 +21007,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 5
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -21046,7 +21046,7 @@
 /obj/structure/fluff/walldeco/customflag{
 	name = "White Palace Pass flag"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/cave)
 "tGj" = (
 /obj/structure/fermentation_keg/random/beer{
@@ -21088,7 +21088,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 9
 	},
-/turf/closed/wall/mineral/decostone/cand/reddish,
+/turf/closed/wall/mineral/stone/decostone/cand/reddish,
 /area/indoors/town/church)
 "tII" = (
 /obj/structure/closet/crate/chest/wicker,
@@ -21115,7 +21115,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 5
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -21133,7 +21133,7 @@
 /area/indoors/town/merc_guild)
 "tLh" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/cave)
 "tLA" = (
 /obj/machinery/light/fueled/wallfire/candle/blue,
@@ -21144,13 +21144,13 @@
 /turf/open/floor/grass/cold,
 /area/outdoors/rtfield/safe)
 "tMD" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
 /area/indoors/town/church/chapel)
 "tNf" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town)
 "tNl" = (
 /obj/structure/fake_machine/scomm/r,
@@ -21296,7 +21296,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "Secret1"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/town/basement)
 "tRz" = (
 /obj/structure/fluff/stonecoffin,
@@ -21336,7 +21336,7 @@
 /turf/open/floor/carpet/lord/center,
 /area/under/tomb/indoors/church)
 "tUA" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/clocktower)
 "tVg" = (
 /obj/structure/chair/bench/church/mid{
@@ -21508,7 +21508,7 @@
 /turf/open/floor/carpet/purple,
 /area/indoors/town)
 "ucR" = (
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/indoors/lich)
 "udV" = (
 /obj/machinery/light/fueled/wallfire/candle/l,
@@ -21550,7 +21550,7 @@
 /obj/structure/fluff/walldeco/customflag{
 	name = "White Palace Pass flag"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/town/basement)
 "uha" = (
 /obj/machinery/light/fueled/wallfire/candle/blue{
@@ -21609,7 +21609,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 10
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -21653,7 +21653,7 @@
 /area/indoors/town/church/chapel)
 "ulC" = (
 /obj/machinery/light/fueled/torchholder/metal_torch,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/garrison)
 "ulL" = (
 /obj/structure/stairs{
@@ -21671,10 +21671,10 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "K2"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "umL" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/bath)
 "unm" = (
 /obj/structure/rotation_piece/cog/large,
@@ -21762,7 +21762,7 @@
 /obj/machinery/light/fueled/wallfire/candle/blue{
 	pixel_y = -32
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "uqu" = (
 /obj/structure/chair/wood/alt{
@@ -21781,7 +21781,7 @@
 /turf/open/floor/carpet/red,
 /area/indoors/town/magician)
 "uqE" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -21912,7 +21912,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Kitchen"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "uzy" = (
 /obj/structure/chair/stool,
@@ -22059,7 +22059,7 @@
 /turf/open/floor/cobblerock/alt,
 /area/outdoors/rtfield/safe)
 "uId" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/magician)
 "uIk" = (
 /obj/structure/table/wood/plain,
@@ -22188,7 +22188,7 @@
 /area/indoors/town/vault)
 "uMP" = (
 /obj/structure/fake_machine/vendor/butcher,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -22401,7 +22401,7 @@
 /area/indoors/town/manor)
 "uYY" = (
 /obj/structure/fluff/walldeco/bath/wallrope,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/town/basement)
 "uZf" = (
 /obj/structure/bed/shit,
@@ -22526,7 +22526,7 @@
 /turf/open/floor/churchrough/purple,
 /area/indoors/town/church/chapel)
 "veW" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town)
 "vfa" = (
 /obj/machinery/light/fueled/wallfire/candle/l,
@@ -22616,7 +22616,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "town Elder"
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -22645,7 +22645,7 @@
 /area/indoors/town/church)
 "vmO" = (
 /obj/structure/fluff/walldeco/vinez/red,
-/turf/closed/wall/mineral/decorstone/moss/red,
+/turf/closed/wall/mineral/stone/decorstone/moss/red,
 /area/under/cavelava)
 "vnb" = (
 /turf/open/floor/tile/masonic/spiral,
@@ -22799,7 +22799,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "K16"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "vut" = (
 /obj/structure/door/fancy{
@@ -22845,7 +22845,7 @@
 	redstone_id = "K3"
 	},
 /obj/machinery/light/fueled/wallfire/candle/blue/r,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "vwS" = (
 /obj/structure/fake_machine/scomm,
@@ -22888,7 +22888,7 @@
 /turf/open/floor/ruinedwood/darker,
 /area/indoors/town)
 "vxM" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/indoors/town/garrison)
 "vxU" = (
 /turf/open/floor/cobble,
@@ -22907,7 +22907,7 @@
 /area/under/town/basement)
 "vyR" = (
 /obj/structure/fluff/walldeco/med,
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/clinic_large)
 "vza" = (
 /obj/structure/stairs/stone/church{
@@ -22957,17 +22957,17 @@
 /area/indoors/town/manorgate)
 "vAo" = (
 /obj/structure/fluff/walldeco/painting/queen,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
 /area/under/tomb/indoors/church)
 "vAC" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/decostone/cand/reddish,
+/turf/closed/wall/mineral/stone/decostone/cand/reddish,
 /area/indoors/town/church)
 "vAY" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/orphanage)
 "vBl" = (
 /obj/structure/door/red{
@@ -22981,7 +22981,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Magick SHit"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/magician)
 "vCJ" = (
 /obj/structure/fluff/railing/border{
@@ -23113,7 +23113,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 5
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -23172,7 +23172,7 @@
 /area/indoors/town/bath)
 "vJy" = (
 /obj/structure/fluff/walldeco/customflag,
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/garrison)
 "vJC" = (
 /turf/open/water/cleanshallow,
@@ -23218,7 +23218,7 @@
 /turf/open/floor/ruinedwood,
 /area/indoors/town)
 "vKI" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -23261,7 +23261,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 1
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/cave)
 "vLA" = (
 /obj/structure/flora/ausbushes/reedbush,
@@ -23302,7 +23302,7 @@
 /obj/structure/fluff/walldeco/sign/merchantsign{
 	pixel_y = -1
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -23318,7 +23318,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Church"
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -23396,7 +23396,7 @@
 	redstone_id = "K4"
 	},
 /obj/machinery/light/fueled/wallfire/candle/blue,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "vQQ" = (
 /obj/effect/decal/carpet{
@@ -23562,7 +23562,7 @@
 /area/under/tomb/indoors/church)
 "vYQ" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -23587,7 +23587,7 @@
 /turf/open/floor/ruinedwood,
 /area/indoors/town/orphanage)
 "vZA" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/shop)
 "vZP" = (
 /turf/open/floor/cobblerock,
@@ -23620,7 +23620,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 6
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -23654,7 +23654,7 @@
 /area/under/tomb/indoors/church)
 "wcw" = (
 /obj/structure/fake_machine/vendor/apothecary,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/bath)
 "wcx" = (
 /obj/structure/chair/wood/alt/chair3{
@@ -23669,7 +23669,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 9
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -23875,7 +23875,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "K7"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "wlI" = (
 /obj/machinery/light/fueled/chand,
@@ -23888,7 +23888,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 5
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "wmH" = (
 /obj/structure/fluff/railing/border{
@@ -23906,7 +23906,7 @@
 /turf/open/floor/carpet/purple,
 /area/indoors/town/orphanage)
 "wnj" = (
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/under/cave)
 "won" = (
 /obj/structure/fake_machine/scomm,
@@ -23936,7 +23936,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "K9"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "wqs" = (
 /obj/structure/table/wood/counter{
@@ -23957,7 +23957,7 @@
 /obj/effect/mapping_helpers/secret_door_creator/keep{
 	redstone_id = "Secret1"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/town/basement)
 "wrz" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -23971,7 +23971,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 10
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/steward)
 "wsJ" = (
 /obj/machinery/light/fueled/wallfire{
@@ -24195,7 +24195,7 @@
 /turf/open/floor/ruinedwood,
 /area/under/town/basement)
 "wAO" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/tavern)
 "wBr" = (
 /obj/structure/fluff/railing/wood,
@@ -24220,7 +24220,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "O1"
 	},
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/orphanage)
 "wCJ" = (
 /obj/structure/fluff/railing/wood{
@@ -24392,7 +24392,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Merchant"
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -24409,7 +24409,7 @@
 /obj/structure/fluff/walldeco/customflag{
 	name = "White Palace Pass flag"
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -24518,7 +24518,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Clinic"
 	},
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/clinic_large)
 "wRS" = (
 /obj/item/candle/yellow/lit/infinite/strong/skull,
@@ -24559,7 +24559,7 @@
 /turf/open/floor/carpet/red,
 /area/indoors/town/clinic_large)
 "wUJ" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/soilsons)
 "wVb" = (
 /obj/structure/door/fancy{
@@ -24598,7 +24598,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 4
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -24607,7 +24607,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "K3"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "wYg" = (
 /obj/machinery/essence/reservoir{
@@ -25082,7 +25082,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 5
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/cave)
 "xvB" = (
 /obj/structure/bookcase/random,
@@ -25178,7 +25178,7 @@
 /area/indoors/lich)
 "xBa" = (
 /obj/structure/fluff/walldeco/customflag,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -25204,7 +25204,7 @@
 /turf/open/floor/ruinedwood/darker,
 /area/indoors/town/shop)
 "xCs" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/clinic_large)
 "xCD" = (
 /mob/living/simple_animal/hostile/retaliate/shade,
@@ -25229,7 +25229,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 6
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -25262,10 +25262,10 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 10
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manorgate)
 "xEV" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/town/smithy)
 "xFC" = (
 /obj/machinery/light/fueled/wallfire{
@@ -25320,7 +25320,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 6
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/magician)
 "xHa" = (
 /obj/effect/landmark/events/haunts,
@@ -25438,7 +25438,7 @@
 /obj/effect/landmark/hammer/dev_text{
 	name = "Servants Resting Room"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/tomb/indoors/church)
 "xKt" = (
 /obj/machinery/light/fueled/wallfire/candle,
@@ -25452,7 +25452,7 @@
 /obj/structure/fluff/walldeco/customflag{
 	name = "White Palace Pass flag"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "xLF" = (
 /obj/machinery/light/fueledstreet/blue/wall{
@@ -25518,7 +25518,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/indoors/town/tavern)
 "xOx" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/town/clocktower)
 "xOE" = (
 /obj/machinery/light/fueled/wallfire/candle{
@@ -25547,7 +25547,7 @@
 /area/indoors/town/manor)
 "xPM" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -25598,7 +25598,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "K13"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "xRT" = (
 /obj/structure/rack/shelf/biggest,
@@ -25708,7 +25708,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 6
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "xXi" = (
 /obj/structure/bed/hay,
@@ -25833,7 +25833,7 @@
 /obj/structure/fluff/walldeco/customflag{
 	name = "White Palace Pass flag"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manorgate)
 "ybM" = (
 /obj/structure/door/violet{
@@ -25954,7 +25954,7 @@
 /turf/open/floor/cobble,
 /area/indoors/town/church/inquisition)
 "yez" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},

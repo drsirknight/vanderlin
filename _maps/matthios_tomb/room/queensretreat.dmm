@@ -14,7 +14,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/under/tomb/indoors/royal)
 "aw" = (
-/turf/closed/wall/mineral/roofwall/innercorner{
+/turf/closed/wall/mineral/wood/roofwall/innercorner{
 	dir = 1
 	},
 /area/under/tomb/indoors/royal)
@@ -269,7 +269,7 @@
 /turf/open/floor/cobble/mossy,
 /area/under/tomb/wilds)
 "la" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb/wilds)
 "lb" = (
 /mob/living/carbon/human/species/skeleton/npc/warrior/skilled,
@@ -283,7 +283,7 @@
 /turf/open/floor/dirt,
 /area/under/tomb/wilds)
 "lK" = (
-/turf/closed/wall/mineral/roofwall/outercorner{
+/turf/closed/wall/mineral/wood/roofwall/outercorner{
 	dir = 1
 	},
 /area/under/tomb)
@@ -357,7 +357,7 @@
 /turf/open/floor/tile/bath,
 /area/under/tomb/indoors/royal)
 "oA" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/tomb/indoors/royal)
 "oT" = (
 /obj/structure/flora/grass,
@@ -446,7 +446,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/under/tomb/indoors/royal)
 "tk" = (
-/turf/closed/wall/mineral/roofwall/middle{
+/turf/closed/wall/mineral/wood/roofwall/middle{
 	dir = 8
 	},
 /area/under/tomb)
@@ -465,12 +465,12 @@
 /turf/open/floor/carpet/red,
 /area/under/tomb/indoors/royal)
 "tJ" = (
-/turf/closed/wall/mineral/roofwall/outercorner{
+/turf/closed/wall/mineral/wood/roofwall/outercorner{
 	dir = 4
 	},
 /area/under/tomb)
 "tK" = (
-/turf/closed/wall/mineral/roofwall/center,
+/turf/closed/wall/mineral/wood/roofwall/center,
 /area/under/tomb)
 "un" = (
 /obj/item/reagent_containers/food/snacks/smallrat,
@@ -529,10 +529,10 @@
 /turf/open/floor/carpet/lord/center,
 /area/under/tomb/indoors/royal)
 "wE" = (
-/turf/closed/wall/mineral/roofwall/outercorner,
+/turf/closed/wall/mineral/wood/roofwall/outercorner,
 /area/under/tomb)
 "wJ" = (
-/turf/closed/wall/mineral/roofwall/innercorner{
+/turf/closed/wall/mineral/wood/roofwall/innercorner{
 	dir = 4
 	},
 /area/under/tomb)
@@ -555,7 +555,7 @@
 /turf/open/floor/dirt,
 /area/under/tomb)
 "yi" = (
-/turf/closed/wall/mineral/roofwall/middle,
+/turf/closed/wall/mineral/wood/roofwall/middle,
 /area/under/tomb)
 "ys" = (
 /obj/structure/fluff/railing/wood{
@@ -582,7 +582,7 @@
 /turf/open/floor/hexstone,
 /area/under/tomb/indoors/royal)
 "zz" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/tomb/wilds)
 "zI" = (
 /obj/structure/chair/wood/alt/fancy{
@@ -596,7 +596,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/under/tomb/indoors/royal)
 "Bn" = (
-/turf/closed/wall/mineral/roofwall/middle{
+/turf/closed/wall/mineral/wood/roofwall/middle{
 	dir = 1
 	},
 /area/under/tomb)
@@ -609,7 +609,7 @@
 /turf/open/floor/hexstone,
 /area/under/tomb/indoors/royal)
 "BM" = (
-/turf/closed/wall/mineral/roofwall/middle{
+/turf/closed/wall/mineral/wood/roofwall/middle{
 	dir = 4
 	},
 /area/under/tomb)
@@ -696,7 +696,7 @@
 /turf/open/floor/hexstone,
 /area/under/tomb/indoors/royal)
 "FC" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/tomb/indoors/royal)
 "FX" = (
 /obj/structure/fluff/railing/wood{
@@ -809,7 +809,7 @@
 	},
 /area/under/tomb/indoors/royal)
 "Jm" = (
-/turf/closed/wall/mineral/roofwall/innercorner{
+/turf/closed/wall/mineral/wood/roofwall/innercorner{
 	dir = 8
 	},
 /area/under/tomb)
@@ -1030,7 +1030,7 @@
 /turf/open/floor/dirt,
 /area/under/tomb/wilds)
 "Sa" = (
-/turf/closed/wall/mineral/roofwall/outercorner{
+/turf/closed/wall/mineral/wood/roofwall/outercorner{
 	dir = 8
 	},
 /area/under/tomb)

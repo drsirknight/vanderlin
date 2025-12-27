@@ -166,7 +166,7 @@
 /turf/open/floor/ruinedwood/turned/darker,
 /area/under/tomb/indoors)
 "uJ" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/tomb/indoors)
 "uP" = (
 /turf/open/transparent/openspace,
@@ -324,7 +324,7 @@
 /area/under/tomb/indoors)
 "NL" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/tomb/indoors)
 "NS" = (
 /obj/effect/dungeon_directional_helper/north,
@@ -413,7 +413,7 @@
 /turf/open/floor/ruinedwood/turned/darker,
 /area/under/tomb/indoors)
 "UM" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/tomb/indoors)
 "Wu" = (
 /turf/open/floor/cobblerock,

@@ -66,7 +66,7 @@
 /turf/open/floor/naturalstone,
 /area/under/mountains/anvil/lower/building)
 "bm" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/outdoors/mountains/anvil/snowyforest)
 "bn" = (
 /obj/structure/chair/bench/throne{
@@ -88,7 +88,7 @@
 /area/under/mountains/anvil/lower)
 "bO" = (
 /obj/effect/decal/cleanable/blood,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/lower/building)
 "bQ" = (
 /obj/structure/fluff/railing/stonehedge,
@@ -256,7 +256,7 @@
 /turf/open/floor/cobble,
 /area/under/mountains/anvil/lower)
 "eC" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/outdoors/mountains/anvil/snowyforest)
 "eE" = (
 /obj/machinery/light/fueled/wallfire/candle{
@@ -444,12 +444,12 @@
 /area/under/mountains/anvil/lower/building)
 "gT" = (
 /obj/machinery/light/fueled/torchholder,
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1
 	},
 /area/under/mountains/anvil/lower/building)
 "hc" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 1
 	},
 /area/outdoors/mountains/anvil/snowyforest)
@@ -544,7 +544,7 @@
 /area/outdoors/mountains/anvil/snowyforest)
 "iq" = (
 /obj/machinery/light/fueled/torchholder,
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/under/mountains/anvil/lower/building)
 "ir" = (
 /obj/item/natural/rock/random_ore,
@@ -563,7 +563,7 @@
 /turf/open/floor/dirt,
 /area/under/mountains/anvil/lower)
 "iE" = (
-/turf/closed/wall/mineral/roofwall/middle,
+/turf/closed/wall/mineral/wood/roofwall/middle,
 /area/outdoors/mountains/anvil/snowyforest)
 "iJ" = (
 /obj/machinery/light/fueled/torchholder{
@@ -579,7 +579,7 @@
 /turf/open/floor/cobblerock,
 /area/under/mountains/anvil/lower/building)
 "iT" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/mountains/anvil/surface/building)
 "iU" = (
 /obj/structure/fluff/railing/tall/palisade{
@@ -593,7 +593,7 @@
 /turf/open/floor/naturalstone,
 /area/under/mountains/anvil/lower)
 "iX" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/lower)
 "jb" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -786,7 +786,7 @@
 /area/under/mountains/anvil/lower/building)
 "mq" = (
 /obj/machinery/light/fueled/torchholder,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/lower)
 "mr" = (
 /obj/machinery/light/fueled/torchholder{
@@ -802,7 +802,7 @@
 /turf/open/floor/blocks,
 /area/under/mountains/anvil/lower/building)
 "mv" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 1
 	},
 /area/indoors/mountains/anvil/surface/building)
@@ -969,11 +969,11 @@
 /turf/open/floor/cobble,
 /area/under/mountains/anvil/lower/building)
 "oy" = (
-/turf/closed/wall/mineral/wooddark/end,
+/turf/closed/wall/mineral/wood/wooddark/end,
 /area/outdoors/mountains/anvil/snowyforest)
 "oA" = (
 /obj/machinery/light/fueled/torchholder,
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/mountains/anvil/lower/building)
 "oB" = (
 /obj/structure/door,
@@ -987,7 +987,7 @@
 /turf/open/floor/cobble,
 /area/under/mountains/anvil/lower/building)
 "oF" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/under/mountains/anvil/lower/building)
 "oI" = (
 /obj/structure/barricade/wooden,
@@ -1014,7 +1014,7 @@
 /turf/open/floor/dirt,
 /area/under/mountains/anvil/lower/building)
 "oX" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/outdoors/mountains/anvil/lavaexposed)
 "oZ" = (
 /mob/living/carbon/human/species/goblin/npc/ambush/cave,
@@ -1282,7 +1282,7 @@
 /turf/open/floor/naturalstone,
 /area/under/mountains/anvil/lower)
 "th" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/mountains/anvil/lower/building)
 "tl" = (
 /obj/structure/fluff/statue/knight/interior,
@@ -1362,7 +1362,7 @@
 /turf/open/floor/naturalstone,
 /area/under/mountains/anvil/lower/building)
 "uu" = (
-/turf/closed/wall/mineral/roofwall/outercorner{
+/turf/closed/wall/mineral/wood/roofwall/outercorner{
 	dir = 4
 	},
 /area/outdoors/mountains/anvil/snowyforest)
@@ -1392,7 +1392,7 @@
 /turf/open/floor/wood/nosmooth/saiga,
 /area/outdoors/mountains/anvil/snowyforest)
 "uQ" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/lower/building)
 "uR" = (
 /obj/structure/door/weak/bolt,
@@ -1550,7 +1550,7 @@
 /turf/open/floor/cobble,
 /area/under/mountains/anvil/lower/building)
 "xw" = (
-/turf/closed/wall/mineral/decowood/vert,
+/turf/closed/wall/mineral/wood/decowood/vert,
 /area/indoors/mountains/anvil/surface/building)
 "xy" = (
 /mob/living/carbon/human/species/goblin{
@@ -1636,7 +1636,7 @@
 /turf/open/floor/snow,
 /area/under/mountains/anvil/lower)
 "yH" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/indoors/mountains/anvil/surface/building)
 "yJ" = (
 /obj/structure/bed/hay,
@@ -1662,7 +1662,7 @@
 /turf/open/floor/snow/patchy,
 /area/outdoors/mountains/anvil/snowyforest)
 "zg" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/outdoors/mountains/anvil/snowyforest)
 "zq" = (
 /obj/effect/spawner/map_spawner/loot/armor,
@@ -1672,7 +1672,7 @@
 /turf/open/floor/cobblerock,
 /area/outdoors/mountains/anvil/snowyforest)
 "zz" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/outdoors/mountains/anvil/snowyforest)
 "zA" = (
 /obj/structure/table/wood/nice/decorated_alt,
@@ -1881,10 +1881,10 @@
 /area/under/mountains/anvil/lower)
 "Db" = (
 /obj/machinery/light/fueled/torchholder,
-/turf/closed/wall/mineral/decowood/vert,
+/turf/closed/wall/mineral/wood/decowood/vert,
 /area/indoors/mountains/anvil/surface/building)
 "Dc" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/lower/building)
 "Dd" = (
 /obj/structure/flora/newtree/snow,
@@ -1979,7 +1979,7 @@
 /turf/open/floor/blocks,
 /area/under/mountains/anvil/lower/building)
 "Ew" = (
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1
 	},
 /area/under/mountains/anvil/lower/building)
@@ -2014,7 +2014,7 @@
 /turf/open/floor/naturalstone,
 /area/under/mountains/anvil/lower)
 "EY" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/mountains/anvil/lower)
 "Fa" = (
 /obj/effect/decal/cleanable/blood/gibs/limb{
@@ -2039,7 +2039,7 @@
 /turf/open/floor/tile/tilerg,
 /area/outdoors/mountains/anvil/snowyforest)
 "FS" = (
-/turf/closed/wall/mineral/wooddark/end,
+/turf/closed/wall/mineral/wood/wooddark/end,
 /area/indoors/mountains/anvil/surface/building)
 "FV" = (
 /obj/structure/bed/inn,
@@ -2136,7 +2136,7 @@
 /turf/closed/mineral/bedrock,
 /area/outdoors/mountains/anvil/snowyforest)
 "Hn" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/under/mountains/anvil/lower)
 "Ho" = (
 /obj/structure/fluff/railing/wood{
@@ -2253,7 +2253,7 @@
 /area/under/mountains/anvil/lower/building)
 "Ji" = (
 /obj/machinery/light/fueled/torchholder,
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/lower/building)
 "Jj" = (
 /obj/effect/decal/cleanable/blood/gibs/limb{
@@ -2266,7 +2266,7 @@
 /turf/open/floor/dirt,
 /area/outdoors/mountains/anvil/snowyforest)
 "Jm" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/mountains/anvil/lower/building)
 "Jp" = (
 /obj/effect/decal/cleanable/ash,
@@ -2348,7 +2348,7 @@
 /turf/closed/mineral/bedrock,
 /area/outdoors/mountains/anvil/snowyforest)
 "KD" = (
-/turf/closed/wall/mineral/roofwall/center,
+/turf/closed/wall/mineral/wood/roofwall/center,
 /area/outdoors/mountains/anvil/snowyforest)
 "KG" = (
 /mob/living/carbon/human/species/skeleton/npc/peasant,
@@ -2495,7 +2495,7 @@
 /turf/open/floor/naturalstone,
 /area/under/mountains/anvil/lower)
 "MD" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/outdoors/mountains/anvil/snowyforest)
 "ME" = (
 /obj/effect/spawner/map_spawner/loot/armor,
@@ -2546,7 +2546,7 @@
 /turf/closed/indestructible/wooddark,
 /area/under/mountains/anvil/lower)
 "Nr" = (
-/turf/closed/wall/mineral/wooddark/window,
+/turf/closed/wall/mineral/wood/wooddark/window,
 /area/under/mountains/anvil/lower/building)
 "Ns" = (
 /obj/effect/decal/cleanable/blood/drip,
@@ -2607,7 +2607,7 @@
 /turf/open/floor/naturalstone,
 /area/under/mountains/anvil/lower/building)
 "NZ" = (
-/turf/closed/wall/mineral/roofwall/middle{
+/turf/closed/wall/mineral/wood/roofwall/middle{
 	dir = 1
 	},
 /area/outdoors/mountains/anvil/snowyforest)
@@ -2628,7 +2628,7 @@
 /turf/open/floor/tile/bfloorz,
 /area/under/mountains/anvil/lower/building)
 "Ox" = (
-/turf/closed/wall/mineral/roofwall/outercorner,
+/turf/closed/wall/mineral/wood/roofwall/outercorner,
 /area/outdoors/mountains/anvil/snowyforest)
 "Oz" = (
 /obj/effect/spawner/map_spawner/loot/rare,
@@ -2652,7 +2652,7 @@
 /turf/open/floor/blocks,
 /area/under/mountains/anvil/lower/building)
 "OK" = (
-/turf/closed/wall/mineral/decostone/long,
+/turf/closed/wall/mineral/stone/decostone/long,
 /area/under/mountains/anvil/lower/building)
 "OM" = (
 /obj/effect/decal/cleanable/blood,
@@ -2674,7 +2674,7 @@
 /turf/open/floor/volcanic,
 /area/outdoors/mountains/anvil/snowyforest)
 "OY" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 4
 	},
 /area/indoors/mountains/anvil/surface/building)
@@ -2952,7 +2952,7 @@
 /turf/open/floor/twig,
 /area/indoors/mountains/anvil/surface/building)
 "Tk" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/mountains/anvil/lower/building)
 "Tm" = (
 /obj/structure/stairs/stone{
@@ -3051,7 +3051,7 @@
 /turf/open/floor/twig,
 /area/indoors/mountains/anvil/surface/building)
 "UO" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/indoors/mountains/anvil/surface/building)
 "UP" = (
 /obj/structure/fluff/statue/knight/interior,
@@ -3163,7 +3163,7 @@
 /turf/open/floor/wood/nosmooth/saiga,
 /area/outdoors/mountains/anvil/snowyforest)
 "WB" = (
-/turf/closed/wall/mineral/roofwall/middle{
+/turf/closed/wall/mineral/wood/roofwall/middle{
 	dir = 8
 	},
 /area/outdoors/mountains/anvil/snowyforest)
@@ -3223,7 +3223,7 @@
 /turf/closed/mineral/random/med,
 /area/under/mountains/anvil/lower)
 "Xv" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/under/mountains/anvil/lower/building)
 "Xw" = (
 /obj/structure/table/wood/plain,
@@ -3386,7 +3386,7 @@
 /turf/open/floor/dirt,
 /area/under/mountains/anvil/lower)
 "Zu" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/mountains/anvil/lower/building)
 "ZC" = (
 /obj/item/weapon/pick/copper,

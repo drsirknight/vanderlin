@@ -174,7 +174,7 @@
 /turf/open/floor/naturalstone,
 /area/outdoors/caves)
 "O" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/outdoors/caves)
 "Q" = (
 /obj/structure/fluff/railing/tall/palisade,

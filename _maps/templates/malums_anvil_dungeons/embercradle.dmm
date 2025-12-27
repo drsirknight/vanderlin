@@ -171,7 +171,7 @@
 /area/under/mountains/anvil/dungeon/lower)
 "dC" = (
 /obj/structure/fluff/walldeco/moon,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon/lower)
 "dE" = (
 /obj/structure/closet/crate/chest/crafted,
@@ -359,7 +359,7 @@
 /area/under/mountains/anvil/dungeon)
 "gj" = (
 /obj/structure/fluff/walldeco/painting/castle,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon)
 "gl" = (
 /obj/structure/door/fancy{
@@ -415,7 +415,7 @@
 /obj/structure/fluff/signage{
 	name = "The Gored Bull Tavern"
 	},
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon)
 "hg" = (
 /obj/structure/fluff/statue/knightalt/r,
@@ -650,7 +650,7 @@
 /area/under/mountains/anvil/dungeon)
 "kl" = (
 /obj/machinery/light/fueled/torchholder,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon/lower)
 "kn" = (
 /obj/structure/flora/grass/pyroclasticflowers,
@@ -758,7 +758,7 @@
 /turf/open/floor/cobblerock,
 /area/under/mountains/anvil/dungeon)
 "kZ" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon)
 "le" = (
 /obj/effect/decal/cleanable/dirt/cobweb{
@@ -820,7 +820,7 @@
 /area/under/mountains/anvil/dungeon)
 "lX" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon/lower)
 "mc" = (
 /turf/open/floor/twig,
@@ -840,7 +840,7 @@
 /area/under/mountains/anvil/dungeon)
 "mf" = (
 /obj/structure/fluff/walldeco/painting/seraphina,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon/lower)
 "mh" = (
 /obj/effect/decal/remains/mole,
@@ -887,7 +887,7 @@
 /area/under/mountains/anvil/dungeon)
 "mC" = (
 /obj/machinery/light/fueled/torchholder,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon)
 "mJ" = (
 /obj/structure/fermentation_keg/beer,
@@ -1922,7 +1922,7 @@
 /obj/item/reagent_containers/glass/bottle/whitewine,
 /obj/item/reagent_containers/glass/bottle/whitewine,
 /obj/item/reagent_containers/glass/bottle/whitewine,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon)
 "Af" = (
 /obj/effect/decal/cleanable/blood/gibs/limb,
@@ -1951,7 +1951,7 @@
 /area/under/mountains/anvil/dungeon/lower)
 "AG" = (
 /obj/machinery/light/fueled/wallfire/candle/r,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon/lower)
 "AH" = (
 /obj/structure/closet/crate/chest/crafted,
@@ -2064,7 +2064,7 @@
 /area/under/mountains/anvil/dungeon/lower)
 "Cb" = (
 /obj/structure/fluff/walldeco/moon,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon)
 "Cd" = (
 /obj/structure/chair/stool,
@@ -2102,7 +2102,7 @@
 /turf/open/floor/cobble,
 /area/under/mountains/anvil/dungeon/lower)
 "CO" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/mountains/anvil/dungeon)
 "CW" = (
 /obj/item/clothing/head/helmet/heavy/sinistar,
@@ -2170,7 +2170,7 @@
 /area/under/mountains/anvil/dungeon/lower)
 "DP" = (
 /obj/structure/fluff/walldeco/painting/crown,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon)
 "DS" = (
 /obj/structure/rack/shelf/big,
@@ -2322,17 +2322,17 @@
 /obj/item/reagent_containers/glass/bottle/redwine,
 /obj/item/reagent_containers/glass/bottle/redwine,
 /obj/item/reagent_containers/glass/bottle/redwine,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon)
 "FM" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon/lower)
 "FQ" = (
 /obj/structure/fluff/walldeco/wantedposter{
 	pixel_x = -32;
 	pixel_y = 0
 	},
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon)
 "FT" = (
 /obj/machinery/light/fueled/hearth,
@@ -2391,7 +2391,7 @@
 /area/under/mountains/anvil/dungeon/lower)
 "Gw" = (
 /obj/structure/fluff/walldeco/painting,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon/lower)
 "GG" = (
 /obj/structure/flora/grass,
@@ -2495,7 +2495,7 @@
 /obj/item/flint{
 	pixel_y = 40
 	},
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon)
 "HS" = (
 /obj/structure/rack/shelf/biggest,
@@ -2597,7 +2597,7 @@
 /area/under/mountains/anvil/dungeon/lower)
 "IL" = (
 /obj/structure/fluff/walldeco/painting/queen,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon/lower)
 "IN" = (
 /obj/structure/rack,
@@ -2947,7 +2947,7 @@
 /area/under/mountains/anvil/dungeon)
 "MP" = (
 /obj/machinery/light/fueled/wallfire/candle/r,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon)
 "MS" = (
 /obj/effect/decal/cleanable/blood,
@@ -3092,7 +3092,7 @@
 "OQ" = (
 /obj/machinery/light/fueled/torchholder,
 /obj/structure/fluff/walldeco/moon,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon)
 "OS" = (
 /obj/effect/decal/remains/cabbit,
@@ -3282,7 +3282,7 @@
 /area/under/mountains/anvil/dungeon/lower)
 "RO" = (
 /obj/structure/fluff/walldeco/painting/castle,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon/lower)
 "RQ" = (
 /obj/machinery/light/fueled/torchholder/l,
@@ -3398,7 +3398,7 @@
 "Tx" = (
 /obj/structure/fluff/walldeco/moon,
 /obj/machinery/light/fueled/torchholder,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon)
 "Tz" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -3407,7 +3407,7 @@
 /area/under/mountains/anvil/dungeon/lower)
 "TB" = (
 /obj/structure/fluff/walldeco/painting/crown,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon/lower)
 "TG" = (
 /obj/effect/decal/cleanable/blood,
@@ -3556,7 +3556,7 @@
 /area/under/mountains/anvil/dungeon)
 "Va" = (
 /obj/structure/fluff/walldeco/painting,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon)
 "Vb" = (
 /obj/structure/rack/shelf/big,
@@ -3880,7 +3880,7 @@
 	pixel_x = 32;
 	redstone_id = "minotaur_pit"
 	},
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon)
 "Zk" = (
 /obj/effect/decal/cobbleedge{
@@ -3920,7 +3920,7 @@
 /obj/item/reagent_containers/glass/bottle/wine,
 /obj/item/reagent_containers/glass/bottle/wine,
 /obj/item/reagent_containers/glass/bottle/wine,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon)
 "ZR" = (
 /obj/structure/rack,

@@ -98,7 +98,7 @@
 /turf/open/floor/hexstone,
 /area/under/tomb)
 "W" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/tomb)
 "X" = (
 /obj/effect/dungeon_directional_helper/east,

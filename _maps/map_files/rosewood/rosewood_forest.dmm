@@ -1,6 +1,6 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "ab" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/cave)
 "ac" = (
 /obj/structure/flora/hotspring_rocks/small/four,
@@ -232,10 +232,10 @@
 /turf/open/floor/cobble,
 /area/outdoors/woods)
 "dP" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/outdoors/woods)
 "dR" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/outdoors/woods)
 "dW" = (
 /turf/open/floor/cobblerock/snow,
@@ -305,7 +305,7 @@
 /turf/open/floor/grass/cold,
 /area/outdoors/woods)
 "fi" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors)
 "fk" = (
 /obj/structure/fluff/railing/border{
@@ -472,7 +472,7 @@
 /turf/open/floor/blocks,
 /area/indoors)
 "ic" = (
-/turf/closed/wall/mineral/decostone/cand,
+/turf/closed/wall/mineral/stone/decostone/cand,
 /area/outdoors/woods)
 "id" = (
 /turf/closed/mineral/bedrock,
@@ -648,7 +648,7 @@
 /turf/open/floor/dirt,
 /area/outdoors/woods)
 "mp" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/outdoors/woods)
 "mu" = (
 /obj/structure/chair/wood/alt/chair3{
@@ -698,7 +698,7 @@
 /turf/open/transparent/openspace,
 /area/outdoors/mountains)
 "no" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors)
 "nw" = (
 /obj/structure/flora/tree,
@@ -1117,7 +1117,7 @@
 /turf/open/transparent/openspace,
 /area/indoors/cave)
 "vE" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/outdoors/mountains)
 "vY" = (
 /obj/effect/spawner/map_spawner/loot/rare,
@@ -1404,7 +1404,7 @@
 /turf/open/floor/grass/cold,
 /area/outdoors/woods)
 "BD" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/indoors)
 "BE" = (
 /obj/structure/hotspring/border/thirteen,
@@ -1433,7 +1433,7 @@
 /turf/open/floor/naturalstone,
 /area/outdoors/woods)
 "Cv" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/indoors)
 "CK" = (
 /obj/structure/hotspring/border/eight,
@@ -1966,7 +1966,7 @@
 /turf/open/floor/ruinedwood,
 /area/indoors/shelter/woods)
 "NL" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/outdoors/mountains)
 "NO" = (
 /obj/effect/waterfall{
@@ -1984,7 +1984,7 @@
 /turf/open/floor/snow,
 /area/outdoors/woods)
 "Od" = (
-/turf/closed/wall/mineral/decostone/cand,
+/turf/closed/wall/mineral/stone/decostone/cand,
 /area/under/cave)
 "Oi" = (
 /obj/structure/bed/sleepingbag,
@@ -2183,7 +2183,7 @@
 /turf/open/floor/ruinedwood,
 /area/indoors)
 "Rz" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/outdoors/woods)
 "RB" = (
 /obj/structure/fluff/railing/border,
@@ -2336,7 +2336,7 @@
 /turf/open/floor/naturalstone,
 /area/outdoors/woods)
 "Vj" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/outdoors/mountains)
 "Vu" = (
 /obj/machinery/light/fueled/hearth,
@@ -2351,7 +2351,7 @@
 /turf/open/floor/underworld/road,
 /area/outdoors/woods)
 "VA" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/indoors)
 "VF" = (
 /turf/open/transparent/openspace,
@@ -2458,7 +2458,7 @@
 /turf/open/floor/snow/rough,
 /area/outdoors/woods)
 "Yd" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/outdoors/woods)
 "Ys" = (
 /obj/structure/fluff/railing/border{
@@ -2502,7 +2502,7 @@
 /area/outdoors/woods)
 "YZ" = (
 /obj/effect/falling_sakura,
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/shelter/woods)
 "Za" = (
 /mob/living/simple_animal/hostile/retaliate/fae/dryad,
@@ -2539,7 +2539,7 @@
 /turf/open/floor/naturalstone,
 /area/outdoors/woods)
 "Zv" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/shelter/woods)
 "Zw" = (
 /obj/structure/fluff/signage{
@@ -2548,7 +2548,7 @@
 /turf/open/floor/snow,
 /area/outdoors/woods)
 "ZC" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/cave)
 "ZH" = (
 /obj/structure/hotspring/border/twelve,

@@ -4,7 +4,7 @@
 /turf/open/floor/tile/kitchen,
 /area/under/mountains/anvil/dungeon/lower)
 "ai" = (
-/turf/closed/wall/mineral/decostone/long,
+/turf/closed/wall/mineral/stone/decostone/long,
 /area/under/mountains/anvil/dungeon)
 "an" = (
 /obj/structure/door/swing{
@@ -21,7 +21,7 @@
 /turf/open/floor/ruinedwood/spiralfade,
 /area/under/mountains/anvil/dungeon/lower)
 "as" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/mountains/anvil/dungeon)
 "av" = (
 /mob/living/simple_animal/hostile/retaliate/mole{
@@ -438,7 +438,7 @@
 /turf/open/floor/churchmarble,
 /area/under/mountains/anvil/dungeon)
 "eq" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/mountains/anvil/dungeon/lower)
 "eA" = (
 /obj/effect/decal/cleanable/blood,
@@ -476,7 +476,7 @@
 /turf/open/water,
 /area/under/mountains/anvil/dungeon/lower)
 "eU" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/under/mountains/anvil/dungeon)
 "eY" = (
 /obj/structure/rack/shelf/big,
@@ -573,7 +573,7 @@
 /turf/open/floor/tile/kitchen,
 /area/under/mountains/anvil/dungeon/lower)
 "fZ" = (
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1
 	},
 /area/under/mountains/anvil/dungeon/lower)
@@ -726,13 +726,13 @@
 /turf/open/floor/ruinedwood/spiralfade,
 /area/under/mountains/anvil/dungeon/lower)
 "iD" = (
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1;
 	max_integrity = 4000
 	},
 /area/under/mountains/anvil/dungeon/lower)
 "iF" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/mountains/anvil/dungeon)
 "iM" = (
 /obj/structure/door/violet,
@@ -743,7 +743,7 @@
 /turf/open/floor/ruinedwood,
 /area/under/mountains/anvil/dungeon/lower)
 "iZ" = (
-/turf/closed/wall/mineral/decostone{
+/turf/closed/wall/mineral/stone/decostone{
 	max_integrity = 4000
 	},
 /area/under/mountains/anvil/dungeon/lower)
@@ -936,7 +936,7 @@
 /turf/open/floor/ruinedwood,
 /area/under/mountains/anvil/dungeon/lower)
 "md" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/under/mountains/anvil/dungeon/lower)
 "mk" = (
 /obj/structure/fluff/railing/border{
@@ -974,7 +974,7 @@
 /turf/open/floor/ruinedwood/spiralfade,
 /area/under/mountains/anvil/dungeon)
 "mQ" = (
-/turf/closed/wall/mineral/decostone{
+/turf/closed/wall/mineral/stone/decostone{
 	priority_overlays = 1
 	},
 /area/under/mountains/anvil/dungeon/lower)
@@ -1072,7 +1072,7 @@
 /turf/open/floor/ruinedwood/spiralfade,
 /area/under/mountains/anvil/dungeon)
 "nU" = (
-/turf/closed/wall/mineral/decostone{
+/turf/closed/wall/mineral/stone/decostone{
 	wallclimb = 1;
 	climbdiff = 4
 	},
@@ -1192,7 +1192,7 @@
 /turf/open/floor/churchmarble,
 /area/under/mountains/anvil/dungeon)
 "qh" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/mountains/anvil/dungeon/lower)
 "ql" = (
 /turf/open/water/swamp,
@@ -1219,7 +1219,7 @@
 /turf/open/floor/churchrough,
 /area/under/mountains/anvil/dungeon/lower)
 "qB" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/mountains/anvil/dungeon/lower)
 "qG" = (
 /obj/effect/decal/cleanable/blood/tracks{
@@ -1238,7 +1238,7 @@
 /turf/open/floor/churchmarble,
 /area/under/mountains/anvil/dungeon)
 "qN" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/under/mountains/anvil/dungeon)
 "qO" = (
 /mob/living/carbon/human/species/goblin/npc/hell,
@@ -1903,7 +1903,7 @@
 /area/under/mountains/anvil/dungeon/lower)
 "AH" = (
 /obj/item/dmusicbox,
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon/lower)
 "AS" = (
 /obj/structure/table/wood/large/corner{
@@ -2019,7 +2019,7 @@
 /turf/open/floor/naturalstone,
 /area/under/mountains/anvil/dungeon)
 "Cz" = (
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	max_integrity = 4000
 	},
 /area/under/mountains/anvil/dungeon/lower)
@@ -2070,7 +2070,7 @@
 /turf/open/floor/church,
 /area/under/mountains/anvil/dungeon/lower)
 "Dm" = (
-/turf/closed/wall/mineral/decostone/long,
+/turf/closed/wall/mineral/stone/decostone/long,
 /area/under/mountains/anvil/dungeon/lower)
 "Do" = (
 /obj/structure/closet/crate/chest/crate,
@@ -2268,7 +2268,7 @@
 /turf/open/floor/naturalstone,
 /area/under/mountains/anvil/dungeon/lower)
 "FI" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon)
 "FK" = (
 /obj/structure/closet/crate/crafted_closet/inn,
@@ -2285,7 +2285,7 @@
 /turf/open/floor/church,
 /area/under/mountains/anvil/dungeon/lower)
 "FU" = (
-/turf/closed/wall/mineral/decostone/long{
+/turf/closed/wall/mineral/stone/decostone/long{
 	dir = 1
 	},
 /area/under/mountains/anvil/dungeon)
@@ -2608,7 +2608,7 @@
 	},
 /area/under/mountains/anvil/dungeon/lower)
 "KX" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/mountains/anvil/dungeon)
 "La" = (
 /obj/item/natural/rock{
@@ -2624,7 +2624,7 @@
 /turf/open/floor/churchmarble,
 /area/under/mountains/anvil/dungeon)
 "Li" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/under/mountains/anvil/dungeon)
 "Lj" = (
 /obj/structure/door/fancy,
@@ -2687,7 +2687,7 @@
 /turf/open/floor/naturalstone,
 /area/under/mountains/anvil/dungeon)
 "LS" = (
-/turf/closed/wall/mineral/decostone{
+/turf/closed/wall/mineral/stone/decostone{
 	priority_overlays = 1
 	},
 /area/under/mountains/anvil/dungeon)
@@ -3117,7 +3117,7 @@
 /obj/structure/wallladder{
 	dir = 1
 	},
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/mountains/anvil/dungeon/lower)
 "Th" = (
 /obj/structure/closet/crate/drawer,
@@ -3424,7 +3424,7 @@
 /turf/open/floor/ruinedwood/spiralfade,
 /area/under/mountains/anvil/dungeon)
 "Xf" = (
-/turf/closed/wall/mineral/stonebrick,
+/turf/closed/wall/mineral/stone/stonebrick,
 /area/under/mountains/anvil/dungeon/lower)
 "Xi" = (
 /obj/structure/rack,

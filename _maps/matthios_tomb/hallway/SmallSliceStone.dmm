@@ -5,10 +5,10 @@
 /turf/open/floor/cobblerock,
 /area/under/tomb)
 "e" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/tomb)
 "o" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/tomb)
 "K" = (
 /turf/open/floor/cobblerock,

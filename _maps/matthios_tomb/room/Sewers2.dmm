@@ -56,7 +56,7 @@
 /turf/open/transparent/openspace,
 /area/under/tomb/sewer)
 "aW" = (
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/under/tomb/sewer)
 "aZ" = (
 /obj/structure/fluff/walldeco/chains,

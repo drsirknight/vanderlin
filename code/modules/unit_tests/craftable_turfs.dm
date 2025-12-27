@@ -38,10 +38,10 @@
 		/turf/template_noop,
 		/turf/closed/wall/mineral/underbrick/fake_world,
 		/turf/closed/wall/mineral,
-		/turf/closed/wall/mineral/stonebrick/reddish,
-		/turf/closed/wall/mineral/decostone/cand/reddish,
+		/turf/closed/wall/mineral/stone/stonebrick/reddish,
+		/turf/closed/wall/mineral/stone/decostone/cand/reddish,
 		/obj/structure/stairs/stone/reddish,
-		/turf/closed/wall/mineral/roofwall,
+		/turf/closed/wall/mineral/wood/roofwall,
 		/turf/closed/wall/mineral/abyssal,
 		/turf/closed/wall/mineral/desert_soapstone,
 		/turf/open/floor/cracked_earth,
@@ -54,7 +54,7 @@
 	+ typesof(/turf/open/floor/sand) \
 	+ typesof(/turf/open/floor/abyss_tile) \
 	+ typesof(/turf/closed/indestructible) \
-	+ typesof(/turf/closed/wall/mineral/decostone/fluffstone) \
+	+ typesof(/turf/closed/wall/mineral/stone/decostone/fluffstone) \
 	+ typesof(/turf/open/floor/plasteel/maniac) \
 	+ typesof(/turf/closed/mineral) \
 	+ typesof(/turf/open/floor/underworld) \

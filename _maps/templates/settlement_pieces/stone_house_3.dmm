@@ -35,7 +35,7 @@
 /turf/open/floor/ruinedwood/turned/darker,
 /area/indoors/shelter)
 "m" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/shelter)
 "o" = (
 /obj/structure/window/openclose{
@@ -63,7 +63,7 @@
 /area/indoors/shelter)
 "s" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -104,7 +104,7 @@
 /turf/open/floor/ruinedwood/turned/darker,
 /area/indoors/shelter)
 "G" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -121,13 +121,13 @@
 /turf/open/floor/ruinedwood/turned/darker,
 /area/indoors/shelter)
 "N" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/shelter)
 "Q" = (
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 5
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},

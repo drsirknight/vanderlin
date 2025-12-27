@@ -18,7 +18,7 @@
 /turf/open/floor/dirt,
 /area/outdoors/bog)
 "f" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/outdoors/bog)
 "g" = (
 /mob/living/simple_animal/hostile/retaliate/bigrat,

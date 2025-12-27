@@ -10,7 +10,7 @@
 /turf/open/floor/dirt/road,
 /area/under/tomb)
 "k" = (
-/turf/closed/wall/mineral/decostone/fluffstone/reddish,
+/turf/closed/wall/mineral/stone/decostone/fluffstone/reddish,
 /area/under/tomb)
 "o" = (
 /obj/machinery/light/fueled/firebowl,

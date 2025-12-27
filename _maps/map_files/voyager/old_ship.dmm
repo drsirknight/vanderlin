@@ -86,7 +86,7 @@
 /area)
 "ik" = (
 /obj/structure/fake_machine/vendor,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area)
 "iT" = (
 /obj/structure/fake_machine/atm,
@@ -248,7 +248,7 @@
 /area)
 "Ad" = (
 /obj/structure/fake_machine/merchantvend,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area)
 "Ah" = (
 /obj/structure/fluff/railing/border{
@@ -508,7 +508,7 @@
 /turf/open/transparent/openspace,
 /area)
 "XS" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area)
 "YP" = (
 /obj/structure/closet/crate/chest/wicker,

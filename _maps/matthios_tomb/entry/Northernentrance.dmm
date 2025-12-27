@@ -24,7 +24,7 @@
 /turf/open/floor/hexstone,
 /area/under/tomb/indoors)
 "fk" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/tomb/indoors)
 "fS" = (
 /turf/closed/wall/mineral/tent,
@@ -51,7 +51,7 @@
 /turf/open/floor/dirt,
 /area/under/tomb)
 "iX" = (
-/turf/closed/wall/mineral/stone/window/moss,
+/turf/closed/wall/mineral/stone/cobble/window/moss,
 /area/under/tomb/indoors)
 "jq" = (
 /obj/structure/wallladder{
@@ -183,7 +183,7 @@
 /turf/open/floor/hexstone,
 /area/under/tomb)
 "wj" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/tomb/indoors)
 "yl" = (
 /obj/structure/table/church,
@@ -249,10 +249,10 @@
 /turf/open/floor/hexstone,
 /area/under/tomb)
 "HF" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/tomb)
 "HL" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/under/tomb/indoors)
 "JW" = (
 /obj/structure/fluff/railing/border{

@@ -10,7 +10,7 @@
 /turf/open/floor/grass/red,
 /area/under/tomb/cave/lava)
 "aI" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/tomb/cave/lava)
 "be" = (
 /turf/closed/mineral/bedrock,
@@ -24,7 +24,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/under/tomb/indoors/magic)
 "cx" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/under/tomb/indoors/magic)
 "cF" = (
 /turf/open/floor/dirt,
@@ -89,7 +89,7 @@
 /turf/open/floor/carpet/royalblack,
 /area/under/tomb/indoors)
 "ho" = (
-/turf/closed/wall/mineral/stone/window,
+/turf/closed/wall/mineral/stone/cobble/window,
 /area/under/tomb/indoors)
 "id" = (
 /obj/structure/fluff/walldeco/church/line,
@@ -510,7 +510,7 @@
 /turf/open/floor/grass/red,
 /area/under/tomb/cave/lava)
 "GA" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/tomb/indoors)
 "GH" = (
 /turf/open/floor/grass/red,
@@ -557,7 +557,7 @@
 /turf/open/floor/hexstone,
 /area/under/tomb/cave/lava)
 "Jr" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/tomb/indoors/magic)
 "Kc" = (
 /obj/effect/decal/cleanable/sigil/NW,
@@ -659,7 +659,7 @@
 /turf/open/floor/cobble,
 /area/under/tomb/cave/lava)
 "Sd" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/tomb/cave/lava)
 "So" = (
 /obj/structure/fluff/railing/border{

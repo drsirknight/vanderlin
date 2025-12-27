@@ -3,7 +3,7 @@
 /turf/open/transparent/openspace,
 /area/under/tomb/cave/lava)
 "b" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/tomb/cave/lava)
 "c" = (
 /obj/structure/flora/newtree/scorched,

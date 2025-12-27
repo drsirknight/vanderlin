@@ -69,7 +69,7 @@
 /obj/structure/fluff/walldeco/med,
 /obj/structure/trap/chill,
 /obj/effect/decal/cleanable/blood/footprints,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/tomb/indoors)
 "bj" = (
 /obj/structure/fluff/railing/border{
@@ -368,7 +368,7 @@
 /turf/open/floor/ruinedwood/darker,
 /area/under/tomb/indoors)
 "jn" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/tomb/indoors)
 "jo" = (
 /obj/structure/flora/grass/water,
@@ -548,7 +548,7 @@
 /obj/structure/lever/hidden{
 	redstone_id = "Ship1"
 	},
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/tomb/indoors)
 "oi" = (
 /obj/effect/decal/cleanable/blood/gibs/up,
@@ -582,7 +582,7 @@
 /area/under/tomb/indoors)
 "oC" = (
 /obj/structure/fluff/walldeco/painting/crown,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/tomb/indoors)
 "oN" = (
 /obj/structure/window/openclose{
@@ -671,7 +671,7 @@
 	redstone_id = "Ship1";
 	floor_turf = /turf/open/floor/ruinedwood
 	},
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/tomb/indoors)
 "rC" = (
 /obj/structure/closet/crate/chest/old_crate,
@@ -709,7 +709,7 @@
 /area/under/tomb/indoors)
 "sS" = (
 /obj/machinery/light/fueled/wallfire/candle,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/tomb/indoors)
 "tc" = (
 /obj/structure/statue/bone/rib,
@@ -1069,7 +1069,7 @@
 /turf/open/floor/ruinedwood/darker,
 /area/under/tomb/indoors)
 "Bt" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/tomb/lake)
 "BI" = (
 /obj/structure/closet/crate/chest/old_crate,
@@ -1118,7 +1118,7 @@
 /area/under/tomb/indoors)
 "Dn" = (
 /obj/structure/fluff/walldeco/med3,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/tomb/indoors)
 "Dx" = (
 /obj/structure/bed/wool/double,
@@ -1310,7 +1310,7 @@
 /turf/closed/indestructible/wooddark/hull,
 /area/under/tomb/indoors)
 "IS" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/under/tomb/cave/wet)
 "IV" = (
 /obj/structure/fluff/railing/border{

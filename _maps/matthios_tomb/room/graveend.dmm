@@ -45,7 +45,7 @@
 /turf/open/floor/hexstone,
 /area/under/tomb)
 "aO" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/tomb)
 "aR" = (
 /obj/structure/table/wood/plain/alt,

@@ -119,7 +119,7 @@
 /turf/open/floor/cobblerock,
 /area/outdoors/mountains/decap)
 "ax" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors)
 "ay" = (
 /obj/structure/table/wood{
@@ -1005,7 +1005,7 @@
 /turf/open/floor/cobble,
 /area/indoors)
 "cO" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/outdoors/mountains/decap)
 "cP" = (
 /obj/machinery/light/fueled/torchholder/hotspring/standing{
@@ -1151,7 +1151,7 @@
 	override_floor = 1;
 	floor_turf = /turf/open/floor/tile/masonic/inverted
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/town/basement)
 "eO" = (
 /obj/machinery/anvil,
@@ -1419,10 +1419,10 @@
 /area/indoors/town/manor)
 "jM" = (
 /obj/machinery/light/fueled/wallfire/candle,
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/town/basement)
 "jN" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/town/manor)
 "jV" = (
 /obj/structure/rotation_piece,
@@ -1645,7 +1645,7 @@
 /turf/open/floor/wood,
 /area/indoors/town/manor)
 "ou" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/outdoors)
 "oB" = (
 /obj/structure/window/openclose{
@@ -1958,7 +1958,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "hd1"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/town/basement)
 "rj" = (
 /obj/structure/minecart_rail{
@@ -2035,7 +2035,7 @@
 /obj/machinery/light/fueled/wallfire/candle{
 	pixel_y = -32
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "sZ" = (
 /obj/structure/essence_node/rare,
@@ -2156,7 +2156,7 @@
 /obj/structure/lever/hidden/keep{
 	redstone_id = "hd2"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/town/basement)
 "uL" = (
 /obj/structure/hotspring/border/two,
@@ -2265,7 +2265,7 @@
 /area/indoors)
 "xA" = (
 /obj/structure/fake_machine/steward,
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/indoors/town/manor)
 "xB" = (
 /mob/living/simple_animal/hostile/retaliate/banker,
@@ -2363,7 +2363,7 @@
 	pixel_x = 8;
 	pixel_y = 10
 	},
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors)
 "zF" = (
 /obj/structure/hotspring/border/eleven,
@@ -2467,13 +2467,13 @@
 /area/outdoors)
 "AQ" = (
 /obj/structure/water_pipe,
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors)
 "Bd" = (
 /obj/structure/lever/hidden/keep{
 	redstone_id = "hd3"
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/town/basement)
 "Be" = (
 /obj/machinery/essence/reservoir/filled/life,
@@ -2740,7 +2740,7 @@
 /turf/open/water/river,
 /area/outdoors/mountains/decap)
 "Fy" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors)
 "FB" = (
 /obj/structure/stairs{
@@ -2810,7 +2810,7 @@
 	override_floor = 1;
 	floor_turf = /turf/open/floor/tile/masonic/inverted
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/town/basement)
 "GO" = (
 /obj/effect/landmark/start/adventurerlate,
@@ -3031,7 +3031,7 @@
 /turf/open/floor/grass/yel,
 /area/outdoors)
 "Lp" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area)
 "Lv" = (
 /turf/open/lava/flow{
@@ -3295,7 +3295,7 @@
 /turf/open/floor/blocks,
 /area/indoors/town/manor)
 "TI" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/town/basement)
 "TJ" = (
 /obj/structure/flora/grass/herb/hypericum,
@@ -3307,7 +3307,7 @@
 	floor_turf = /turf/open/floor/tile/masonic/inverted;
 	override_floor = 1
 	},
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/under/town/basement)
 "TN" = (
 /obj/effect/landmark/house_spot{
@@ -3460,7 +3460,7 @@
 /turf/open/floor/grass/yel,
 /area/outdoors)
 "WL" = (
-/turf/closed/wall/mineral/decorstone,
+/turf/closed/wall/mineral/stone/decorstone,
 /area/indoors/town/manor)
 "WP" = (
 /obj/structure/stairs{
@@ -3528,7 +3528,7 @@
 /turf/open/floor/cobblerock,
 /area/outdoors/mountains/decap)
 "Zs" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/indoors)
 "Zx" = (
 /obj/structure/window/openclose{

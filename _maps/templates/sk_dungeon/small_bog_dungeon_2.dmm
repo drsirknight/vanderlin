@@ -79,7 +79,7 @@
 /turf/open/floor/dirt/road,
 /area/outdoors/bog)
 "qk" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area/outdoors/bog)
 "rD" = (
 /obj/structure/bed/shit,

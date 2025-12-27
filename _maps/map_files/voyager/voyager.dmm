@@ -109,7 +109,7 @@
 /area/indoors/town/church/chapel)
 "bq" = (
 /obj/structure/fake_machine/vendor/inn,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/ship/middeck)
 "bt" = (
 /obj/structure/fluff/railing/border,
@@ -344,17 +344,17 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/ship/topdeck)
 "dO" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/church)
 "dP" = (
-/turf/closed/wall/mineral/wooddark/window,
+/turf/closed/wall/mineral/wood/wooddark/window,
 /area/ship/middeck)
 "dT" = (
 /obj/effect/decal/cobbleedge{
 	dir = 10;
 	icon_state = "cobbleedge-w"
 	},
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/ship/middeck)
 "dU" = (
 /obj/structure/chair/wood{
@@ -666,7 +666,7 @@
 /turf/open/floor/twig,
 /area/ship/middeck)
 "gH" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/ship/shipbrig)
 "gL" = (
 /obj/structure/fluff/railing/border,
@@ -920,7 +920,7 @@
 /turf/closed/sea_fog,
 /area/outdoors/beach)
 "iR" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/ship/middeck)
 "iW" = (
 /obj/structure/table/wood{
@@ -1410,7 +1410,7 @@
 /turf/open/floor/herringbone,
 /area/ship/middeck)
 "nj" = (
-/turf/closed/wall/mineral/decowood/vert,
+/turf/closed/wall/mineral/wood/decowood/vert,
 /area/ship/middeck)
 "nk" = (
 /obj/structure/closet/crate/drawer/inn,
@@ -1763,7 +1763,7 @@
 	},
 /area/ship/middeck)
 "qu" = (
-/turf/closed/wall/mineral/wooddark/window,
+/turf/closed/wall/mineral/wood/wooddark/window,
 /area/indoors/town/church)
 "qw" = (
 /obj/structure/plank{
@@ -1840,7 +1840,7 @@
 /turf/open/floor/tile/checker,
 /area/indoors/town/vault)
 "rb" = (
-/turf/closed/wall/mineral/wooddark/horizontal,
+/turf/closed/wall/mineral/wood/wooddark/horizontal,
 /area/ship/nobledeck)
 "re" = (
 /obj/machinery/light/fueled/torchholder{
@@ -1927,7 +1927,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/ship/middeck)
 "rK" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 8
 	},
 /area/ship/middeck)
@@ -2157,7 +2157,7 @@
 /turf/open/water/ocean/deep,
 /area/outdoors/beach)
 "tL" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/ship/middeck)
 "tP" = (
 /obj/structure/fluff/walldeco/bsmith{
@@ -2284,7 +2284,7 @@
 /turf/open/floor/ruinedwood/two,
 /area/ship/nobledeck)
 "vk" = (
-/turf/closed/wall/mineral/wooddark/vertical,
+/turf/closed/wall/mineral/wood/wooddark/vertical,
 /area/ship/nobledeck)
 "vw" = (
 /obj/structure/table/wood{
@@ -2362,7 +2362,7 @@
 /turf/open/floor/hay,
 /area/ship/middeck)
 "wa" = (
-/turf/closed/wall/mineral/wooddark/end,
+/turf/closed/wall/mineral/wood/wooddark/end,
 /area/ship/middeck)
 "wc" = (
 /obj/effect/decal/cobbleedge{
@@ -2959,7 +2959,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/ship/middeck)
 "BS" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 4
 	},
 /area/ship/middeck)
@@ -3540,7 +3540,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/ship/nobledeck)
 "HA" = (
-/turf/closed/wall/mineral/craftstone,
+/turf/closed/wall/mineral/stone/craftstone,
 /area/ship/middeck)
 "HF" = (
 /obj/effect/decal/cobbleedge{
@@ -3647,11 +3647,11 @@
 /turf/open/floor/metal/barograte,
 /area/ship/middeck)
 "Iq" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/church/chapel)
 "Ir" = (
 /obj/structure/fluff/walldeco/psybanner,
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/town/church/chapel)
 "Iu" = (
 /obj/structure/fluff/railing/border{
@@ -3732,7 +3732,7 @@
 /turf/open/floor/ruinedwood/spiral,
 /area/ship/topdeck)
 "IL" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/ship/topdeck)
 "IR" = (
 /turf/open/water/ocean/deep,
@@ -3794,7 +3794,7 @@
 /obj/effect/landmark/start/jester{
 	dir = 4
 	},
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/ship/topdeck)
 "Jq" = (
 /obj/effect/decal/cobbleedge{
@@ -4052,7 +4052,7 @@
 /turf/open/floor/hay,
 /area/ship/middeck)
 "LO" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/ship/nobledeck)
 "LR" = (
 /obj/structure/bars,
@@ -4262,7 +4262,7 @@
 /turf/open/transparent/openspace,
 /area/outdoors/beach)
 "NN" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 1
 	},
 /area/ship/nobledeck)
@@ -4654,7 +4654,7 @@
 /turf/open/floor/ruinedwood/two,
 /area/ship/middeck)
 "Rv" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/indoors/town/church/chapel)
 "RB" = (
 /obj/structure/fluff/railing/border{
@@ -4703,7 +4703,7 @@
 /turf/open/floor/ruinedwood,
 /area/ship/middeck)
 "RK" = (
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/ship/middeck)
 "RM" = (
 /obj/effect/landmark/start/mercenary,
@@ -4841,7 +4841,7 @@
 /turf/open/transparent/openspace,
 /area/outdoors/beach)
 "Tf" = (
-/turf/closed/wall/mineral/wooddark/end,
+/turf/closed/wall/mineral/wood/wooddark/end,
 /area/ship/nobledeck)
 "Th" = (
 /obj/structure/closet/crate/chest/gold,
@@ -5202,7 +5202,7 @@
 /turf/open/floor/carpet/lord/right,
 /area/ship/nobledeck)
 "VT" = (
-/turf/closed/wall/mineral/wooddark/end{
+/turf/closed/wall/mineral/wood/wooddark/end{
 	dir = 1
 	},
 /area/ship/middeck)

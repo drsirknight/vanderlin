@@ -42,7 +42,7 @@
 /area/under/tomb)
 "cJ" = (
 /obj/machinery/light/fueled/torchholder,
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/under/tomb/indoors)
 "dY" = (
 /obj/structure/chair/wood/alt{
@@ -79,15 +79,15 @@
 /turf/open/floor/grass/red,
 /area/under/tomb)
 "fN" = (
-/turf/closed/wall/mineral/decostone/cand/reddish,
+/turf/closed/wall/mineral/stone/decostone/cand/reddish,
 /area/under/tomb/indoors)
 "fS" = (
 /obj/machinery/light/fueled/torchholder,
-/turf/closed/wall/mineral/decostone/cand/reddish,
+/turf/closed/wall/mineral/stone/decostone/cand/reddish,
 /area/under/tomb/indoors)
 "fY" = (
 /obj/structure/fluff/walldeco/med5,
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/under/tomb)
 "gk" = (
 /obj/structure/closet/crate/chest/gold,
@@ -166,7 +166,7 @@
 /area/under/tomb)
 "jW" = (
 /obj/structure/fluff/walldeco/med2,
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/under/tomb)
 "kx" = (
 /obj/structure/chair/wood/alt{
@@ -226,7 +226,7 @@
 /area/under/tomb)
 "oU" = (
 /obj/machinery/light/fueled/torchholder,
-/turf/closed/wall/mineral/decostone/cand/reddish,
+/turf/closed/wall/mineral/stone/decostone/cand/reddish,
 /area/under/tomb)
 "oW" = (
 /obj/machinery/light/fueled/firebowl,
@@ -242,7 +242,7 @@
 /turf/open/floor/blocks/stonered/tiny,
 /area/under/tomb)
 "pB" = (
-/turf/closed/wall/mineral/decostone/cand/reddish,
+/turf/closed/wall/mineral/stone/decostone/cand/reddish,
 /area/under/tomb/indoors/royal)
 "pS" = (
 /obj/effect/decal/cleanable/blood/gibs/down,
@@ -278,7 +278,7 @@
 /area/under/tomb)
 "qV" = (
 /obj/structure/fluff/walldeco/med3,
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/under/tomb/indoors)
 "re" = (
 /turf/open/transparent/openspace,
@@ -327,7 +327,7 @@
 /area/under/tomb/indoors/royal)
 "tI" = (
 /obj/machinery/light/fueled/torchholder,
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/under/tomb)
 "uf" = (
 /obj/effect/decal/cleanable/blood/tracks{
@@ -402,10 +402,10 @@
 /area/under/tomb/indoors)
 "xI" = (
 /obj/machinery/light/fueled/torchholder,
-/turf/closed/wall/mineral/decostone/cand/reddish,
+/turf/closed/wall/mineral/stone/decostone/cand/reddish,
 /area/under/tomb/indoors/royal)
 "xX" = (
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/under/tomb/indoors)
 "yh" = (
 /obj/effect/decal/cleanable/blood/gibs,
@@ -435,7 +435,7 @@
 /area/under/tomb)
 "yy" = (
 /obj/structure/fluff/walldeco/med6,
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/under/tomb)
 "yC" = (
 /obj/effect/dungeon_directional_helper/south,
@@ -516,7 +516,7 @@
 /area/under/tomb/indoors/royal)
 "EG" = (
 /obj/structure/fluff/walldeco/med4,
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/under/tomb)
 "FD" = (
 /obj/structure/fluff/railing/border{
@@ -631,7 +631,7 @@
 /turf/open/floor/tile/checker,
 /area/under/tomb/indoors)
 "LZ" = (
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/under/tomb)
 "Nl" = (
 /turf/open/floor/plasteel/maniac,
@@ -779,7 +779,7 @@
 /area/under/tomb)
 "Sj" = (
 /obj/structure/fluff/walldeco/painting/skull,
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/under/tomb/indoors/royal)
 "SU" = (
 /obj/machinery/light/fueled/torchholder/l,
@@ -871,10 +871,10 @@
 /turf/open/floor/blocks/stonered,
 /area/under/tomb/indoors/royal)
 "Wd" = (
-/turf/closed/wall/mineral/decostone/cand/reddish,
+/turf/closed/wall/mineral/stone/decostone/cand/reddish,
 /area/under/tomb)
 "Wy" = (
-/turf/closed/wall/mineral/stonebrick/reddish,
+/turf/closed/wall/mineral/stone/stonebrick/reddish,
 /area/under/tomb/indoors/royal)
 "WE" = (
 /obj/effect/decal/cleanable/blood,

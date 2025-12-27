@@ -1,13 +1,13 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "bj" = (
-/turf/closed/wall/mineral/wooddark/window,
+/turf/closed/wall/mineral/wood/wooddark/window,
 /area/under/tomb/wilds)
 "bA" = (
 /obj/structure/table/wood/plain,
 /turf/open/floor/ruinedwood/spiralfade,
 /area/under/tomb/indoors/royal)
 "bH" = (
-/turf/closed/wall/mineral/decostone/moss,
+/turf/closed/wall/mineral/stone/decostone/moss,
 /area/under/tomb/indoors/royal)
 "cK" = (
 /obj/structure/fluff/statue/pillar,
@@ -32,7 +32,7 @@
 /turf/open/floor/cobble/alt,
 /area/under/tomb/indoors/royal)
 "dT" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/tomb/indoors/royal)
 "fI" = (
 /obj/structure/closet/crate/crafted_closet,
@@ -87,7 +87,7 @@
 /turf/open/floor/cobble/alt,
 /area/under/tomb/indoors/royal)
 "jI" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/under/tomb/wilds)
 "kf" = (
 /turf/open/floor/blocks,
@@ -137,7 +137,7 @@
 /turf/open/floor/ruinedwood/spiralfade,
 /area/under/tomb/indoors/royal)
 "pJ" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/tomb/wilds)
 "ro" = (
 /obj/structure/door/iron,
@@ -160,7 +160,7 @@
 /turf/open/floor/dirt,
 /area/under/tomb/wilds)
 "tf" = (
-/turf/closed/wall/mineral/decostone/moss/cand,
+/turf/closed/wall/mineral/stone/decostone/moss/cand,
 /area/under/tomb/indoors/royal)
 "tt" = (
 /mob/living/carbon/human/species/skeleton/npc,
@@ -201,7 +201,7 @@
 /turf/open/floor/churchrough,
 /area/under/tomb/indoors/royal)
 "xh" = (
-/turf/closed/wall/mineral/decostone,
+/turf/closed/wall/mineral/stone/decostone,
 /area/under/tomb/indoors/royal)
 "xk" = (
 /obj/structure/door/weak,
@@ -344,7 +344,7 @@
 /area/under/tomb/indoors/royal)
 "Kr" = (
 /obj/machinery/light/fueled/wallfire/candle,
-/turf/closed/wall/mineral/decostone/moss,
+/turf/closed/wall/mineral/stone/decostone/moss,
 /area/under/tomb/indoors/royal)
 "LA" = (
 /obj/item/natural/wood/plank,
@@ -359,7 +359,7 @@
 /obj/effect/mapping_helpers/secret_door_creator{
 	redstone_id = "mlk1"
 	},
-/turf/closed/wall/mineral/decostone/moss,
+/turf/closed/wall/mineral/stone/decostone/moss,
 /area/under/tomb/indoors/royal)
 "NH" = (
 /turf/open/floor/dirt,
@@ -384,7 +384,7 @@
 /obj/machinery/light/fueled/wallfire/candle{
 	pixel_x = -3
 	},
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/under/tomb/wilds)
 "Qv" = (
 /obj/structure/table/stone_small,
@@ -429,7 +429,7 @@
 	redstone_id = "mlk1";
 	pixel_x = null
 	},
-/turf/closed/wall/mineral/decostone/moss,
+/turf/closed/wall/mineral/stone/decostone/moss,
 /area/under/tomb/indoors/royal)
 "UC" = (
 /turf/open/transparent/openspace,

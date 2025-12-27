@@ -10,7 +10,7 @@
 /turf/open/floor/blocks/paving,
 /area)
 "n" = (
-/turf/closed/wall/mineral/wood,
+/turf/closed/wall/mineral/wood/log,
 /area)
 "r" = (
 /turf/closed/splashscreen,

@@ -5,7 +5,7 @@
 /turf/open/floor/cobblerock,
 /area/under/tomb)
 "I" = (
-/turf/closed/wall/mineral/stone/moss,
+/turf/closed/wall/mineral/stone/cobble/moss,
 /area/under/tomb)
 "K" = (
 /turf/open/floor/cobblerock,
@@ -14,7 +14,7 @@
 /turf/open/floor/cobble,
 /area/under/tomb)
 "W" = (
-/turf/closed/wall/mineral/stone,
+/turf/closed/wall/mineral/stone/cobble,
 /area/under/tomb)
 
 (1,1,1) = {"

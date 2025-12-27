@@ -1,6 +1,6 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "a" = (
-/turf/closed/wall/mineral/decowood,
+/turf/closed/wall/mineral/wood/decowood,
 /area/indoors/shelter)
 "e" = (
 /obj/structure/bed/mediocre,
@@ -52,7 +52,7 @@
 /area/indoors/shelter)
 "r" = (
 /obj/structure/fluff/walldeco/vinez/blue,
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -85,7 +85,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 10
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -107,7 +107,7 @@
 /turf/open/transparent/openspace,
 /area/indoors/shelter)
 "F" = (
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},
@@ -154,7 +154,7 @@
 /turf/open/floor/ruinedwood/turned,
 /area/indoors/shelter)
 "R" = (
-/turf/closed/wall/mineral/wooddark,
+/turf/closed/wall/mineral/wood/wooddark,
 /area/indoors/shelter)
 "V" = (
 /obj/machinery/light/fueled/wallfire/candle/l,
@@ -170,7 +170,7 @@
 /obj/structure/fluff/walldeco/vinez/blue{
 	dir = 5
 	},
-/turf/closed/wall/mineral/stonebrick{
+/turf/closed/wall/mineral/stone/stonebrick{
 	wallclimb = 1;
 	climbdiff = 1
 	},

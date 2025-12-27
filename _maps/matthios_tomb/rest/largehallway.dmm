@@ -44,7 +44,7 @@
 /turf/open/floor/ruinedwood/turned/darker,
 /area/under/tomb/indoors)
 "t" = (
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/under/tomb/indoors)
 "v" = (
 /turf/closed/mineral/bedrock,
@@ -70,13 +70,13 @@
 /area/under/tomb/indoors)
 "D" = (
 /obj/structure/fluff/walldeco/vinez,
-/turf/closed/wall/mineral/wooddark/window,
+/turf/closed/wall/mineral/wood/wooddark/window,
 /area/under/tomb/indoors)
 "G" = (
 /turf/open/floor/twig,
 /area/under/tomb/cave)
 "I" = (
-/turf/closed/wall/mineral/wooddark/slitted,
+/turf/closed/wall/mineral/wood/wooddark/slitted,
 /area/under/tomb/cave)
 "R" = (
 /obj/effect/dungeon_directional_helper/west,
