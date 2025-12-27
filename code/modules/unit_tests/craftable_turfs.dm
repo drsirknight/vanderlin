@@ -44,6 +44,8 @@
 		/turf/closed/wall/mineral/wood/roofwall,
 		/turf/closed/wall/mineral/abyssal,
 		/turf/closed/wall/mineral/desert_soapstone,
+		/turf/closed/wall/mineral/wood,
+		/turf/closed/wall/mineral/stone,
 		/turf/open/floor/cracked_earth,
 		/turf/open/floor/flesh,
 		/turf/open/dungeon_trap,
