@@ -59,7 +59,6 @@
 	icon_state = MAP_SWITCH("stone", "stone_moss_red")
 
 
-
 /turf/closed/wall/mineral/stone/decorstone
 	name = "decorated stone wall"
 	desc = "The mason did an excellent job etching details into this wall."
@@ -142,7 +141,7 @@
 	neighborlay = "dirtedge"
 	above_floor = /turf/open/floor/ruinedwood
 	baseturfs = /turf/open/floor/ruinedwood
-	sheet_type = /obj/item/grown/log/tree/lumber
+	sheet_type = /obj/item/grown/log/tree
 
 /turf/closed/wall/mineral/wood/log
 	name = "wooden wall"
@@ -333,7 +332,7 @@
 /turf/closed/wall/mineral/stone/decostone/moss/long
 	icon_state = "decostone-l-green"
 
-/turf/closed/wall/mineral/decostone/moss/end
+/turf/closed/wall/mineral/stone/decostone/moss/end
 	icon_state = "decostone-e-green"
 
 /turf/closed/wall/mineral/stone/decostone/moss/cand
@@ -356,7 +355,7 @@
 /turf/closed/wall/mineral/stone/decostone/moss/red
 	icon_state = "decostone-b-red"
 
-/turf/closed/wall/mineral/decostone/moss/red/long
+/turf/closed/wall/mineral/stone/decostone/moss/red/long
 	icon_state = "decostone-l-red"
 
 /turf/closed/wall/mineral/stone/decostone/moss/red/end
