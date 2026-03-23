@@ -150,6 +150,21 @@
 		return
 	REMOVE_TRAIT(owner, TRAIT_PARTIAL_DEAF, "[type]")
 
+/datum/quirk/vice/quiet_voice
+	name = "Quiet Voice"
+	desc = "You can only speak in whispers."
+	point_value = 2
+
+/datum/quirk/vice/quiet_voice/on_spawn()
+	if(!ishuman(owner))
+		return
+	ADD_TRAIT(owner, TRAIT_ALWAYS_WHISPER, "[type]")
+
+/datum/quirk/vice/quiet_voice/on_remove()
+	if(!ishuman(owner))
+		return
+	REMOVE_TRAIT(owner, TRAIT_ALWAYS_WHISPER, "[type]")
+
 /datum/quirk/vice/traumatized
 	name = "Traumatized"
 	desc = "You were an adventurer once, till you took something to the knee. Choose something to be afraid of."
