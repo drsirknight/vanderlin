@@ -129,8 +129,8 @@
 	#define SPEECH_LANGUAGE 5
 	/* #define SPEECH_SANITIZE 4
 
-	#define SPEECH_IGNORE_SPAM 6
-	#define SPEECH_FORCED 7 */
+	#define SPEECH_IGNORE_SPAM 6 */
+	#define SPEECH_FORCED 7
 /// Called from the base of '/obj/item/bodypart/proc/drop_limb(special)' ()
 #define COMSIG_MOB_DISMEMBER "mob_drop_limb"
 	#define COMPONENT_CANCEL_DISMEMBER (1<<0) //cancel the drop limb

@@ -154,16 +154,27 @@
 	name = "Quiet Voice"
 	desc = "You can only speak in whispers."
 	point_value = 2
+	var/spoken = FALSE
 
 /datum/quirk/vice/quiet_voice/on_spawn()
 	if(!ishuman(owner))
 		return
-	ADD_TRAIT(owner, TRAIT_ALWAYS_WHISPER, "[type]")
+	RegisterSignal(owner, COMSIG_MOB_SAY, PROC_REF(on_say))
 
 /datum/quirk/vice/quiet_voice/on_remove()
 	if(!ishuman(owner))
 		return
-	REMOVE_TRAIT(owner, TRAIT_ALWAYS_WHISPER, "[type]")
+	UnregisterSignal(owner, COMSIG_MOB_SAY)
+
+/datum/quirk/vice/quiet_voice/proc/on_say(mob/source, list/speech_args)
+	SIGNAL_HANDLER
+
+	if(!speech_args[SPEECH_FORCED] && !spoken)
+		spoken = TRUE
+		source.whisper(arglist(speech_args))
+		spoken = FALSE
+		return COMPONENT_SPEECH_CANCEL
+
 
 /datum/quirk/vice/traumatized
 	name = "Traumatized"

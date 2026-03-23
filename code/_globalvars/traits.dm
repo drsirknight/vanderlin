@@ -194,7 +194,6 @@ GLOBAL_LIST_INIT(traits_by_type, list(
 		"Inflexible" = TRAIT_UNDODGING,
 		"Host of the Black Briar" = TRAIT_BRIAR_HOST,
 		"Graceless" = TRAIT_UNPARRYING,
-		"Quiet Voice" = TRAIT_ALWAYS_WHISPER,
 	),
 	/obj/item/bodypart = list(
 		"TRAIT_PARALYSIS" = TRAIT_PARALYSIS

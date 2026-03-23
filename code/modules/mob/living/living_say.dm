@@ -66,8 +66,6 @@
 	var/list/message_mods = list()
 	var/original_message = message
 	message = get_message_mods(message, message_mods)
-	if(HAS_TRAIT(src, TRAIT_ALWAYS_WHISPER))
-		message_mods[WHISPER_MODE] = MODE_WHISPER
 	var/datum/saymode/saymode = SSradio.saymodes[message_mods[RADIO_KEY]]
 
 	if(client)
