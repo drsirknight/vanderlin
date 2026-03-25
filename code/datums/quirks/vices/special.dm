@@ -171,6 +171,7 @@
 
 	if(!speech_args[SPEECH_FORCED] && !spoken)
 		spoken = TRUE
+		speech_args[SPEECH_MESSAGE] = html_decode(speech_args[SPEECH_MESSAGE])
 		source.whisper(arglist(speech_args))
 		spoken = FALSE
 		return COMPONENT_SPEECH_CANCEL
